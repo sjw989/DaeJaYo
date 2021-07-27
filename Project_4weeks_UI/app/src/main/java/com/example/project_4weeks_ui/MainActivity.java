@@ -40,6 +40,7 @@ public class MainActivity extends AppCompatActivity {
         textView7.setMovementMethod(new ScrollingMovementMethod());
         textView8 = findViewById(R.id.textView8);
         textView8.setMovementMethod(new ScrollingMovementMethod());
+
     }
 
 }
