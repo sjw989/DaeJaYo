@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/background"
+    android:orientation="vertical"
+    android:paddingLeft="50dp"
+    android:paddingTop="99dp"
+    android:paddingRight="50dp"
+    android:paddingBottom="50dp">
+
+    <TextView
+        android:id="@+id/textView20"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="- 레시피 -"
+        android:textStyle="bold"
+        android:gravity="center_horizontal"
+        android:textColor="@color/white"
+        android:textSize="30dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="570dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/border"
+                    android:orientation="horizontal"
+                    android:paddingLeft="5dp"
+                    android:paddingTop="5dp"
+                    android:paddingRight="5dp">
+
+                    <ImageView
+                        android:id="@+id/image1"
+                        android:layout_width="105dp"
+                        android:layout_height="105dp"
+                        android:scaleType="fitXY"
+                        app:srcCompat="@drawable/first" />
+
+                    <TextView
+                        android:id="@+id/textView1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:scrollbarAlwaysDrawVerticalTrack="true"
+                        android:scrollbarFadeDuration="0"
+                        android:scrollbars="vertical"
+                        android:text="준비물 : \n 라면 1봉지, 스프 1/2, 대파 한 뿌리, 올리브유 2스푼"
+                        android:textColor="@color/white"
+                        android:textSize="20dp"
+                        android:textStyle="italic" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/border"
+                    android:orientation="horizontal"
+                    android:paddingLeft="5dp"
+                    android:paddingTop="5dp"
+                    android:paddingRight="5dp">
+
+                    <ImageView
+                        android:id="@+id/image2"
+                        android:layout_width="105dp"
+                        android:layout_height="105dp"
+                        android:scaleType="fitXY"
+                        app:srcCompat="@drawable/second" />
+
+                    <TextView
+                        android:id="@+id/textView2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:scrollbars="vertical"
+                        android:text="물을 550ml 넣고 끓인다음 라면과 스프를 넣어주세요"
+                        android:textColor="@color/white"
+                        android:textSize="20dp"
+                        android:textStyle="italic" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/border"
+                    android:orientation="horizontal"
+                    android:paddingLeft="5dp"
+                    android:paddingTop="5dp"
+                    android:paddingRight="5dp">
+
+                    <ImageView
+                        android:id="@+id/image3"
+                        android:layout_width="105dp"
+                        android:layout_height="105dp"
+                        android:scaleType="fitXY"
+                        app:srcCompat="@drawable/third" />
+
+                    <TextView
+                        android:id="@+id/textView3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:scrollbars="vertical"
+                        android:text="살짝 덜 익은 라면 물을 3~4스푼만 남기고 버려주세요. "
+                        android:textColor="@color/white"
+                        android:textSize="20dp"
+                        android:textStyle="italic" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/border"
+                    android:orientation="horizontal"
+                    android:paddingLeft="5dp"
+                    android:paddingTop="5dp"
+                    android:paddingRight="5dp">
+
+                    <ImageView
+                        android:id="@+id/image4"
+                        android:layout_width="105dp"
+                        android:layout_height="105dp"
+                        android:scaleType="fitXY"
+                        app:srcCompat="@drawable/fourth" />
+
+                    <TextView
+                        android:id="@+id/textView4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:scrollbars="vertical"
+                        android:text="팬에 올리브유 or 식용유 2스푼을 올려주세요."
+                        android:textColor="@color/white"
+                        android:textSize="20dp"
+                        android:textStyle="italic" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/border"
+                    android:orientation="horizontal"
+                    android:padding="5dp">
+
+                    <ImageView
+                        android:id="@+id/image5"
+                        android:layout_width="105dp"
+                        android:layout_height="105dp"
+                        android:scaleType="fitXY"
+                        app:srcCompat="@drawable/fifth" />
+
+                    <TextView
+                        android:id="@+id/textView5"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:scrollbars="vertical"
+                        android:text="살짝 덜 익은 라면과 아까 남겨둔 끓는 물 3~4스푼을 함께 넣고 약불에서 볶아주세요."
+                        android:textColor="@color/white"
+                        android:textSize="20dp"
+                        android:textStyle="italic" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/border"
+                    android:orientation="horizontal"
+                    android:paddingLeft="5dp"
+                    android:paddingTop="5dp"
+                    android:paddingRight="5dp">
+
+                    <ImageView
+                        android:id="@+id/image6"
+                        android:layout_width="105dp"
+                        android:layout_height="105dp"
+                        android:scaleType="fitXY"
+                        app:srcCompat="@drawable/sixth" />
+
+                    <TextView
+                        android:id="@+id/textView6"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:scrollbars="vertical"
+                        android:text="다음은 대파를 올리고 향이 날 때까지 볶아주세요."
+                        android:textColor="@color/white"
+                        android:textSize="20dp"
+                        android:textStyle="italic" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/border"
+                    android:orientation="horizontal"
+                    android:padding="5dp">
+
+                    <ImageView
+                        android:id="@+id/image7"
+                        android:layout_width="105dp"
+                        android:layout_height="105dp"
+                        android:scaleType="fitXY"
+                        app:srcCompat="@drawable/seventh" />
+
+                    <TextView
+                        android:id="@+id/textView7"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:scrollbars="vertical"
+                        android:text="다음 라면스프 1/2을 넣고 같이 볶아주세요. 입맛에 따라 스프 양을 조절하시면 됩니다."
+                        android:textColor="@color/white"
+                        android:textSize="20dp"
+                        android:textStyle="italic" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/border"
+                    android:orientation="horizontal"
+                    android:paddingLeft="5dp"
+                    android:paddingTop="5dp"
+                    android:paddingRight="5dp">
+
+                    <ImageView
+                        android:id="@+id/image8"
+                        android:layout_width="105dp"
+                        android:layout_height="105dp"
+                        android:scaleType="fitXY"
+                        app:srcCompat="@drawable/eighth" />
+
+                    <TextView
+                        android:id="@+id/textView8"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:scrollbars="vertical"
+                        android:text="완성 !"
+                        android:textColor="@color/white"
+                        android:textSize="20dp"
+                        android:textStyle="italic" />
+                </LinearLayout>
+
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+
+</LinearLayout>
