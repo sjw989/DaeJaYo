@@ -1,0 +1,3439 @@
+[
+	{
+		"id": 1,
+		"name": "[간단 자취요리] 달달짭짤~ 부타동 만들기",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/19/ccd5b964020db1249156d557a87fdd7d1.jpg",
+		"summary": "안녕하세요 여러분들~!!추석 명절연휴 다들 알차게 보내고 계신가요 :)오늘은 부타동을 만들어봤습니다 !규동(소고기덮밥)은 많이들 들어보셨을텐데 부타동은 아무래도생소하신 분들도 계시죠?달달짭짤하고 계란노른자까지 어우러져서 고소하기까지해요!그럼 지금부터 함께 레시피 알아봅시닷!",
+		"info": {
+			"info1": "1인분",
+			"info2": "30분 이내",
+			"info3": "초급"
+		},
+		"ingre": [
+			{
+				"ingre_name": "돼지고기",
+				"ingre_count": "1",
+				"ingre_unit": "그릇분량"
+			},
+			{
+				"ingre_name": "계란",
+				"ingre_count": "1",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "대파",
+				"ingre_count": "",
+				"ingre_unit": "약간"
+			},
+			{
+				"ingre_name": "간장",
+				"ingre_count": "3",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "맛술",
+				"ingre_count": "2",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "설탕",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "물",
+				"ingre_count": "3",
+				"ingre_unit": "T"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "재료를 준비합니다.돼지고기, 계란, 대파, 간장, 맛술, 설탕, 물",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/19/e974675d501a7940ec85e05f7acf397b1.jpg"
+			},
+			{
+				"txt": "파를 송송 썰어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/19/7ea0b48876f575047e951fd71ed62c701.jpg"
+			},
+			{
+				"txt": "기름 두른 팬에 파를 볶아줘요.약불",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/19/c972e5a3ab257e500361e9491162b0811.jpg"
+			},
+			{
+				"txt": "파가 어느 정도 향이 나면 고기도 넣어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/19/51077c7aec98f24a5d34f86c16646d921.jpg"
+			},
+			{
+				"txt": "고기가 다 익으면 양념을 넣어줍니다.양념 재료 : 간장 3T, 맛술 2T, 설탕 1T, 물 3T",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/19/e1bb50a445f09248268ed3532e3a15131.jpg"
+			},
+			{
+				"txt": "후추도 넣어주고,",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/19/c240c1b4252650791631ba82534c46661.jpg"
+			},
+			{
+				"txt": "양념이 다 배면 끝!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/19/5ef9f4d71cbf64bc888ec61f202e2d2d1.jpg"
+			},
+			{
+				"txt": "밥 위에 고기를 얹은 뒤 노른자 자리를 내고,",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/19/6d21fa87eeae5e8288eac6c26d43e64b1.jpg"
+			},
+			{
+				"txt": "노른자를 올린 후 대파, 깨를 뿌려주면 완성!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/19/82edc1588c30c9bb985d2bf3b69d0c561.jpg"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"name": "[간단 자취요리] 닭가슴살 통조림으로 간단하게 오야코동 만들기",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/31/968966138927b785ff1b5dba5f3e9b671.jpg",
+		"summary": "안녕하세요 여러분 :)오늘은 일식 덮밥인 '오야코동'을 만들어 봤어요~오야코동의 뜻은 오야(부모), 코(자식) 이라는 뜻인데요부모(닭)와 자식(계란)이 한번에 들어간 덮밥이란...뜻이죠 조금 섬뜩하네요ㅋㅋㅋㅋㅋ닭가슴살이나 닭다리살을 이용하는데요~한그릇을 만들자고 닭고기를 구매하기가 조금 애매하죠?그래서 오늘은 간단하게 닭가슴살 통조림으로 간단하고 아주 맛있게 만드는 방법을 알려드릴게요 :)",
+		"info": {
+			"info1": "1인분",
+			"info2": "30분 이내",
+			"info3": "아무나"
+		},
+		"ingre": [
+			{
+				"ingre_name": "닭가슴살통조림",
+				"ingre_count": "1",
+				"ingre_unit": "캔"
+			},
+			{
+				"ingre_name": "계란",
+				"ingre_count": "1",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "양파",
+				"ingre_count": "1/2",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "밥",
+				"ingre_count": "1",
+				"ingre_unit": "공기"
+			},
+			{
+				"ingre_name": "간장",
+				"ingre_count": "2",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "맛술",
+				"ingre_count": "2",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "설탕",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "물200ml(약종이컵1컵)",
+				"ingre_count": "200ml(약 종이컵1컵)",
+				"ingre_unit": "ml(약 종이컵컵)"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "재료를 준비합니다.닭가슴살 통조림 1캔, 계란 1개, 양파 1/2개, 밥 1공기, 간장 2T, 맛술 2T, 설탕 1T, 물 200ml",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/31/9fa5dac332839a3168c5817928bdef6a1.jpg"
+			},
+			{
+				"txt": "우선 양파를 한입 크기로 썰어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/31/b40d6701723ff1459b12ac4ba5c2cafe1.jpg"
+			},
+			{
+				"txt": "계란은 소금 약간 넣고 70%만 섞어줘요!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/31/bc07a4c3e147b6b58e1f4007b682988f1.jpg"
+			},
+			{
+				"txt": "팬에 물을 넣고 다시마를 넣어줍니다. (생략가능) 물이 끓으면 다시마는 건져줍시다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/31/417090483db875f928bb8ead318575521.jpg"
+			},
+			{
+				"txt": "이제 양파와 양념들을 넣어줍시다.중불",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/31/d9fccc5a8af08bf8eed76d335462e4401.jpg"
+			},
+			{
+				"txt": "양파가 살짝 익으면 닭가슴살을 국물까지 넣어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/31/2bec2bdf1b833daf0815cabc6469712b1.jpg"
+			},
+			{
+				"txt": "물이 졸아들면 풀어둔 계란을 부어주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/31/4608f728a4d97d826b7debe4db4ed9531.jpg"
+			},
+			{
+				"txt": "뚜껑 닫고 계란을 60% 정도 익혀줍니다.약불",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/31/8ec157eca3e4e3b664ab1ec680ff7faf1.jpg"
+			},
+			{
+				"txt": "밥 위에 보기 좋게 얹어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/31/614bbae778843c1bb26748a8c99fc9571.jpg"
+			}
+		]
+	},
+	{
+		"id": 3,
+		"name": "[간단 자취요리] 고소함과 짭짤함이 환상적인 구운 참치 주먹밥 만들기",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/11/27/565c69e46198d65ca83eb1ab7033fd1f1.jpg",
+		"summary": "안녕하세요 얌배추들!오늘은 제가 정말 좋아하는 구운 참치 주먹밥입니다.'야끼 오니기리' 라는 일본 음식이 있는데 속 재료를 안 넣기도 하고, 속 재료가 이것저것 바뀌기도 해요! 하지만 정석으로 하면 바르는 소스에 쯔유가 들어가고, 양념이 꽤 들어가서 쉬우면서도 어려운 요리죠!오늘은 양념을 최대한 간소화하고, 한국인이 좋아하는 참치마요를 안에 넣어서 만들어 봤습니다. 정말 맛있어요!",
+		"info": {
+			"info1": "3인분",
+			"info2": "15분 이내",
+			"info3": "아무나"
+		},
+		"ingre": [
+			{
+				"ingre_name": "쌀밥1+1/2공기",
+				"ingre_count": "1+1/2",
+				"ingre_unit": "공기"
+			},
+			{
+				"ingre_name": "참치캔",
+				"ingre_count": "1",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "마요네즈",
+				"ingre_count": "",
+				"ingre_unit": "약간"
+			},
+			{
+				"ingre_name": "간장",
+				"ingre_count": "3",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "맛술",
+				"ingre_count": "3",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "올리고당",
+				"ingre_count": "2",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "물",
+				"ingre_count": "5",
+				"ingre_unit": "T"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "먼저 기름뺀 참치에 마요네즈를 넣고 비벼줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/11/27/52a66e75e0be1e8a9266ca07e87acaf11.png"
+			},
+			{
+				"txt": "양념들과 물을 소량 넣고 약불에서 끓여줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/11/27/20f9b190f14cb57b275e19223373a0031.png"
+			},
+			{
+				"txt": "이정도 농도가 되면 불을 끕니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/11/27/2bc354a85732e38d37e76f92e524f9d81.png"
+			},
+			{
+				"txt": "이제 밥 안에 참치를 넣고 모양을 잡아줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/11/27/a22f881598d5e67665b44d93f2884bc61.png"
+			},
+			{
+				"txt": "기름을 살짝 두르고 주먹밥을 구워줍니다. 앞뒤 한번씩 소스를 발라서 잘 구워줍니다.약불",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/11/27/2984af7ebfe038d47a0a94b53f8e807e1.png"
+			}
+		]
+	},
+	{
+		"id": 4,
+		"name": "[간단 자취요리] 자취생도 만든다! 김밥보다 쉬운 크래미롤, 캘리포니아롤 만들기",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/602cae37bfc473f6c7ec033bf8775ebc1.jpg",
+		"summary": "오늘은 캘리포니아롤 / 크래미롤을 만들어봤어요!이 요리는 좋은점이 이렇게 기본만 알아두시면 위에 토핑을날치알,장어,연어 등등 취향껏 바꾸셔서 다른 롤들도 만들 수 있어요그리고 이 요리는 비교적 재료가 많게 느껴지실 수도 있는데..그래도 비주얼도 너무 좋고 맛도 보장되니까여러분들에게 소개해 드리고 싶어서 최소한으로 줄여본거예요 ㅠㅠ우리도 롤 만들어 먹을 수 있다구요!!!!!!! 히히 :)무한 응용 가능하니까 초밥/롤에 꼭 쓰이는 단촛물(밥에 식초,설탕 소금밑간용) 이나, 마는방법 등을 알아두시고 사용해보세요!특별한 날에도 식탁을 완전~ 빛내줄 요리입니다 :)",
+		"info": {
+			"info1": "2인분",
+			"info2": "60분 이내",
+			"info3": "초급"
+		},
+		"ingre": [
+			{
+				"ingre_name": "밥약",
+				"ingre_count": "2",
+				"ingre_unit": "공기"
+			},
+			{
+				"ingre_name": "김",
+				"ingre_count": "2",
+				"ingre_unit": "장"
+			},
+			{
+				"ingre_name": "오이",
+				"ingre_count": "1",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "크래미(1팩)",
+				"ingre_count": "8",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "마요네즈",
+				"ingre_count": "",
+				"ingre_unit": "약간"
+			},
+			{
+				"ingre_name": "돈가스소스",
+				"ingre_count": "",
+				"ingre_unit": "약간"
+			},
+			{
+				"ingre_name": "식초",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "설탕",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "소금",
+				"ingre_count": "1/3",
+				"ingre_unit": "T"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "재료를 준비합니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/65396c4bb395083711814d30f059434b1.png"
+			},
+			{
+				"txt": "씨를 빼고 오이를 채써는 두 가지 방법으르 알려드릴게요. 첫번째 방법은, 오이를 돌려깍아 씨를 빼주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/ceed354a3cce74829f90bab3626c0f331.png"
+			},
+			{
+				"txt": "돌려깎은 껍질을 펴 채썰어주면 됩니다!롤에는 이렇게 껍질까지 들어가야 색가밍 좋아요 :)",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/8c3221e5343fc48eea46f48b716b6d281.png"
+			},
+			{
+				"txt": "두 번째는 방법은, 씨 부분을 둘러싸고 삼각형 모양으로 자르는 거에요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/59d49a3d2dbc285357f90519504426371.png"
+			},
+			{
+				"txt": "남은 부분을 채썰어 주면 됩니다. 더 편한 방법으로 하세요:)",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/e383da1080eb2404a553a035f37e5ae51.png"
+			},
+			{
+				"txt": "크래미를 손으로 잘게 찢어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/d8b5345f9aee5c20a3e531c8cf9be0801.png"
+			},
+			{
+				"txt": "마요네즈를 촉촉할 만큼 넣고 비벼줍니다!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/742a63cbec08279ad4a99308ce461a1f1.png"
+			},
+			{
+				"txt": "밥에 밑간을 할 단촛물을 만듭시다!식초1T, 설탕1T, 소금1/3T (두배로 만들어서 조금씩 넣어가며 쓰길 추천)",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/b1b6c70d37122a254630ce2abd05648c1.png"
+			},
+			{
+				"txt": "밥에 넣고 섞어주세요 :)비빌땐 숟가락의 날로 잘라주듯 비벼주세요!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/a5d61bba60befd7b732c9b913d87c4a31.png"
+			},
+			{
+				"txt": "김발에 랩이나 비닐팩을 잘라서 올려줍니다",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/ff7a07fa07ac30af073dd75e380cb2291.png"
+			},
+			{
+				"txt": "밥을 얇게 펴주세요손에 물 바르면서 하면 덜 붙어요. 마지막에 물 묻은 손으로 전체를 살짝 눌러 정리해주세요!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/ae7e3a670490cea7ce979994486efc541.png"
+			},
+			{
+				"txt": "이제 김을 뒤집어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/3eae26c134e4691474ac6102a1927fc61.png"
+			},
+			{
+				"txt": "준비한 재료를 듬뿍 넣어주세요",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/42cffe3336f247ac6c981dcd955ee5a11.png"
+			},
+			{
+				"txt": "김발과 비닐을 함께 잡고(중요) 말아줍니다!잡은 비닐이 말려들어다지 않게 조심!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/8c2cf7c24d0d7bf94dbeabef8cc111da1.png"
+			},
+			{
+				"txt": "썰어주세요",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/8a43d2914700d03902cd7d43de4746601.png"
+			},
+			{
+				"txt": "롤 위에 남은 크래미마요를 올려서 완성! 돈까스 소스 뿌려주시면 좋아요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/e1eb96607dde7bece074ff79ef72e93e1.png"
+			}
+		]
+	},
+	{
+		"id": 5,
+		"name": "[간단 자취요리] 삼겹살에 밥 비벼먹자! 삼겹살 비빔밥 만들기 / 삼겹살 덮밥",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/31/50a89dc0c94e62a1540909eacd9641fa1.jpg",
+		"summary": "안녕하세요 구독자님들!!오늘은 삼겹살 비빔밥을 준비했어요 :D삼겹살 덮밥이라고 하지 않고 삼겹살 비빔밥이라고 한 이유는촬영이라 저렇게 위에 예쁘게 올려뒀지만, 사실 이 요리는완성되자마자 밥위에 휙 부어서 슥슥~ 비벼먹는 맛입니다..삼겹살은 그냥 구워먹어도 충분히 맛있으니까바로 구매한 삼겹살 같은 것들은 그냥 구워드시고이 요리는 애매하게 삼겹살이 남았을 때나, 구워먹을려고 사왔을때 조금 남겨서 냉동보관 해두셨다가 해드시면 됩니다특히 냉동실에 조금 오래뒀거나 냉동실 냄새(?)가 배어서 그냥 구워먹기에 약간 애매한 삼겹살들을 처리할때도 엄청 좋아요!!",
+		"info": {
+			"info1": "1인분",
+			"info2": "30분 이내",
+			"info3": "아무나"
+		},
+		"ingre": [
+			{
+				"ingre_name": "삼겹살1+1/2줄",
+				"ingre_count": "1+1/2",
+				"ingre_unit": "줄"
+			},
+			{
+				"ingre_name": "물",
+				"ingre_count": "150",
+				"ingre_unit": "ml"
+			},
+			{
+				"ingre_name": "대파",
+				"ingre_count": "",
+				"ingre_unit": ""
+			},
+			{
+				"ingre_name": "간장",
+				"ingre_count": "3",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "설탕",
+				"ingre_count": "1/2",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "다진마늘",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "재료를 준비한다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/31/99c9c3ecdf2e250fa1b53df7536dc6081.png"
+			},
+			{
+				"txt": "우선 대파를 굵직하게 썰어준다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/31/6bc41771e496e52610de5a63492a11591.png"
+			},
+			{
+				"txt": "삼겹살도 같은 크기로 썰어준다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/31/0651341e12dcfa62839cf21ccbd9c61a1.png"
+			},
+			{
+				"txt": "팬에 삼겹살을 볶는다.중불 ",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/31/cdb302c5ff2b969f3c184360b8777e841.png"
+			},
+			{
+				"txt": "삼겹살에 기름이 나오면 대파를 노릇할때까지 볶는다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/31/4abdfd1b79b85d0821ecb5e1fbe05a3b1.png"
+			},
+			{
+				"txt": "준비한 물과 양념을 넣고 조려준다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/31/342926c3d2b51e9d2a4d733d0a9260ca1.png"
+			},
+			{
+				"txt": "국물이 자작하게 남으면 완성!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/31/3ede7712ea7205445c86b1a4f50db60f1.png"
+			}
+		]
+	},
+	{
+		"id": 6,
+		"name": "[간단 자취요리] 스테이크동 자취버전! 스팸동 만들기 / 스팸돈부리 / 스팸요리",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/22/025b85262a39b42e0d70f9ee2016adc41.jpg",
+		"summary": "안녕하세요 여러분! 씬나는 주말 잘 보내고 계시죠?오늘은 간단하게 먹기 좋은 스팸동을 준비했어요!스테이크동 맛있지만 넘나비쌈. 집에서 못함. 그래서!!!스팸으로 할 수 있는 스팸동을 준비했어요스팸을 쓰실꺼면 마일드를 쓰시는게 좋아요 :)그리고 이요리는 스팸말고 X천미트 같은 조금 맛이 떨어지는 통조림 햄들을 그냥 구워먹기보다 이렇게 만들어드시면 좋아요!곧 추석인데 집에 X천미트 세트 많이 들어오실텐데ㅎㅎㅎ요렇게 드시면 더 맛있게 먹을 수있겠죠?",
+		"info": {
+			"info1": "1인분",
+			"info2": "15분 이내",
+			"info3": "아무나"
+		},
+		"ingre": [
+			{
+				"ingre_name": "통조림햄",
+				"ingre_count": "",
+				"ingre_unit": ""
+			},
+			{
+				"ingre_name": "밥",
+				"ingre_count": "1",
+				"ingre_unit": "공기"
+			},
+			{
+				"ingre_name": "파(생략가능)",
+				"ingre_count": "",
+				"ingre_unit": ""
+			},
+			{
+				"ingre_name": "물",
+				"ingre_count": "100",
+				"ingre_unit": "ml"
+			},
+			{
+				"ingre_name": "간장",
+				"ingre_count": "2",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "맛술",
+				"ingre_count": "2",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "설탕",
+				"ingre_count": "2",
+				"ingre_unit": "T"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "재료를 준비합니다.[재료] 통조림햄, 밥1공기, 파(생략 가능) [양념장] 물100ml, 간장2T, 맛술2T, 설탕2T",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/22/f1be5c8b581454a4db52d09f2d79a15a1.png"
+			},
+			{
+				"txt": "우선 마지막에 올릴 파를 썰어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/22/2f6c1d2a10f185a1c1313804692521221.png"
+			},
+			{
+				"txt": "스팸을 얇게 편 썰어주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/22/5664ecf0963fa4f8a024b98c753dc1ed1.png"
+			},
+			{
+				"txt": "팬에 기름을 두르고 스팸을 구워주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/22/b2dc8263c349c6ccd70bd745af0ddb0d1.png"
+			},
+			{
+				"txt": "이제 물과 분량의 양념을 넣어줍니다.[양념장] 물100ml, 간장2T, 맛술2T, 설탕2T",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/22/02b6b351767e8aa4b6df861b481216521.png"
+			},
+			{
+				"txt": "간이 잘 배도록 앞뒤로 뒤집어 주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/22/e86046c2eb69c1ebeed6a0d4df83efec1.png"
+			},
+			{
+				"txt": "양념이 조금 남았을 때 불을 꺼줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/22/8b7b9b9b2f48713a54c90da2291916cb1.png"
+			},
+			{
+				"txt": "밥 위에 차곡차곡 올려줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/22/51e73529cb9a1a3ae448c2f342b5397e1.png"
+			},
+			{
+				"txt": "파와 깨로 마무리!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/22/8fc98a70e606887d667d7a30c216b7181.png"
+			},
+			{
+				"txt": "스팸동 완성! 스팸 외에 다른 통조림햄을 이용해줘도 좋아요!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/22/a09e1d18b9086b2e7fe9e1ceeec483d41.png"
+			}
+		]
+	},
+	{
+		"id": 7,
+		"name": "[간단 자취요리] 참치캔의 화려한 변신! 참치 비빔밥 만들기 / 참치캔 요리",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/07/258353bca91c7bc18e47aae57ee652481.jpg",
+		"summary": "안녕하세요 :) 신나는 금요일입니다!!!오늘은 추석때 많이 받으셨을 참치캔을 사용한 요리입니다 정말 참치는 찌개에도 전에도 그냥 먹어도 맛있죠?그래서 오늘은 정말 영상..분량이 걱정될정도로 너무 간단하지만완전 맛있는 요리를 참치비빔밥을 소개해 드릴게요 ㅎㅎ",
+		"info": {
+			"info1": "1인분",
+			"info2": "10분 이내",
+			"info3": "아무나"
+		},
+		"ingre": [
+			{
+				"ingre_name": "참치캔",
+				"ingre_count": "1",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "밥",
+				"ingre_count": "1",
+				"ingre_unit": "공기"
+			},
+			{
+				"ingre_name": "집에있는야채",
+				"ingre_count": "",
+				"ingre_unit": "적당량"
+			},
+			{
+				"ingre_name": "초고추장",
+				"ingre_count": "",
+				"ingre_unit": "적당량"
+			},
+			{
+				"ingre_name": "마요네즈",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "참기름",
+				"ingre_count": "",
+				"ingre_unit": "적당량"
+			},
+			{
+				"ingre_name": "고추장",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "설탕",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "식초",
+				"ingre_count": "1/2",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "다진마늘",
+				"ingre_count": "1/2",
+				"ingre_unit": "T"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "재료를 준비합니다.참치캔, 밥, 야채, 초고추장, 마요네즈, 참기름",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/07/553c8f79f3024277ee4c00b20b0d3d911.jpg"
+			},
+			{
+				"txt": "기름 뺀 참치에 마요네즈를 살짝 섞어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/07/0519f3326da906f91208d6561ba2ef241.jpg"
+			},
+			{
+				"txt": "밥을 넣고 집에 있는 아무 야채나 넣어주세요. 상추만 찢어 넣으셔도 맛있습니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/07/0e56eb5af6960d0dcf59e6c2e6b512b81.jpg"
+			},
+			{
+				"txt": "양념해 둔 참치도 올려주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/07/63b7527f4cddadca59da4221651ccc841.jpg"
+			},
+			{
+				"txt": "초고추장을 넣어주세요.초고추장 재료 : 고추장 1T, 설탕 1T, 식초 1/2T, 다진마늘 1/2T",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/07/3f252fb99f5b53f680089c3bb0de8cf41.jpg"
+			},
+			{
+				"txt": "참기름도 솔솔 뿌려줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/07/daa264cc77936c9b35d3318440957c821.jpg"
+			}
+		]
+	},
+	{
+		"id": 8,
+		"name": "[간단 자취요리] 단짠단짠! 고기없이 궁중떡볶이 / 간장떡볶이 만들기",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/31/008adf68d18b9d61d24bac10118ef36f1.jpg",
+		"summary": "구독자님들 다들 설연휴 잘 보내고 계신가요!!오늘의 메뉴는 간장떡볶이/궁중떡볶이 입니다이 메뉴는 사연이 깊은 메뉴인데요...( 밑에 + 사적인 이야기 참고 )고기가 필요한 궁중떡볶이 / 간장떡볶이를고기 대신 어묵으로 대체해서 만들어 봤습니다고기 없어도 맛있습니다 하하하하 :D맵지않아 아기들 간식으로도 엄청 좋겠네요!그리고 오늘 영상이 전체적으로 노란끼가 있어요..제가 카메라를 잘못만졌나봐요.. 찍으면서 화면으로 볼때는 몰랐는데컴퓨터로 옮기니까 아주 노랑노랑하네요..하핳 양해부탁드려요!",
+		"info": {
+			"info1": "1인분",
+			"info2": "30분 이내",
+			"info3": "아무나"
+		},
+		"ingre": [
+			{
+				"ingre_name": "떡",
+				"ingre_count": "400",
+				"ingre_unit": "g"
+			},
+			{
+				"ingre_name": "어묵",
+				"ingre_count": "2",
+				"ingre_unit": "장"
+			},
+			{
+				"ingre_name": "파",
+				"ingre_count": "1",
+				"ingre_unit": "줌"
+			},
+			{
+				"ingre_name": "양파",
+				"ingre_count": "1/2",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "당근",
+				"ingre_count": "1",
+				"ingre_unit": "줌"
+			},
+			{
+				"ingre_name": "간장",
+				"ingre_count": "3",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "굴소스",
+				"ingre_count": "2",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "설탕",
+				"ingre_count": "2",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "다진마늘",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "물",
+				"ingre_count": "300",
+				"ingre_unit": "ml"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "재료를 준비합니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/31/9c88e6b31cde52ab0826193e086327bf1.png"
+			},
+			{
+				"txt": "우선 양파를 굵게 썰어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/31/2813927a0a393539d2e82bc80fc508061.png"
+			},
+			{
+				"txt": "대파도 대팟대팟 썰어주세요>",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/31/aa78f013ecc0a8ae7823e2e83f8991c61.png"
+			},
+			{
+				"txt": "당근도 썰어주세요.당근은 한면을 잘라주면 안정감 있게 썰 수 있어요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/31/e9fc784413912451318c1fe4598ed1cd1.png"
+			},
+			{
+				"txt": "채를 썰어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/31/1e51f7667baf15307a445699245399491.png"
+			},
+			{
+				"txt": "어묵도 손질 해 주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/31/26985f96e9df0fce597bb5118a9f1c821.png"
+			},
+			{
+				"txt": "팬에 기름을 넉넉히 두르고 야채를 볶아주세요중불",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/31/500b9dfa23674b7a7b3ad96a60f3b0f71.png"
+			},
+			{
+				"txt": "물과 양념, 떡과 어묵을 모두 넣어주세요.양념장 : 간장3T, 굴소스2T, 설탕2T, 다진마늘1T, 물300ml",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/31/b1fa2f00d9bd563c8c7a74be2cd1a8671.png"
+			},
+			{
+				"txt": "양념이 90% 완성됐을 때 참기름을 둘러줘요!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/31/fdb7e06ae5116c678264afdffe2409b31.png"
+			},
+			{
+				"txt": "휘리릭 한번 볶으면 완성!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/31/0bb21c669cc01505215190a58b5e124e1.png"
+			}
+		]
+	},
+	{
+		"id": 9,
+		"name": "[간단 자취요리] 쯔유없이! 핵 맛있는 가츠동 만들기 / 돈가스 덮밥",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/11/d893e9cb42200003911fdca7ed525d311.jpg",
+		"summary": "안녕하세요 구독자님들 ♥ 오늘은 가츠동을 만들었어요!몇몇 분들이 요청을 하셔서 찍어 봤는데요~요청해 주신 메뉴들 중 채널 컨셉과 너무 동떨어지지 않는 이상예(과다재료,비싼재료,복잡한요리) 해드리려고 하고 있어요!!가츠동 좋아하시는 분들 많으시죠?근데 가츠동에는 쯔유가 들어가는데 일반 자취생들 집에는 쯔유가 거의 없죠... 그래서 쯔유 없이도 맛있게 가츠동 만들었어요!",
+		"info": {
+			"info1": "1인분",
+			"info2": "15분 이내",
+			"info3": "초급"
+		},
+		"ingre": [
+			{
+				"ingre_name": "돈가스",
+				"ingre_count": "1",
+				"ingre_unit": "장"
+			},
+			{
+				"ingre_name": "밥",
+				"ingre_count": "1",
+				"ingre_unit": "공기"
+			},
+			{
+				"ingre_name": "양파",
+				"ingre_count": "1/2",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "계란",
+				"ingre_count": "1",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "다시마",
+				"ingre_count": "1",
+				"ingre_unit": "장"
+			},
+			{
+				"ingre_name": "간장",
+				"ingre_count": "3",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "맛술",
+				"ingre_count": "2",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "설탕",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "물200ml(종이컵약1.3컵)",
+				"ingre_count": "200ml(종이컵 약1.3컵)",
+				"ingre_unit": "ml(종이컵 약.컵)"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "재료를 준비합니다.[주 재료] 돈가스 1장, 밥 1공기, 양파 1/2개, 계란 1개, 다시마 1장[소스] 간장 3T, 맛술 2T, 설탕 1T, 물 200ml(종이컵 약1.3컵)",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/11/10cd4edd0e50b0a091b7037c7e7694d51.png"
+			},
+			{
+				"txt": "양파와 마지막에 올릴 파를 썰어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/11/2388a64bceea6a444b9ab24eee8048a31.png"
+			},
+			{
+				"txt": "계란은 살짝 덜 섞인 느낌으로 섞어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/11/1c0f24dcfd54b87f2a4af11127c5561e1.png"
+			},
+			{
+				"txt": "물에 다시마를 넣고 끓여줍니다.(찬물부터)",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/11/0fec7e44965a3dd708c25a5f0c8b85a81.png"
+			},
+			{
+				"txt": "물이 끓으면 다시마를 제거하고 간장,맛술,설탕을 넣어줍니다.(상세계량 더보기 클릭)[소스] 간장 3T, 맛술 2T, 설탕 1T, 물 200ml(종이컵 약1.3컵)",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/11/651e41b5755b205702f5b0d41046b0eb1.png"
+			},
+			{
+				"txt": "양파를 넣어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/11/92800eba4ee8b27bce1d4e2c09cdf6ed1.png"
+			},
+			{
+				"txt": "양파가 살짝 익으면 돈까스도 넣어줍니다. (냉동돈까스 사용시 돈가스를 먼저튀겨주기)",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/11/4e321fd612c23fbd36768f94f787c31e1.png"
+			},
+			{
+				"txt": "계란물도 둘러줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/11/5c0187e1272cb5ccc55d795ce29176f41.png"
+			},
+			{
+				"txt": "계란이 70%정도 익으면 불을 끕니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/11/1403577ec40954de0013e5311660db841.png"
+			},
+			{
+				"txt": "밥위에 살포시 예쁘게 얹어주고 마무리로 파를 뿌려주면 완성!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/11/b05c2b76764c5c2c3689b55eb8cca5b41.png"
+			}
+		]
+	},
+	{
+		"id": 10,
+		"name": "[간단 자취요리] 싱크로율 90% 신전 떡볶이 만들기 + 오뎅튀김",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/20/d1bf390859fbe43706888134a4c3e9431.jpg",
+		"summary": "안녕하세요 여러분!! 오늘은 엄청난 영상을 준비했어요요즘 SNS에 핫한 신전 떡볶이 인데요~저도 처음 신전을 먹었을때는 이게뭐지..?했는데 진짜 무한중독....한번 빠지면 헤어나올 수 없어요....ㅎㅎ 아시죠?그래서 집에서 똑같이 한번 만들어 봤습니다이거 양념 똑같이 만든다고 계속 먹어가면서 간보느라고양념만 두그릇은 퍼먹은 것 같습니다...하핳그래도 성공정이어서 기분 좋아요 :)신전 떡볶이 좋아하시는 분들이라면 진짜 꼭! 한번 해보세요그리고 떡은 꼭 밀떡을 사용하세요 그래야 간이 속까지 잘 베고신전떡볶이랑 더더욱 비슷해요 !저는 위메프에서 밀떡 구매했는데 마트에는 잘 없으니, 인터넷이나 소셜커머스 이용해보세요 ㅎㅎ",
+		"info": {
+			"info1": "1인분",
+			"info2": "30분 이내",
+			"info3": "아무나"
+		},
+		"ingre": [
+			{
+				"ingre_name": "밀떡",
+				"ingre_count": "300",
+				"ingre_unit": "g"
+			},
+			{
+				"ingre_name": "일자오뎅",
+				"ingre_count": "",
+				"ingre_unit": ""
+			},
+			{
+				"ingre_name": "모짜렐라치즈",
+				"ingre_count": "",
+				"ingre_unit": "취향껏"
+			},
+			{
+				"ingre_name": "고추장",
+				"ingre_count": "6",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "고춧가루",
+				"ingre_count": "3",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "설탕",
+				"ingre_count": "5",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "간장",
+				"ingre_count": "2",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "카레(매운맛)",
+				"ingre_count": "4",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "후추",
+				"ingre_count": "1/2",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "물",
+				"ingre_count": "700",
+				"ingre_unit": "ml"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "재료를 준비합니다[주재료] 밀떡 300g, 일자오뎅, 모짜렐라치즈 취향껏 [양념장] 고추장 6T, 고춧가루 3T, 설탕 5T, 간장 2T, 카레(매운맛) 4T, 후추 1/2T, 물 700ml",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/20/22fad821ed366824a474accbcf6d077c1.png"
+			},
+			{
+				"txt": "신전의 오뎅튀김을 만들 막대형 어묵을 세로로 한 번 잘라줍니다",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/20/bb774d4f4c06da3629953b339b280f621.png"
+			},
+			{
+				"txt": "팬에 기름을 두르고 어묵을 구워줍니다",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/20/ea57ad1df52765d21713de9ad21a60561.png"
+			},
+			{
+				"txt": "뒤집어가며 노릇노릇 구워줘요",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/20/f6890fe1162c86928840479b8bf511e51.png"
+			},
+			{
+				"txt": "키친타올에 건져줍니다",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/20/4948618df1039ac316437c108be2e87f1.png"
+			},
+			{
+				"txt": "분량의 떡볶이 양념을 모두 넣어줍니다[양념장] 고추장 6T, 고춧가루 3T, 설탕 5T, 간장 2T, 카레(매운맛) 4T, 후추 1/2T, 물 700ml",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/20/d9f49b1332a8b714cdffc32b485056251.png"
+			},
+			{
+				"txt": "분량의 물도 넣어줍니다",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/20/d16a6ce3f96763576312893ecd4496ce1.png"
+			},
+			{
+				"txt": "물이 끓으면 떡을 넣어줍니다",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/20/ba7d164b68dd048b764dee3ab86418321.png"
+			},
+			{
+				"txt": "키포인트! 떡이 익으면 후추를 넣고 졸여줍니다",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/20/18427e267eb519bc4d3e3ed203abd2291.png"
+			},
+			{
+				"txt": "적당한 농도가 되면 완성!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/20/1a1d49ba75f397c245018d3f19b907181.png"
+			},
+			{
+				"txt": "치즈떡볶이가 좋으시면 치즈만 더 추가해주세요",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/20/119f27fca0fd8f8fa2ca230527bfecd51.png"
+			},
+			{
+				"txt": "오뎅튀김도 함께 곁들여 드세요",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/20/cc30d675de37a329cf9149a803feaba21.png"
+			}
+		]
+	},
+	{
+		"id": 11,
+		"name": "[간단 자취요리] 닭가슴살 캔으로 굽네치킨 갈비천왕 치밥 만들기",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/23/736b95a0e1e19b901c93b3fd7c70b8801.jpg",
+		"summary": "안녕하세요 여러분!오늘은 조금은 특별한(?) 요리를 준비했어요요즘 나름 핫한 굽네치킨의 갈비천왕이라는 메뉴가 있는데남은 살과 밥을 비벼먹는 일명 '치밥'이 인기죠?저도 저번에 갈비천왕 리뷰 찍은 뒤에 치밥을 해먹었는데요달달 짭짤하니 꽤 괜찮더라구요 ㅎㅎ!하지만 양도 성에안차고 매번 치밥먹으려고 시켜먹을 순 없죠?그래서 닭가슴살 캔으로 만들어봤어요 :)",
+		"info": {
+			"info1": "1인분",
+			"info2": "30분 이내",
+			"info3": "아무나"
+		},
+		"ingre": [
+			{
+				"ingre_name": "닭가슴살캔중사이즈(135g)",
+				"ingre_count": "1",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "대파or파채",
+				"ingre_count": "",
+				"ingre_unit": "약간"
+			},
+			{
+				"ingre_name": "양파",
+				"ingre_count": "1/2",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "간장",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "굴소스",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "설탕",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "다진마늘",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "참기름",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "물",
+				"ingre_count": "4",
+				"ingre_unit": "T"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "재료를 준비해주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/23/b312b1b88d38c5dbf84696c67c5d33071.png"
+			},
+			{
+				"txt": "먼저 모든 양념을 섞어줍니다.간장1T, 굴소스1T, 설탕1T, 다진마늘1T, 참기름1T, 물4T(마지막에 뿌려 같이 비벼먹는 왕중왕소스도 위와 동일한 계량 후 팬에 중불로 살짝 끓여서 농도가 살짝 걸쭉해지면 완성)",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/23/9c77baf35bc543202835e61d6e48445e1.png"
+			},
+			{
+				"txt": "양파를 곱게 채썰어주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/23/961266a14248de4f3514e270427cd7d11.png"
+			},
+			{
+				"txt": "대파를 넓게 펼쳐서 채썰어주세요.직선인 파채를 썰고 싶으시면 세로 방향(결방향)으로!, 꼬불꼬불한 파채를 만들고 싶으시면 가로방향(결 반대 방향)으로! 채썰어주세요. (자세한 것은 영상을 참고해주세요.)",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/23/8e0aa33c103441afc208e1970044b67a1.png"
+			},
+			{
+				"txt": "파채를 참물에 잠시 담궈놓으세요(매운맛 제거)",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/23/5ed492e0a4d5387c99766f93a1111cca1.png"
+			},
+			{
+				"txt": "나머지 파는 볶을 때 쓸 용도로 잘라줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/23/9365d2c7fe230c75dbf1672fa618a0961.png"
+			},
+			{
+				"txt": "팬에 기름을 넉넉하게 두르고 파를 볶아주세요.최약불",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/23/9c8f286a498b5005d99f9348aa88ea181.png"
+			},
+			{
+				"txt": "대파가 색이 살짝 변하면 양파도 넣어주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/23/594cf6d7bcc77b3bd5b36e9fd72c611f1.png"
+			},
+			{
+				"txt": "닭가슴살, 만들어둔 양념장을 넣어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/23/a7382df916590a8febc91ee7aae4d1f81.png"
+			},
+			{
+				"txt": "중불에서 달달 볶다가 수분이 다 날아가면 물을 반컵 넣고,",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/23/185454f97b47211aa04ffdc33b2621221.png"
+			},
+			{
+				"txt": "벽에 늘어붙은 양념을 닦으며 자작하게 조려주세요!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/23/8af35d139c9b4a175c39850e2a76df461.png"
+			},
+			{
+				"txt": "물기를 제거한 파채와 닭가슴살을 셋팅!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/23/0aa93c0ab81d81cf089e53e82ccc52781.png"
+			},
+			{
+				"txt": "먹기전에 참기름을 두르고 비벼서 드세용:D",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/23/f0c8b24a4b01ba43a9d9c9ba59b7cd141.png"
+			}
+		]
+	},
+	{
+		"id": 12,
+		"name": "[간단 자취요리] 휴게소 음식! 소떡소떡 집에서 만들기",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/01/f94c8ae56fd950a0c9e475fce1f4f58a1.jpg",
+		"summary": "오늘은 휴게소에서 만나볼 수 있는 소떡소떡을 만들어봤어요!즐겨듣는 홍사운드님의 ASMR 영상을 보자마자 이거다...♡ 제가 산 소세지는 좀 많이 짠 밥반찬용 이더라구요....저 제품외의 소세지를 사용하시길 권장해드려요 :) 자취생 분들, 소떡소떡이 먹고싶어도 소떡소떡 먹으러 휴게소를 갈 순 없어서 슬프셨나요 ㅎ.ㅎ이제 집에서 만들어서 배부르게 드세요bb오늘도 모두 즐거운 휴일 보내세요 :)",
+		"info": {
+			"info1": "3인분",
+			"info2": "15분 이내",
+			"info3": "아무나"
+		},
+		"ingre": [
+			{
+				"ingre_name": "떡",
+				"ingre_count": "",
+				"ingre_unit": ""
+			},
+			{
+				"ingre_name": "소세지",
+				"ingre_count": "",
+				"ingre_unit": ""
+			},
+			{
+				"ingre_name": "고추장",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "설탕",
+				"ingre_count": "2",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "케찹",
+				"ingre_count": "3",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "다진마늘",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "물",
+				"ingre_count": "",
+				"ingre_unit": "소량"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "재료를 준비해주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/01/9c4f172167c354a389ce6c4bb12405961.jpg"
+			},
+			{
+				"txt": "물은 떡이 잠기도록 부어주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/01/8192f3278eb944856edf338728f4270b1.jpg"
+			},
+			{
+				"txt": "물에 잠긴 떡을 전자렌지에 3분 돌려줍니다.전자레인지",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/01/3e9c9225f6afc959c8708a553fb442e01.jpg"
+			},
+			{
+				"txt": "떡과 소시지를 번갈아가며 꼬치에 끼워주세요, 꼬치가 없다면 나무젓가락도 무방합니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/01/9f88aeb57480b9894daad07ea560a1421.jpg"
+			},
+			{
+				"txt": "후라이팬에 기름을 두르고 꼬치를 구워주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/01/0fca48caf3b56451a328d1131207d5011.jpg"
+			},
+			{
+				"txt": "이제 양념장을 만들 차례입니다. 고추장1T, 설탕2T, 케찹3T, 다진마늘1T, 물소량을 후라이팬에 넣어주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/01/c686e90a9b884507bc1d52fb1dcff37b1.jpg"
+			},
+			{
+				"txt": "양념을 잘 풀어주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/01/45f868b292989475dbb7bac6e4f73da31.jpg"
+			},
+			{
+				"txt": "약불에서 졸이는데 원하는 농도보다 조금 더 묽을 때 불을 꺼줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/01/4879a25a2c68dcf9ea3bfba0ec163cb71.jpg"
+			},
+			{
+				"txt": "완성된 양념을 구운 꼬치에 발라주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/01/558adb3f83d6a3e956bf515aabcdd6ce1.jpg"
+			},
+			{
+				"txt": "깨가 있다면 조금 뿌려주셔도 좋습니다. (안 뿌려주셔도 상관관 없어요)",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/01/03115011399c0c26f1c73384fa7fc1411.jpg"
+			}
+		]
+	},
+	{
+		"id": 13,
+		"name": "[간단 자취요리] 완전 귀여운 라이언 오므라이스 만들기",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/05/f7286e60e752b43fb0f8b4b6d57eb7bb1.jpg",
+		"summary": "안녕하세요 여러분~!!오늘은 완전 귀여운 라이언 오므라이스를 만들어봤어요!간단하면서 완전 귀엽고 맛있어요 :)그리고 오므라이스에서 밥을 싸는게 좀 난이도가 있죠?이건 망칠걱정없는 오므라이스에요 :)",
+		"info": {
+			"info1": "1인분",
+			"info2": "30분 이내",
+			"info3": "초급"
+		},
+		"ingre": [
+			{
+				"ingre_name": "밥",
+				"ingre_count": "1",
+				"ingre_unit": "공기"
+			},
+			{
+				"ingre_name": "계란",
+				"ingre_count": "2~3개",
+				"ingre_unit": "~개"
+			},
+			{
+				"ingre_name": "양파",
+				"ingre_count": "1/2",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "비엔나소시지",
+				"ingre_count": "",
+				"ingre_unit": ""
+			},
+			{
+				"ingre_name": "케찹",
+				"ingre_count": "",
+				"ingre_unit": ""
+			},
+			{
+				"ingre_name": "김",
+				"ingre_count": "",
+				"ingre_unit": ""
+			}
+		],
+		"recipe": [
+			{
+				"txt": "재료를 준비합니다.밥, 계란, 양파, 비엔나소시지",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/05/e56d153f2c1d8cd1c2da17fbf796340d1.png"
+			},
+			{
+				"txt": "우선 양파를 다져줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/05/3cbe6c2eaa741f57841b45c918c8a8411.png"
+			},
+			{
+				"txt": "비엔나 소시지도 모양대로 썰어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/05/31c08ed3c420342af4aabe4501fcb2971.png"
+			},
+			{
+				"txt": "계란에 소금을 넣고 섞어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/05/9fe55286079f2d88fb0d48f1bb6321801.png"
+			},
+			{
+				"txt": "팬에 기름을 소량만 두르고 키친타올로 닦아내줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/05/9c13d7f7b6ea25e65175ffe45799485b1.png"
+			},
+			{
+				"txt": "지단을 부쳐줍니다.약불",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/05/cc77f3eff36a73e6eb2f8deb38ef2f0a1.png"
+			},
+			{
+				"txt": "밑면이 익으면 조심스럽게 뒤집어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/05/9b89e077d08eb93dad7c48d9e8896c2f1.png"
+			},
+			{
+				"txt": "다시 기름을 넉넉하게 두르고 양파를 볶아줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/05/ea38ad7fb9397edeb17941f464c5ced11.png"
+			},
+			{
+				"txt": "양파가 익으면 햄을 넣고 볶아줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/05/66bc87cdac0f8813f9a6405b942cb76a1.png"
+			},
+			{
+				"txt": "밥도 넣고 고루 볶아줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/05/907ff57f3163d99875dd3badb226c0ef1.png"
+			},
+			{
+				"txt": "불을 줄이고 케찹을 섞어줍니다.중불",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/05/557a7967f0eb1703cd17b7f8272a860f1.png"
+			},
+			{
+				"txt": "그릇을 이용해서 모양을 만듭니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/05/c3b008374b39b404ab2ca3301618d5031.png"
+			},
+			{
+				"txt": "지단,김,햄으로 얼굴과 귀를 만들어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/05/71a7a5c470a0418cd498f9a2f74603d21.png"
+			},
+			{
+				"txt": "라이언 오므라이스 완성!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/05/76966ae4ee160d8c12961680d2d2e1fd1.png"
+			}
+		]
+	},
+	{
+		"id": 14,
+		"name": "[간단 자취요리] 내가 초밥왕! 집에서 계란초밥 만들기",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/27/2d58dca924cb3f2b995406b9351d0ce61.jpg",
+		"summary": "안녕하세요 여러분들!!신나는 토요일 즐겁게 보내고 계신가요~눈누냔냐♬오늘은 계란초밥을 만들어 봤어요~재료도 저렴하고 좋아하는 사람도 엄청 많은 계란초밥!계란말이는 저번에 업로드 했던 일식 계란말이와 같은 레시피라서이번엔 편집을 간단하게 줄여봤어요혹시 일식 계란말이 만드는법 좀 더 자세히 보고싶으신 분들은밑의 링크를 통해서 확인하세요!",
+		"info": {
+			"info1": "2인분",
+			"info2": "30분 이내",
+			"info3": "초급"
+		},
+		"ingre": [
+			{
+				"ingre_name": "계란",
+				"ingre_count": "6",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "김",
+				"ingre_count": "",
+				"ingre_unit": ""
+			},
+			{
+				"ingre_name": "쌀밥",
+				"ingre_count": "",
+				"ingre_unit": ""
+			},
+			{
+				"ingre_name": "설탕",
+				"ingre_count": "2",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "소금",
+				"ingre_count": "1/2",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "맛술1T(생략가능)",
+				"ingre_count": "1T(생략가능)",
+				"ingre_unit": "T(생략가능)"
+			},
+			{
+				"ingre_name": "물",
+				"ingre_count": "4",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "식초",
+				"ingre_count": "3",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "설탕",
+				"ingre_count": "2",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "소금",
+				"ingre_count": "1/3",
+				"ingre_unit": "T"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "재료를 준비합니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/27/bb5a159de3bb7d329d1d27f90bfcdeaf1.jpg"
+			},
+			{
+				"txt": "계란을 깨 넓은 볼에 풀어주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/27/26530eb303ae6be6a6c6697e44461de61.jpg"
+			},
+			{
+				"txt": "간이 맞도록 설탕과 소금을 넣어주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/27/4c78863585b4bfffc3728c82ee3ec23a1.jpg"
+			},
+			{
+				"txt": "계란이 잘 풀리고 간이 잘 섞이도록 풀어주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/27/4fcf30400f2e16063d999e12fa29bfae1.jpg"
+			},
+			{
+				"txt": "계란물을 체에 곱게 내려줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/27/c5bb979f9936784662c2aedfc81021ce1.jpg"
+			},
+			{
+				"txt": "식초3T, 설탕2T, 소금1/3T 로 배합초를 만들어주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/27/943403482180489715f5140df808d5501.jpg"
+			},
+			{
+				"txt": "초밥초를 밥에 넣고 밥을 가르듯 섞어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/27/8b44e816e50bd0b3ebc5da31b9f034b61.jpg"
+			},
+			{
+				"txt": "잘 섞어준 밥은 마르지 않게 덮어서 보관합니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/27/aa41a0143ba700b402bd0461309f4ea31.jpg"
+			},
+			{
+				"txt": "후라이팬에 기름을 둘러주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/27/49514897ca42ddbee3f89e177a41921f1.jpg"
+			},
+			{
+				"txt": "계란말이 만드는 영상은 이 곳에서 볼 수 있습니다. https://youtu.be/lM3MD3beEoE",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/27/2e04b57d28095b253f1d5bb8e65665471.jpg"
+			},
+			{
+				"txt": "후라이팬 사이드로 각을 잡아줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/27/1e7b7343a5a32b8559590ecbd38373301.jpg"
+			},
+			{
+				"txt": "계란말이가 식으면 적절한 두께로 썰어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/27/09d524e981192cb47d42c48c4dfa35d61.jpg"
+			},
+			{
+				"txt": "만들어 둔 밥을 초밥을 적당한 크기로 빚어 계란말이를 올리고 김으로 싸주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/27/ea8064affd678194730a5f0783b8efc41.jpg"
+			},
+			{
+				"txt": "밥은 너무 꽉 쥐지 않고 만들어주시면 완성입니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/27/b327c95afade1889265c18b4b0a17a881.jpg"
+			}
+		]
+	},
+	{
+		"id": 15,
+		"name": "신전 떡볶이 비밀 레시피 간단 자취 요리 ",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2019/10/16/e48c8dab88de394fa4daa5d6b4e4e51b1.jpg",
+		"summary": "신전떡볶이 정말 맛있어요",
+		"info": {
+			"info1": "1인분",
+			"info2": "15분 이내",
+			"info3": "아무나"
+		},
+		"ingre": [
+			{
+				"ingre_name": "떡볶이떡",
+				"ingre_count": "300",
+				"ingre_unit": "g"
+			},
+			{
+				"ingre_name": "고추장",
+				"ingre_count": "2",
+				"ingre_unit": "스푼"
+			},
+			{
+				"ingre_name": "고추가루",
+				"ingre_count": "1",
+				"ingre_unit": "스푼"
+			},
+			{
+				"ingre_name": "간장",
+				"ingre_count": "1",
+				"ingre_unit": "스푼"
+			},
+			{
+				"ingre_name": "설탕",
+				"ingre_count": "2",
+				"ingre_unit": "스푼"
+			},
+			{
+				"ingre_name": "카레가루",
+				"ingre_count": "1",
+				"ingre_unit": "스푼반"
+			},
+			{
+				"ingre_name": "후추",
+				"ingre_count": "1/2",
+				"ingre_unit": "스푼"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "고추장,고추가루,간장,설탕,카레가루를 분량대로 양념을 만듭니다",
+				"img": " "
+			},
+			{
+				"txt": "팬에 물300ml를 넣고 양념을 풀어 줍니다중불",
+				"img": " "
+			},
+			{
+				"txt": "물이 끓어오르면 떡을 넣고 떡이 익으면 후추 반스푼을 넣어 주세요약불후추는 취향껏 넣어 줍니다",
+				"img": " "
+			},
+			{
+				"txt": "약 3분정도 저어가며 졸여주면 완성 입니다.약불",
+				"img": " "
+			}
+		]
+	},
+	{
+		"id": 16,
+		"name": "초간단 자취요리 '치즈밥' 만들기 ",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2018/06/02/f584f6bcb08234aa88dd865ab91bf42d1.jpg",
+		"summary": "베이컨 치즈밥~",
+		"info": {
+			"info1": "1인분",
+			"info2": "30분 이내",
+			"info3": "아무나"
+		},
+		"ingre": [
+			{
+				"ingre_name": "양파",
+				"ingre_count": "1/2",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "베이컨",
+				"ingre_count": "4",
+				"ingre_unit": "줄"
+			},
+			{
+				"ingre_name": "옥수수콘",
+				"ingre_count": "5",
+				"ingre_unit": "t스푼"
+			},
+			{
+				"ingre_name": "햇반",
+				"ingre_count": "1",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "참기름",
+				"ingre_count": "",
+				"ingre_unit": "약간"
+			},
+			{
+				"ingre_name": "김가루",
+				"ingre_count": "",
+				"ingre_unit": "취향껏"
+			},
+			{
+				"ingre_name": "모짜렐라치즈",
+				"ingre_count": "",
+				"ingre_unit": "취향껏"
+			},
+			{
+				"ingre_name": "고추장",
+				"ingre_count": "1",
+				"ingre_unit": "큰술"
+			},
+			{
+				"ingre_name": "꿀(=올리고당/물엿)",
+				"ingre_count": "1",
+				"ingre_unit": "큰술"
+			},
+			{
+				"ingre_name": "케첩",
+				"ingre_count": "2",
+				"ingre_unit": "큰술"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "제일 먼저 재료들을 손질해줍니다. 양파 1/2개를 다져주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2018/06/02/7f59ef3b9ca4f4688494281b89d48e741.jpg"
+			},
+			{
+				"txt": "베이컨 4줄을 일정한 크기로 썰어주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2018/06/02/54f6a9ddebf27a12cf538770facca2fd1.jpg"
+			},
+			{
+				"txt": "다음은 소스를 만들어줄게요. 고추장 1큰술,계량 스푼",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2018/06/02/54e146f897faf7bc8436c7a6cf26a6a01.jpg"
+			},
+			{
+				"txt": "꿀 1큰술,계량 스푼",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2018/06/02/ca67e930afa3072d65d73e8717bced181.jpg"
+			},
+			{
+				"txt": "케첩 2큰술을 넣고계량 스푼",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2018/06/02/a5e20c880bc9e38ecc14ce6c703107a61.jpg"
+			},
+			{
+				"txt": "잘 섞어줍니다.계량 스푼",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2018/06/02/581cdf6f5a3ca36673b33ec30bc1b47e1.jpg"
+			},
+			{
+				"txt": "뚝배기를 약불 위에 올려주시고뚝배기약불",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2018/06/02/dcd7d43056cff2915c82c9713274dd7f1.jpg"
+			},
+			{
+				"txt": "참기름을 넉넉히 둘러줍니다.뚝배기약불",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2018/06/02/8a69fc34add90eabfb4532c4262703661.jpg"
+			},
+			{
+				"txt": "다진 양파를 넣어뚝배기약불",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2018/06/02/6f933642916f24dc075a008094060fa41.jpg"
+			},
+			{
+				"txt": "잘 볶아주시다가뚝배기, 나무주걱약불",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2018/06/02/85ce3562598747138ca47215ae8ba8b21.jpg"
+			},
+			{
+				"txt": "어느 정도 양파가 익으면 양파 위에 햇반,뚝배기약불",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2018/06/02/a62731a0c42f5f8247fb569ceb8c9d9c1.jpg"
+			},
+			{
+				"txt": "베이컨,뚝배기약불",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2018/06/02/7f787232f9ad39e6702c2037d603d03a1.jpg"
+			},
+			{
+				"txt": "소스,뚝배기약불",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2018/06/02/85636329365c8709b3b26b61fc34f9ad1.jpg"
+			},
+			{
+				"txt": "옥수수를 넣고뚝배기, 계량 스푼약불옥수수 5t스푼이면 충분하실 거예요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2018/06/02/d9a49ff53608d4b79fe636c9eca9af101.jpg"
+			},
+			{
+				"txt": "잘 섞어주세요.뚝배기, 나무주걱약불",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2018/06/02/320c97c1f22c1dab023b2a6021f3904b1.jpg"
+			},
+			{
+				"txt": "취향껏 김가루를 올려주시고뚝배기약불사실 재료는 많으면 많을수록 존맛인거 아시죠..취향껏 김가루를 넣어주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2018/06/02/5f172f00f657b1caeaf3b0260717c2991.jpg"
+			},
+			{
+				"txt": "약간의 치즈를 넣어주신 뒤뚝배기약불어차피 이따가 밥 위에 치즈로 덮어줄거기 때문에 지금은 약간의 치즈를 넣고 밥 안으로 침투시켜줄거예요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2018/06/02/cac6b5dc181af756192c22095f3992fa1.jpg"
+			},
+			{
+				"txt": "다시 잘 섞어주세요.뚝배기, 나무주걱약불",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2018/06/02/149c4d3d3901759dd18baf048932fb381.jpg"
+			},
+			{
+				"txt": "마지막으로 밥을 덮어 줄 만큼 치즈를 올려주신 후뚝배기약불",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2018/06/02/4ee351a54b6093c42b1a8c490b233f1c1.jpg"
+			},
+			{
+				"txt": "뚜껑을 덮어 치즈가 녹을 때 까지 기다려주시면뚝배기약불",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2018/06/02/b1618c3e1a003963c5ab0b2e064e5fe51.jpg"
+			},
+			{
+				"txt": "완성입니다.뚝배기",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2018/06/02/2ed24f6383546b689a7991fcdf8c63a41.jpg"
+			}
+		]
+	},
+	{
+		"id": 17,
+		"name": "[간단 자취요리] 한그릇 뚝딱! 카레볶음밥 만들기 ",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/24/fde1a2e5380bf6fca0156243650a9b7f1.jpg",
+		"summary": "오늘의 메뉴는 카레 볶음밥입니다 :D카레향이 솔솔~ 나는 볶음밥인데요!보통 저는 굴소스 사용한 볶음밥을 자주 먹지만 가끔씩 이렇게 별미로 먹는것도 좋은 것 같아요 :)",
+		"info": {
+			"info1": "1인분",
+			"info2": "30분 이내",
+			"info3": "아무나"
+		},
+		"ingre": [
+			{
+				"ingre_name": "밥",
+				"ingre_count": "1",
+				"ingre_unit": "공기"
+			},
+			{
+				"ingre_name": "감자",
+				"ingre_count": "",
+				"ingre_unit": ""
+			},
+			{
+				"ingre_name": "애호박",
+				"ingre_count": "",
+				"ingre_unit": ""
+			},
+			{
+				"ingre_name": "당근",
+				"ingre_count": "",
+				"ingre_unit": ""
+			},
+			{
+				"ingre_name": "카레가루",
+				"ingre_count": "3",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "소금",
+				"ingre_count": "1~2꼬집",
+				"ingre_unit": "~꼬집"
+			},
+			{
+				"ingre_name": "계란",
+				"ingre_count": "1",
+				"ingre_unit": "개"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "재료를 준비한다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/24/736399d137f2b4b28570d18725fe405e1.png"
+			},
+			{
+				"txt": "껍질을 벗긴 감자를 작은 큐브모양으로 썰어준다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/24/41170f8cfa6a0d3e9c056869eeeffd3a1.png"
+			},
+			{
+				"txt": "애호박도 작은 큐브모양으로 썰어준다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/24/794d9663a51872c47c2e2b340ffef41f1.png"
+			},
+			{
+				"txt": "당근도 작은 큐브모양으로 썰어준다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/24/cb9f20ab3833258b57d8c58f0acb15721.png"
+			},
+			{
+				"txt": "팬에 기름을 두르고 밥을 제외한 재료를 모두 넣어준다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/24/87c38ac647e07a60aaf90ba41a50fa301.png"
+			},
+			{
+				"txt": "볶다가 카레가루를 넣는다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/24/a18a670210a6f478f89fe1359275c0501.png"
+			},
+			{
+				"txt": "잘 섞이면 밥을 넣고 비벼준다.약불",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/24/29f8057f1aff10d7855e4ed617b739c91.png"
+			},
+			{
+				"txt": "뭉친 밥이 흩어지면 강불로 높여서 볶아준다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/24/f1d37799822728f3e5680914b32993521.png"
+			},
+			{
+				"txt": "여기서 간보고 입맛에 따라 소금을 살짝 넣는다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/24/2aed8d07975ec7dd3c63f5df95c38a641.png"
+			},
+			{
+				"txt": "계란후라이를 올리면 완성!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/24/07c88f7de63dffa00ab7aac0d23fc4ed1.png"
+			}
+		]
+	},
+	{
+		"id": 18,
+		"name": "[간단 자취요리] 5분 컷, 라면보다 빠르다고..? 치즈쭉쭉 라볶이 만들기 ",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/05/10/1dee7082f7153560b56b07aaf9fd394f1.jpg",
+		"summary": "안녕하세요 여러분들~!오늘은 치즈쭉쭉 라볶이를 만들어봅시다!!영상을 보시면 알겠지만 너....무 쉽죠?ㅋㅋㅋㅋ뭔가 여러가지 하기는 귀찮은데 일반라면은 먹기싫다!! 할때 최곱니다 bb물론 맛도 굿굿!!그리고 오늘은 먹는 소리가 날아가서 없어용 헤헤..",
+		"info": {
+			"info1": "2인분",
+			"info2": "30분 이내",
+			"info3": "아무나"
+		},
+		"ingre": [
+			{
+				"ingre_name": "물",
+				"ingre_count": "400",
+				"ingre_unit": "ml"
+			},
+			{
+				"ingre_name": "라면사리",
+				"ingre_count": "1",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "고추장",
+				"ingre_count": "4",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "간장",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "올리고당",
+				"ingre_count": "2",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "설탕",
+				"ingre_count": "3",
+				"ingre_unit": "T"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "재료를 준비한다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/05/10/467404154e1b9190c09e2b1f5b3073d21.png"
+			},
+			{
+				"txt": "냄비에 물을 넣고 양념을 풀어준다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/05/10/82325e445bba363077d2aee33cf533631.png"
+			},
+			{
+				"txt": "물이 끓으면 라면을 넣어준다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/05/10/ab115ace9819348e44cdc66b0e2627591.png"
+			},
+			{
+				"txt": "국물이 졸아들면 치즈를 넣는다.약불",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/05/10/5811eb56950e8ba742f30199dca3759a1.png"
+			}
+		]
+	},
+	{
+		"id": 19,
+		"name": "[간단 자취요리] 감자 쫄깃! 참치 쫄깃! 참치덮밥 만들기",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/08/02/5ba4b1bf7843fcbbe4d8be16c22df6e11.jpg",
+		"summary": "안녕하세요 여러분!오늘은 참치덮밥을 만들어 볼게요 :D저는 야채참치, 고추참치에 들어있는 약간 쫄깃한 감자를 좋아하는데요~ 그 느낌을 살려서 오늘은 감자가 콕콕 들어있는 맛있는 참치덮밥을 만들어 볼게요.",
+		"info": {
+			"info1": "1인분",
+			"info2": "15분 이내",
+			"info3": "아무나"
+		},
+		"ingre": [
+			{
+				"ingre_name": "참치1캔(100g)",
+				"ingre_count": "1캔(100g)",
+				"ingre_unit": "캔(g)"
+			},
+			{
+				"ingre_name": "감자",
+				"ingre_count": "1",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "양파",
+				"ingre_count": "1/2",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "고추장",
+				"ingre_count": "4",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "케찹",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "다진마늘",
+				"ingre_count": "0.",
+				"ingre_unit": ".T"
+			},
+			{
+				"ingre_name": "설탕",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "물",
+				"ingre_count": "300",
+				"ingre_unit": "ml"
+			},
+			{
+				"ingre_name": "감자전분",
+				"ingre_count": "4",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "물",
+				"ingre_count": "4",
+				"ingre_unit": "T"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "감자의 껍질을 벗겨 작은 큐브모양으로 썰어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/08/02/2039e889f9fc649f0dc4160f280605231.png"
+			},
+			{
+				"txt": "감자가 잠길정도의 물을 붓고, 전자레인지에 돌려서 익혀줍니다.전자레인지감자는 전자렌지에 2~3분정도 돌려주세요. (1차 익힘) 미리 익혀줘야 짧게 끓여도 속까지 다 익어요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/08/02/c120e268166bb0c642516baa7ffb8f161.png"
+			},
+			{
+				"txt": "팬에 참치, 감자, 양념재료를 모두 넣어주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/08/02/1733c520515643383712d78e94fe14291.png"
+			},
+			{
+				"txt": "물을 넣고 보글보글 끓여줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/08/02/6dd74cd2efa2f5219076ad2e78c420291.png"
+			},
+			{
+				"txt": "끓으면 전분물을 넣어주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/08/02/0c52c73cfce55fb621de59de67787b771.png"
+			},
+			{
+				"txt": "밥 위에 부어주면 완성!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/08/02/34d657632c300f2bd6b7ac4f992e5fcd1.png"
+			}
+		]
+	},
+	{
+		"id": 20,
+		"name": "[간단 자취요리] 판매1위 삼각김밥 김밥으로 재탄생! 전주비빔김밥 만들기",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/06/20/4dd6d2b9da6b53e2e1e0b67ab7dd2e2f1.jpg",
+		"summary": "안녕하세요 여러분!오늘은 전주비빔삼각김밥을 만들어 봤어요 :D저는 당연히 삼각김밥 매출 1위가 참치마요일지 알았는데,의외로 전주비빔이라는 기사를 봤어요!그래서 한번 만들어 봤습니다!저는 편의성을 위해 김밥으로 만들었지만 삼각김밥으로 만드셔도 됩니다.",
+		"info": {
+			"info1": "1인분",
+			"info2": "15분 이내",
+			"info3": "아무나"
+		},
+		"ingre": [
+			{
+				"ingre_name": "떡갈비냉동식품",
+				"ingre_count": "",
+				"ingre_unit": ""
+			},
+			{
+				"ingre_name": "밥1공기(국그릇)",
+				"ingre_count": "1공기(국그릇)",
+				"ingre_unit": "공기(국그릇)"
+			},
+			{
+				"ingre_name": "고추장",
+				"ingre_count": "6",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "다진마늘",
+				"ingre_count": "1/2",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "설탕",
+				"ingre_count": "2",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "참기름",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "먼저 떡갈비 냉동식품을 전자렌지로 해동해줍니다!전자레인지",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/06/20/eb9bc66300fe9d25a48a13bd2e26fd941.png"
+			},
+			{
+				"txt": "칼을 눕혀서 으깬 뒤 다져주세요",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/06/20/dda0abe36fca4eaae932c473425adbc01.png"
+			},
+			{
+				"txt": "팬에 기름을 두르고 마늘을 볶아줍니다약불",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/06/20/9ebbd55e13151fd2a5edc4e9fb54ea731.png"
+			},
+			{
+				"txt": "다져놓은 고기도 넣어서 볶아줍니다중불",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/06/20/32d32859ade15bb2d9e8f0b01df62b5d1.png"
+			},
+			{
+				"txt": "노릇노릇해지면 양념들을 넣어 골고루 잘 섞어주세요약불",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/06/20/a8485ec593a44b448749166e184209881.png"
+			},
+			{
+				"txt": "참기름을 두르고 마무리로 휘리릭 볶아줍니다중불",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/06/20/e3b2d09534a1bb735a4ab46f1afd2a5b1.png"
+			},
+			{
+				"txt": "준비한 밥에 색이 날정도만 넣고 잘 섞어줍니다",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/06/20/7a2e209426982c0f92c83536c10a26111.png"
+			},
+			{
+				"txt": "김의 거친면에 밥을 깔고, 중간에 고기를 넣어줍니다",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/06/20/09b2b6ebd26958060f4c4e7bc4c84c431.png"
+			},
+			{
+				"txt": "조심조심 잘 말아주면 끝!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/06/20/690745b86dad4abbd1b454bfa904fb451.png"
+			},
+			{
+				"txt": "누르지말고 슬근슬근 톱질하듯 썰어주세요 :D",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/06/20/8aea0096e2487737a67f56763639123a1.png"
+			}
+		]
+	},
+	{
+		"id": 21,
+		"name": "[간단 자취요리] 참치가 더블!! 더블 참치마요 주먹밥 만들기",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2018/02/06/880e9fabc5098e2fb2016aef27341fdc1.jpg",
+		"summary": "안녕하세요 얌배추들!저는 가끔 입맛이 없고 귀찮을 때 참치(안에 물까지 다) + 고추장 + 밥을 넣고 비벼 먹어요! 안 드셔보신 분들은 뭔가 이상하거나 맛이 없을 것 같다고 생각하실 수 있지만, 꽤 맛있답니다 :D그래서 오늘은 맛있는 거 + 맛있는 거! 더블 참치마요를 만들어 봤습니다. 모양 잡는 게 귀찮을 수 있지만, 또 완성돼서 손으로 들고 먹는 맛이 있어요ㅎㅎ",
+		"info": {
+			"info1": "4인분",
+			"info2": "30분 이내",
+			"info3": "아무나"
+		},
+		"ingre": [
+			{
+				"ingre_name": "참치캔2개(100g*2)",
+				"ingre_count": "2(100g*2)",
+				"ingre_unit": "개(g*)"
+			},
+			{
+				"ingre_name": "밥",
+				"ingre_count": "2",
+				"ingre_unit": "공기"
+			},
+			{
+				"ingre_name": "참치",
+				"ingre_count": "",
+				"ingre_unit": ""
+			},
+			{
+				"ingre_name": "마요네즈",
+				"ingre_count": "",
+				"ingre_unit": ""
+			},
+			{
+				"ingre_name": "고추장",
+				"ingre_count": "4",
+				"ingre_unit": "숟가락"
+			},
+			{
+				"ingre_name": "참기름",
+				"ingre_count": "1",
+				"ingre_unit": "숟가락"
+			},
+			{
+				"ingre_name": "참치액",
+				"ingre_count": "3~4숟가락",
+				"ingre_unit": "~숟가락"
+			},
+			{
+				"ingre_name": "소금",
+				"ingre_count": "",
+				"ingre_unit": "약간"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "먼저 참치의 국물을 버려줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2018/02/06/d3085b17e65ef5a234a1a0d04ac6642a1.png"
+			},
+			{
+				"txt": "한 캔에는 마요네즈를 넣고 섞어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2018/02/06/ed9ba280b9344548bc8be5ca9a93f6281.png"
+			},
+			{
+				"txt": "나머지 한 캔은 밥 2공기, 고추장, 참기름, 소금을 넣고 비벼줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2018/02/06/c8a72fab6e3ed2a659413a282d62e6451.png"
+			},
+			{
+				"txt": "속에 참치마요를 넣고 모양을 잡아줍니다.참치마요는 참치, 마요네즈를 비볐을 때 촉촉할 정도로 준비해주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2018/02/06/281f972089f655e381e4afb42a7200b91.png"
+			}
+		]
+	},
+	{
+		"id": 22,
+		"name": "[간단 자취요리] 참치캔 요리! 참치 빠다밥 (참치버터밥) 만들기",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/02/01/f26a070a8635cd929ade0db526056a6d1.jpg",
+		"summary": "다들 명절 후유증없이 오늘 하루 잘 보내셨나요?오늘은 여러분들에게 참치빠다밥을 알려드릴게요 ㅎㅎ보통은 장조림버터밥을 많이 아실텐데요~장조림보다 만들기도, 구하기도 쉬운 참치로 한번 만들어봤어요생각보다 더 맛있어서 한그릇 뚝딱! 했습니다 명절에 받은 참치캔들 많으시죠?참치빠다밥 한번 만들어서 드셔보세요 존맛탱 보장!그리고 재미를 더하고자 버터밥이 아닌 빠다밥으로 이름지어봤으니 양해해주세용~!예상질문 : 버터 없으면 안돼요?미리답변 : 버터가 없으면 완전 다른맛의 요리가 됩니다 예를들면 비빔간장참치밥?고소한 풍미의'참치빠다밥'을 드시고싶으시면 버터를 꼭 넣으세요 :)예상질문2 : 마가린으로 대체되나요?미리답변 : 버터와 가장 비슷한 식재료지만 확실히 버터만의 풍미는 이길 수 없는 것 같아요 그래도 정 없으시면 사용하셔도 돼요!",
+		"info": {
+			"info1": "1인분",
+			"info2": "30분 이내",
+			"info3": "아무나"
+		},
+		"ingre": [
+			{
+				"ingre_name": "참치작은캔",
+				"ingre_count": "1",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "양파",
+				"ingre_count": "1/4",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "버터",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "간장",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "설탕",
+				"ingre_count": "1/2",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "다진마늘",
+				"ingre_count": "1/2",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "물100ml(약종이컵반컵)",
+				"ingre_count": "100ml(약 종이컵 반컵)",
+				"ingre_unit": "ml(약 종이컵 반컵)"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "재료를 준비해주세요",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/02/01/5d650519468ffad91264dce404cdf30e1.png"
+			},
+			{
+				"txt": "우선 양파를 작은 큐브모양으로 썰어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/02/01/eeb23336af4e1c6fc20f9fe93b49d9b51.png"
+			},
+			{
+				"txt": "팬에 참치, 양파, 양념, 물을 넣어줍니다.참치작은캔1개, 양파 1/4개, 간장1T, 설탕1/2T, 다진마늘 1/2T, 물 100ml(약 종이컵 반컵)",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/02/01/5dca5e319659a94ec790f6f778d5db4d1.png"
+			},
+			{
+				"txt": "보글보글 조려주세요. 팬에 물기가 거의 없어지면 끝!중불",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/02/01/513fae2c8910d7d93919591ae5c429381.png"
+			},
+			{
+				"txt": "밥 위에 볶음 참치와 버터를 올려주면 완성!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/02/01/0eecaef0102b1f1d249fe5c15c596e1e1.png"
+			}
+		]
+	},
+	{
+		"id": 23,
+		"name": "[간단 자취요리] 전자렌지로 뚝딱! 치즈밥 2탄! 고소~ 짭짤한 하얀 치즈밥 만들기",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/08/10/f41fc64415bfb93d1f1be5557250cbe71.jpg",
+		"summary": "안녕하세요 얌배추들 :D오늘은 전자렌지로 만드는 하얀 치즈밥입니다!기본 치즈밥은 이미 유명해 다들 아실텐데요~ 오늘은 치즈밥 2탄인 하얀 치즈밥을 만들어 봤어요 ㅎㅎ!최근에 빨간 콘치즈, 콘꼬노미야끼등 콘을 이용한 요리가 많았죠? 한캔 사시면 많으니까 이것저것 다 해드세요ㅎㅎ!! 이제 당분간 콘 요리은 없을 예정입니닷!",
+		"info": {
+			"info1": " ",
+			"info2": "30분 이내",
+			"info3": "아무나"
+		},
+		"ingre": [
+			{
+				"ingre_name": "밥",
+				"ingre_count": "1",
+				"ingre_unit": "공기"
+			},
+			{
+				"ingre_name": "양파찹듬뿍",
+				"ingre_count": "2",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "스위트콘듬뿍",
+				"ingre_count": "3~4T",
+				"ingre_unit": "~T"
+			},
+			{
+				"ingre_name": "참치",
+				"ingre_count": "1",
+				"ingre_unit": "캔"
+			},
+			{
+				"ingre_name": "버터",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "간장",
+				"ingre_count": "2~3T",
+				"ingre_unit": "~T"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "먼저 양파를 찹 해줍니다!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/08/10/ee50824de0f178a7c2d0bafb5eb9b6b51.jpg"
+			},
+			{
+				"txt": "밥에 버터, 간장, 양파, 참치, 콘을 넣고 잘비벼주세요!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/08/10/014734c46b16ba4d6bbce0f239afb36d1.jpg"
+			},
+			{
+				"txt": "그릇에 밥을 넣고 모짜렐라 치즈를 덮어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/08/10/7d4f27a16ccde2c111bc46fda47d81ec1.jpg"
+			},
+			{
+				"txt": "전자렌지 4~5분 돌려줘요!전자레인지",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/08/10/cef88ef3364caa9c08e3f2d480db3b301.jpg"
+			}
+		]
+	},
+	{
+		"id": 24,
+		"name": "[간단 자취요리] 불 없이 요리하자! 전자렌지 계란밥 만들기 ",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/28/01e35056acd04983567fc49a1e7465a81.jpg",
+		"summary": "안녕하세요 여러분~~오늘은 전자렌지 계란밥을 만들어 볼거에요!간장 계란밥은 다들 많이 드시죠??간장 계란밥보다 간단하고 맛있는 전자렌지 계란밥이에요요즘 너무 더워서 불앞에 가기도 싫으실텐데요요건 불이 필요 없어서 더 좋습니다 :)만들어서 간장에 비벼먹어도, 케찹에 비벼먹어도참기름 넣고 비벼먹어도 모두 맛있어요!!",
+		"info": {
+			"info1": "1인분",
+			"info2": "10분 이내",
+			"info3": "아무나"
+		},
+		"ingre": [
+			{
+				"ingre_name": "밥",
+				"ingre_count": "1",
+				"ingre_unit": "공기"
+			},
+			{
+				"ingre_name": "계란",
+				"ingre_count": "2",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "스팸",
+				"ingre_count": "",
+				"ingre_unit": ""
+			},
+			{
+				"ingre_name": "소금",
+				"ingre_count": "1",
+				"ingre_unit": "꼬집"
+			},
+			{
+				"ingre_name": "물(계란에들어갈)",
+				"ingre_count": "6",
+				"ingre_unit": "T"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "재료를 준비합니다.[주 재료] 밥 1공기, 계란 2개, 스팸[부 재료] 소금 1꼬집, 물(계란에들어갈) 6T",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/28/836d5de58a037ec62bd3eb005967c09f1.png"
+			},
+			{
+				"txt": "우선 계란 2개를 풀어줍니다. 소금을 약간 넣어주셔도 좋아요!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/28/c43c7debd7d5f35f3b49041f6582e6371.png"
+			},
+			{
+				"txt": "물도 조금 넣고 섞어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/28/363a16564195fe14340c427b185ccfcd1.png"
+			},
+			{
+				"txt": "스팸도 깍둑깍둑 작게 썰어주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/28/54253fff6d3aaee824e11b3a39de37861.png"
+			},
+			{
+				"txt": "그릇에 참기름을 발라줍니다. (눌어붙기 방지)",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/28/798e0b65be3f8fcd1394ec7dc1d3c0de1.png"
+			},
+			{
+				"txt": "이제 계란물과 썰어둔 스팸을 넣어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/28/58a57551df1bd7000bce0422e083f2151.png"
+			},
+			{
+				"txt": "마지막으로 밥까지 넣고 잘 섞어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/28/e981d51b62c6fc55c36b0d9f7883e3fe1.png"
+			},
+			{
+				"txt": "랩을 씌우고 전자렌지로 이동! 전자렌지에 따라 3~4분 돌려줍니다.전자레인지",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/28/04b5d302d8bfdef2608aaccead47d3741.png"
+			},
+			{
+				"txt": "참기름이나 통깨로 마무으리하면 완성! 기호에 맞게 참기름이나 간장 비벼서 드세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/28/35a9f8415067530f1482970dc1c2b3e11.png"
+			}
+		]
+	},
+	{
+		"id": 25,
+		"name": "기름떡볶이 초간단레시피 - 간단한 한끼로 자취요리 추천",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/04/14/226cb6cfaf4b860719f18fb9852c29e91.gif",
+		"summary": "백종원 선생님의 레시피를 활용해서, 좀 더 계량해봤어요~",
+		"info": {
+			"info1": "1인분",
+			"info2": "15분 이내",
+			"info3": "아무나"
+		},
+		"ingre": [
+			{
+				"ingre_name": "떡볶이떡",
+				"ingre_count": "2",
+				"ingre_unit": "컵"
+			},
+			{
+				"ingre_name": "대파",
+				"ingre_count": "1",
+				"ingre_unit": "줌"
+			},
+			{
+				"ingre_name": "계란",
+				"ingre_count": "1",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "냉동만두",
+				"ingre_count": "2",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "고추가루2큰술",
+				"ingre_count": "2",
+				"ingre_unit": "큰 술"
+			},
+			{
+				"ingre_name": "설탕1큰술",
+				"ingre_count": "1",
+				"ingre_unit": "큰 술"
+			},
+			{
+				"ingre_name": "참기름1큰술",
+				"ingre_count": "1",
+				"ingre_unit": "큰 술"
+			},
+			{
+				"ingre_name": "간장1.5큰술",
+				"ingre_count": "1.",
+				"ingre_unit": ".큰 술"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "먼저 떡볶이떡은 종이컵으로 2 컵 준비해줬어요 대략 300g 정도 되는 것 같네요~",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/04/14/80436e2af74768fe3829fb4955445c911.jpg"
+			},
+			{
+				"txt": "계량한 떡은 만들어진 기름떡볶이가 더 말랑한 식감을 가질 수 있도록 10분간 불려줬어요~",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/04/14/f2cb4cca94f62f8f5e89334762c64b151.jpg"
+			},
+			{
+				"txt": "군만두는 전자레인지에서 2분 정도 조리해서 그냥 먹어도 먹을 수 있는 정도로 익혀줬어요~전자레인지",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/04/14/4d70d97617ecfcaa8d301aba465a4c871.jpg"
+			},
+			{
+				"txt": "다 불려진 떡은 양념을 해주세요~ 기름떡볶이 양념은 고추가루 2 큰 술, 설탕 1 큰 술, 참기름 1 큰 술, 간장 1.5 큰 술을 넣어줬어요~",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/04/14/f45999e64f7d24dabf2bbbfd6244e9691.jpg"
+			},
+			{
+				"txt": "데워둔 만두까지 버무려주세요~",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/04/14/d6cdcbf6d86a69834f9848e6a3a3009c1.jpg"
+			},
+			{
+				"txt": "기름떡볶이의 포인트는 불이 너무 세면 안 된다는 거에요~ 준비해둔 대파 한 줌을 기름 3 큰 술을 두른 팬에 먼저 넣어보세요~ 기름이 튀는 소리가 난다면, 그보다 더 은은한 약불로 맞춰주세요~",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/04/14/c36104e31cface89b6683586fd7526ba1.jpg"
+			},
+			{
+				"txt": "불이 맞춰졌다면, 양념된 떡과 만두를 넣어 데우듯 볶아주시면 되세요~ 떡이 말랑해질 때까지 볶으시면 됩니다~",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/04/14/67829a935bcf574bc8bd70d98e39d9311.jpg"
+			},
+			{
+				"txt": "저는 반숙 계란도 넣어봤어요~ㅎ 끓는 물에서 7~8분 돌려가며 익혀주시면 됩니다~ㅎ",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/04/14/4e2c32dc31b7b984bf2dc0680cfe88361.jpg"
+			},
+			{
+				"txt": "접시에 예쁘게 담아주면 완성!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/04/14/68ed4eb6605f402746c512e370b87f901.jpg"
+			}
+		]
+	},
+	{
+		"id": 26,
+		"name": "[간단 자취요리] 무한 응용가능! 볶음밥의 기초! 계란 볶음밥 만들기",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/22/b17d2c53cd15c90d19f82dfe8e4f0c371.jpg",
+		"summary": "안녕하세요 여러분들~오늘은 계란볶음밥을 만들어 봤어요!!자취요리의 기본이자 볶음밥의 베이스 같은? 기초 볶음밥이죠 ㅎㅎ여기에 계란을빼고 재료를 넣거나 계란과 함께 재료를 추가하면재료에 따라 'ㅇㅇ볶음밥' 이 탄생하죠 :)굴소스가 없으시면 간장으로 간은 대신 할 수 있지만 당연히 풍미자체가 완전히 다르겠죠?굴소스는 2500원~3500원이면 한병 구매하고, 또 자취요리에서 절대절대 빼놓을 수 없을만큼 자주 쓰이고 맛있는 요리가 나오기 떄문에 없으신 분들은 이번기회에 꼭 사시는걸 추천드려요 :)절대 후회 안합니다 절 믿으세요 ㅎㅎ",
+		"info": {
+			"info1": "1인분",
+			"info2": "15분 이내",
+			"info3": "아무나"
+		},
+		"ingre": [
+			{
+				"ingre_name": "밥",
+				"ingre_count": "",
+				"ingre_unit": "적당량"
+			},
+			{
+				"ingre_name": "계란",
+				"ingre_count": "2",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "굴소스",
+				"ingre_count": "3",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "다진마늘(편마늘도OK)",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "대파",
+				"ingre_count": "3~4T",
+				"ingre_unit": "~T"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "재료를 준비합니다.밥, 계란, 굴소스, 다진마늘, 대파",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/22/6d7d80b2043bf5d70b6aafb1c0ac501e1.jpg"
+			},
+			{
+				"txt": "우선 계란에 소금을 넣고 풀어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/22/382928195f42711e1ca8e29201b960911.jpg"
+			},
+			{
+				"txt": "기름을 넉넉히 두르고 다진마늘과 파를 넣어줘요! 끓이듯 기름에 향을 내줍니다.최약불",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/22/b1d12399351978a70d005c2ef28869b31.jpg"
+			},
+			{
+				"txt": "밥을 넣고 뭉친 밥이 없도록 골고루 섞어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/22/aeaf8864c69b2664ace3cebf7550c8431.jpg"
+			},
+			{
+				"txt": "굴소스를 넣어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/22/840c4ea72d0783a1e8a50a3f210268591.jpg"
+			},
+			{
+				"txt": "색이 골고루 났으면 밥을 한쪽으로 밀어줘요!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/22/fb688ebdb8685cd23ec7b954de6acf1c1.jpg"
+			},
+			{
+				"txt": "빈곳에 계란물을 넣고 스크램블 해줘요!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/22/ec38e556afe126db4f042960f0b6f1ab1.jpg"
+			},
+			{
+				"txt": "다 됐으면 모두 합체!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/22/13cb722f6249309ab26caca2ac7e514d1.jpg"
+			},
+			{
+				"txt": "마무리로 볶아줍니다.최강불",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/22/437814384084ec54ee7620fde8d29d8e1.jpg"
+			},
+			{
+				"txt": "주걱으로 살살 눌러 모양을 잡아줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/22/25c1f9ede156b158695521d5248d1fdd1.jpg"
+			},
+			{
+				"txt": "접시를 위에 얹고 뒤집으면 끝!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/22/bf1e0fe680ac39d8a4ef1c6f918f1f721.jpg"
+			}
+		]
+	},
+	{
+		"id": 27,
+		"name": "초간단 자취요리 '치즈 오므라이스'",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/01/d493261b56c635ab3b9174776e60d86f1.jpg",
+		"summary": " ",
+		"info": {
+			"info1": " ",
+			"info2": "15분 이내",
+			"info3": "아무나"
+		},
+		"ingre": [
+			{
+				"ingre_name": "양파小",
+				"ingre_count": "1",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "양송이버섯",
+				"ingre_count": "2",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "마늘",
+				"ingre_count": "1",
+				"ingre_unit": "알"
+			},
+			{
+				"ingre_name": "슬라이스치즈",
+				"ingre_count": "2",
+				"ingre_unit": "장"
+			},
+			{
+				"ingre_name": "계란",
+				"ingre_count": "3",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "우유",
+				"ingre_count": "50",
+				"ingre_unit": "ml"
+			},
+			{
+				"ingre_name": "밥",
+				"ingre_count": "1",
+				"ingre_unit": "공기"
+			},
+			{
+				"ingre_name": "",
+				"ingre_count": "",
+				"ingre_unit": ""
+			},
+			{
+				"ingre_name": "우유",
+				"ingre_count": "150",
+				"ingre_unit": "ml"
+			},
+			{
+				"ingre_name": "쌀뜨물",
+				"ingre_count": "",
+				"ingre_unit": "적당량"
+			},
+			{
+				"ingre_name": "돈까스소스",
+				"ingre_count": "200",
+				"ingre_unit": "ml"
+			}
+		],
+		"recipe": []
+	},
+	{
+		"id": 28,
+		"name": "[간단 자취요리]라면 스프와 밥을 볶으면? 상상 이상의 맛! 라면밥 만들기",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/09/18/c72575a0bd6ec204c7d931b068e2665b1.jpg",
+		"summary": "안녕하세요 얌배추들!! 얌무입니다 :D오늘은 라면밥을 만들어 봤어요!사실 쿠지라이식 라면을 먹다가 문득 생각이 나서 만들어 봤는데 생각보다 전혀 자극적이지 않고 라면스프의 향이 거의 묻히고 약간 양념 볶음밥 느낌이 나더라구요ㅎㅎ저도 만들기 전에 상상만 했을 땐 짜고, 라면스프맛이 강하고 자극적일 거라 생각했는데 전혀...전.혀 예상을 뒤집은 맛입니다ㅋㅋㅋ",
+		"info": {
+			"info1": "1인분",
+			"info2": "10분 이내",
+			"info3": "아무나"
+		},
+		"ingre": [
+			{
+				"ingre_name": "밥",
+				"ingre_count": "1",
+				"ingre_unit": "공기"
+			},
+			{
+				"ingre_name": "라면스프",
+				"ingre_count": "1/2",
+				"ingre_unit": "봉지"
+			},
+			{
+				"ingre_name": "대파",
+				"ingre_count": "",
+				"ingre_unit": ""
+			},
+			{
+				"ingre_name": "햄",
+				"ingre_count": "",
+				"ingre_unit": ""
+			},
+			{
+				"ingre_name": "설탕",
+				"ingre_count": "1/4",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "버터",
+				"ingre_count": "1/2",
+				"ingre_unit": "T"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "먼저 대파를 칼집낸 뒤 썰어주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/09/18/8a0f856107d26a9df02d64b7c8b918271.png"
+			},
+			{
+				"txt": "햄도 큐브모양으로 썰어주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/09/18/328953a2b3b72936e23fb272766d48851.png"
+			},
+			{
+				"txt": "기름을 두르고 파, 라면스프 1/2를 넣고 볶아주세요약불",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/09/18/0f39fa2a81b514a1a53bf2b199efea461.png"
+			},
+			{
+				"txt": "햄을 넣고 볶아주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/09/18/90a57697342612e7bcd3e159438137751.png"
+			},
+			{
+				"txt": "밥을 넣고 잘 섞어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/09/18/2c3b0870c76257a69dbfe5516eb4972b1.png"
+			},
+			{
+				"txt": "밥알이 풀리면 강불로 볶아주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/09/18/509b6a590aa8d66ade890664af2af6a41.png"
+			},
+			{
+				"txt": "버터 1/2T를 넣고 마무리로 휘리릭 볶아주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/09/18/b62cb5d8bf17e06fc53960ce78bcd9d21.png"
+			},
+			{
+				"txt": "계란후라이를 만들어 줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/09/18/53eccbb2c2d0af2366c6114f99a03e3f1.png"
+			}
+		]
+	},
+	{
+		"id": 29,
+		"name": "[간단 자취요리] 반찬이 필요없네 게살가득! 게살볶음밥 만들기",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/02/13/e3dbd28c7f3bced98054112f92175fb41.jpg",
+		"summary": "오늘은 후다닥 만드는 게살볶음밥입니다!보통은 게살볶음밥에 스크램블에그가 들어가는데요~요즘 때가 때인지라... 계란은 빼고 만들었어요 ㅎㅎ(요즘 제가 예전에 올린 계란들어간 영상들에 계란이 얼만데.. 계란 비싸서 못만듦 등등 굉장히 댓글들이..폭발..하네요 하핫)계란없이도 꿀맛보장이니 한번 만들어보세요!크래미를 아낌없이 넣어줬더니 아주 한 숟가락만 먹어도 입안가득 게향이 폴폴폴 난리남!*예상질문 : 굴소스 없으면 어떻게 하죠?*미리답변 : 간장을 굴소스의 절반정도의 양으로 넣으시면 간은 맞는데 굴소스만의 그 감칠맛을 절대 이길 수 없죠진짜 굴소스는 자취하시는 분들 하나씩 사두기를 추천드려요!굴소스는 완전 만능입니다 오바 조금하면 굴소스에 맨밥만 볶아먹어도 맛있어요ㅋㅋㅋㅋㅋ (마트에 다팔고 한병에 2,3천원대에 살 수 있어요!)",
+		"info": {
+			"info1": "1인분",
+			"info2": "30분 이내",
+			"info3": "아무나"
+		},
+		"ingre": [
+			{
+				"ingre_name": "밥",
+				"ingre_count": "1",
+				"ingre_unit": "공기"
+			},
+			{
+				"ingre_name": "대파",
+				"ingre_count": "",
+				"ingre_unit": "약간"
+			},
+			{
+				"ingre_name": "다진마늘",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "굴소스",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "게살",
+				"ingre_count": "",
+				"ingre_unit": "적당량"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "재료를 준비합니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/02/13/07edf6e1ac3670a6b3428647b0b2115e1.jpg"
+			},
+			{
+				"txt": "파기름을 낼 파를 다져주세요너무 잘게 다질 필요는 없어요",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/02/13/6dde62e8aec8549737f1681dbfd5baf01.jpg"
+			},
+			{
+				"txt": "게살을 잘게 찢어 주세요",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/02/13/f0121b274ebd55ec6231cc21857571f61.jpg"
+			},
+			{
+				"txt": "기름을 넉넉하게 두르고 다진마늘, 파를 볶아줍니다.약불약불에서 끓이듯 볶아주세요! (기름에 향내기)",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/02/13/bcee08bb57a98f77d19cb17eb0f3eb631.jpg"
+			},
+			{
+				"txt": "밥, 게살을 넣고 볶아주세요이때 부터 강불",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/02/13/7b52f538da6cab83a214d42cc8c1afa01.jpg"
+			},
+			{
+				"txt": "굴 소스를 넣고 볶아주세요강불",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/02/13/38565cbc08e0caa301f55affa004e4e31.jpg"
+			},
+			{
+				"txt": "장식으로 게살, 파를 올려봤어요생략 가능",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/02/13/ba729bb8700e1449e7cf0861494737c51.jpg"
+			}
+		]
+	},
+	{
+		"id": 30,
+		"name": "[간단 자취요리] 집에서 떡 만들기! 6분 전자렌지 인절미 만들기",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/16/87a308051ba4cc582722395dc2340f821.jpg",
+		"summary": "안녕하세요 여러분~!오늘은 전자렌지 요리 2탄!! 전자렌지 인절미를 만들어봤어요저는 떡중에 인절미를 제일 좋아하는데요!요즘은 몇개 들지 않은 작은 한팩에 4,5천원 하죠...그래서 집에서 저렴하고 간단하고 맛있게 만들어봤어요!!찹쌀가루는 제품마다 수분 함량이 달라서 반죽 농도는물을 조금씩 넣어가면서 눈으로 맞추시는게 더 정확해요!그리고 콩가루는 간이 되어있는 제품이 있고, 없는제품이 있어서살짝 드셔보시고 간이 없으시면 저처럼 소금,설탕 넣으세요!혹시 전자렌지 한번 돌렸을때 너무 뻑뻑하다 싶으시면물 살짝 넣고 섞으셔도 무관해요!",
+		"info": {
+			"info1": "2인분",
+			"info2": "15분 이내",
+			"info3": "아무나"
+		},
+		"ingre": [
+			{
+				"ingre_name": "찹쌀가루",
+				"ingre_count": "1",
+				"ingre_unit": "종이컵"
+			},
+			{
+				"ingre_name": "콩가루",
+				"ingre_count": "",
+				"ingre_unit": ""
+			},
+			{
+				"ingre_name": "소금",
+				"ingre_count": "1/2",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "설탕",
+				"ingre_count": "2",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "소금",
+				"ingre_count": "1/2~1T",
+				"ingre_unit": "~T"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "재료를 준비합니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/16/1d321687fe46deaed6fff82caa455e7f1.jpg"
+			},
+			{
+				"txt": "찹쌀가루에 물을 조금씩 넣어가며 반죽을 합니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/16/799bf0d79b9956667df4bab104ffc1c61.jpg"
+			},
+			{
+				"txt": "소금도 넣고 섞어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/16/7d95c9d9369306c34f844fa0e1e96afa1.jpg"
+			},
+			{
+				"txt": "반죽한 찹쌀가루를 전자레인지에 3분을 돌려주세요.전자레인지",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/16/ff5ccd5ca3d643828a493302ab1265141.jpg"
+			},
+			{
+				"txt": "전자레인지에서 꺼낸 후 다시 잘 섞어서 전자레인지에 3분 돌려주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/16/0e61cd7cc5483ae8ea698fb4ffdf4e231.jpg"
+			},
+			{
+				"txt": "꺼낸 뒤 그림처럼 나오도록 섞어주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/16/f30a519139e3b7a01d1403d7226503e71.jpg"
+			},
+			{
+				"txt": "간이 된 콩가루라면 생략하셔도 되지만, 간이 되지 않았다면 소금, 설탕을 넣고 섞어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/16/0fe74c58bf50f3c8b17babc0dade68611.jpg"
+			},
+			{
+				"txt": "콩가루를 바닥에 깔고 그 위에도 뿌려줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/16/239daf5e3f9a272274ee902e3f0516301.jpg"
+			},
+			{
+				"txt": "직사각형으로 꾹꾹 눌러 모양을 잡아주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/16/419738c8f903f4ec31c4f25fd8f726d71.jpg"
+			},
+			{
+				"txt": "칼은 떡이 달라 붙어 좋지 않고, 그릇을 돌리며 썰어주면 먹기 좋은 크기로 쉽게 썰 수 있습니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/16/9432ff15e78595b93db5393ecb9877b21.jpg"
+			},
+			{
+				"txt": "완성입니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/16/0ba0501c80bad16b571c89fa0c4023d21.jpg"
+			}
+		]
+	},
+	{
+		"id": 31,
+		"name": "[간단 자취요리] 간장 계란밥 업그레이드! 맛간장 계란밥 만들기",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/12/18/50354adca74bb16074e2385b3bf4c3d31.jpg",
+		"summary": "안녕하세요 얌배추들!!간장 계란밥은 한국인이라면 누구나 한 번쯤은 먹어본 기억이 있죠? 오늘은 간장 계란밥의 업그레이드 버전입니다!살짝 단맛이 더해진 간장 맛 때문에 뭔가 모르게 일식의...일본 맛(?)이 납니다... 나긋나긋 고소 짭짤? 그리고 항상 많이 물어보셨던 계란 후라이 예쁘게 만드는 방법도 함께 확인하세요!",
+		"info": {
+			"info1": "1인분",
+			"info2": "10분 이내",
+			"info3": "아무나"
+		},
+		"ingre": [
+			{
+				"ingre_name": "밥",
+				"ingre_count": "1",
+				"ingre_unit": "공기"
+			},
+			{
+				"ingre_name": "달걀",
+				"ingre_count": "2",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "간장",
+				"ingre_count": "3",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "맛술",
+				"ingre_count": "2",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "올리고당",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "팬에 기름을 두르고 닦아내줍니다.중불",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/12/18/ac0e50aa22b6ac4d083bdac19477c1611.png"
+			},
+			{
+				"txt": "불을 끄고 달걀을 올려줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/12/18/6abd9f816288c50d0fa1c4f3aca1a0451.png"
+			},
+			{
+				"txt": "다시 불을 켜고 약불에 서서히 익혀줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/12/18/6eaaa229e68a3ac989c929cff694ff401.png"
+			},
+			{
+				"txt": "맛술, 간장, 올리고당을 넣어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/12/18/759b118b0754a67fc5a337bca480b5131.png"
+			},
+			{
+				"txt": "약불에서 조려줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/12/18/9f6ef0907f3fd046eeb6fcdec7cdabc61.png"
+			},
+			{
+				"txt": "농도 확인하세요!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/12/18/ddb703fdc3473942d7a188e3377b8dfb1.png"
+			},
+			{
+				"txt": "밥에 달걀후라이를 올리고 소스를 뿌려줍니다.(취향대로 조절)",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/12/18/653a9749e0f05b9586deb2852eaf1e7a1.png"
+			}
+		]
+	},
+	{
+		"id": 32,
+		"name": "간단요리 스팸요리 스팸동/스팸덮밮 자취요리 레시피 ",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2019/09/18/6fbbd7ff05775009440e7a365fa76fb61.jpg",
+		"summary": "단짠단짠 밥도둑이 따로 없네용^^",
+		"info": {
+			"info1": "1인분",
+			"info2": "15분 이내",
+			"info3": "초급"
+		},
+		"ingre": [
+			{
+				"ingre_name": "스팸",
+				"ingre_count": "1",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "밥",
+				"ingre_count": "1",
+				"ingre_unit": "공기"
+			},
+			{
+				"ingre_name": "간장",
+				"ingre_count": "2",
+				"ingre_unit": "스푼"
+			},
+			{
+				"ingre_name": "설탕",
+				"ingre_count": "1",
+				"ingre_unit": "스푼"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "스팸은 너무 두껍지 않게 썰어 주세요",
+				"img": " "
+			},
+			{
+				"txt": "팬에 기름을 두르고 스팸을 노릇하게 구워 줍니다중불",
+				"img": " "
+			},
+			{
+				"txt": "스팸은 잠시 그릇에 두세요",
+				"img": " "
+			},
+			{
+				"txt": "팬에 물 100ml,간장2스푼,설탕2스푼을 넣어 끓으면 스팸을 넣어 뒤적뒤적 해주세요약불",
+				"img": " "
+			},
+			{
+				"txt": "소스가 줄어줄때 불을 끄고 밥위에 스팸을 얹으면 완성 입니다",
+				"img": " "
+			}
+		]
+	},
+	{
+		"id": 33,
+		"name": "[간단 자취요리] 치킨 없어도 OK! 초 간단 치킨마요덮밥 만들기",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/07/c4f237aa789ae941246cb4edc4e060691.jpg",
+		"summary": "안녕하세요 여러분들!!!오늘은 치킨너겟을 만들어 봤어요 :)보통은 남은 치킨으로 많이들 만드시는데 치킨이 남을리가 없다는의견이 굉장히 많더라구요 ㅎㅎㅎ그래서 오늘은 간편하게 치킨너겟으로 치킨마요덮밥을 만들었어요밖에서 사먹으면 치킨이 너무 콩알만큼 들어있죠?확실히 집에서 만들어 먹으니까 건더기도 푸짐한게 맛있어요bb스크램블은 완전 바싹 익히기보다 살짝 촉촉할때 내리시는게 좋아요 :)그리고 마요네즈랑 돈가스소스 뿌리실때는 약병에 넣어서뿌리시면 더 이뻐요!",
+		"info": {
+			"info1": "1인분",
+			"info2": "15분 이내",
+			"info3": "아무나"
+		},
+		"ingre": [
+			{
+				"ingre_name": "밥",
+				"ingre_count": "",
+				"ingre_unit": ""
+			},
+			{
+				"ingre_name": "치킨너겟",
+				"ingre_count": "",
+				"ingre_unit": ""
+			},
+			{
+				"ingre_name": "계란",
+				"ingre_count": "",
+				"ingre_unit": ""
+			},
+			{
+				"ingre_name": "양파",
+				"ingre_count": "1/2",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "간장",
+				"ingre_count": "2",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "맛술",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "올리고당",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "돈가스소스",
+				"ingre_count": "",
+				"ingre_unit": ""
+			},
+			{
+				"ingre_name": "마요네즈",
+				"ingre_count": "",
+				"ingre_unit": ""
+			}
+		],
+		"recipe": [
+			{
+				"txt": "재료를 준비합니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/07/45b62b30100b157709a938552848a7c21.jpg"
+			},
+			{
+				"txt": "치킨을 대신해 줄 치킨너겟을 구워줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/07/c305d8c9e3062c30e8159bfb7e22c26b1.jpg"
+			},
+			{
+				"txt": "노릇노릇하게 구워주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/07/1984cdc1b221b21abf62ec007cf77b441.jpg"
+			},
+			{
+				"txt": "구운 치킨너겟은 먹기 좋은 크기로 잘게 썰어주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/07/746c43b918d917e73ac56330c20738d41.jpg"
+			},
+			{
+				"txt": "준비한 양파도 너무 굵지 않은 채로 썰어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/07/e0963ceb4a7cbebe16cc90620068e7d01.jpg"
+			},
+			{
+				"txt": "양파를 볶다가 양념 (간장2T, 맛술1T, 올리고당1T )을 넣고 볶아주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/07/1f7b084b62740386e56bd6d7467291251.jpg"
+			},
+			{
+				"txt": "계란 스크램블을 만들 차례입니다. 계란물을 후라이팬에 부어주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/07/956ba5cb38fd49c0198a06f4e12c0af31.jpg"
+			},
+			{
+				"txt": "젓가락으로 계란이 익을 때 까지 휘히 저어주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/07/02c43d0fc8b36444d160d96503e4631b1.jpg"
+			},
+			{
+				"txt": "밥을 아래에 깔고 양파를 얹고 계란스크램블을 가장자리에 놓아주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/07/97a23a153ae546a6cb582c7870182d211.jpg"
+			},
+			{
+				"txt": "맨 우에 치킨을 놓고 돈까스소스와 마요네즈를 뿌려주세요. (물약통에 넣어 뿌려주면 모양이 더 예쁘게 잡힙니다.)",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/07/947d17b1121a601b3d272416366806371.jpg"
+			}
+		]
+	},
+	{
+		"id": 34,
+		"name": "간단요리 참치 김치볶음밥 황금레시피 자취요리 ",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2019/10/09/7f8ee9f759dd1684cc2647fbea46cfc81.jpg",
+		"summary": "김치볶음밥은 언제나 맛있어용^^",
+		"info": {
+			"info1": "1인분",
+			"info2": "10분 이내",
+			"info3": "아무나"
+		},
+		"ingre": [
+			{
+				"ingre_name": "김치",
+				"ingre_count": "1/2",
+				"ingre_unit": "공기"
+			},
+			{
+				"ingre_name": "참치",
+				"ingre_count": "1",
+				"ingre_unit": "캔"
+			},
+			{
+				"ingre_name": "밥",
+				"ingre_count": "1",
+				"ingre_unit": "공기"
+			},
+			{
+				"ingre_name": "고추장",
+				"ingre_count": "1",
+				"ingre_unit": "스푼"
+			},
+			{
+				"ingre_name": "들기름",
+				"ingre_count": "5",
+				"ingre_unit": "스푼"
+			},
+			{
+				"ingre_name": "설탕",
+				"ingre_count": "1",
+				"ingre_unit": "스푼"
+			},
+			{
+				"ingre_name": "계란",
+				"ingre_count": "1",
+				"ingre_unit": "개"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "잘게 썬 김치 반공기를 팬에 넣고 들기름 2스푼,설탕1스푼을 넣어 볶아줍니다중약불40초정도 볶기",
+				"img": " "
+			},
+			{
+				"txt": "참치를 살짝 볶다가 고추장 1스푼을 넣어 재료가 섞이게 더 볶아 줍니다",
+				"img": " "
+			},
+			{
+				"txt": "밥을 넣고 들기름 2스푼을 넣은후 40초간 볶아 주세요약불",
+				"img": " "
+			},
+			{
+				"txt": "불을 끄고 들기름 1스푼을 넣어 잘섞어 주면 완성 입니다",
+				"img": " "
+			},
+			{
+				"txt": "계란도 식성에 따라 올려 줍니다",
+				"img": " "
+			}
+		]
+	},
+	{
+		"id": 35,
+		"name": "간단 자취 요리 김치볶음밥",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2020/07/05/f91ae19c27d60bd5feeaad89b30b81d11.jpg",
+		"summary": "백종원님 레시피 참고했어용^^",
+		"info": {
+			"info1": "1인분",
+			"info2": "10분 이내",
+			"info3": "초급"
+		},
+		"ingre": [
+			{
+				"ingre_name": "김치",
+				"ingre_count": "1",
+				"ingre_unit": "컵"
+			},
+			{
+				"ingre_name": "햄",
+				"ingre_count": "1/2",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "대파",
+				"ingre_count": "1/2",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "진간장",
+				"ingre_count": "2",
+				"ingre_unit": "스푼"
+			},
+			{
+				"ingre_name": "고춧가루",
+				"ingre_count": "1",
+				"ingre_unit": "스푼"
+			},
+			{
+				"ingre_name": "계란",
+				"ingre_count": "2",
+				"ingre_unit": "개"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "햄,대파 반개를 작게 잘라주고 김치 한컵은 가위로 잘게 잘라줍니당",
+				"img": " "
+			},
+			{
+				"txt": "팬에 기름을 두르고 파를 볶아줍니다중불",
+				"img": " "
+			},
+			{
+				"txt": "파향이 올라오면 햄을 넣고 볶다가 간장 2스푼을 추가해 잘 섞어 주세용중불",
+				"img": " "
+			},
+			{
+				"txt": "김치 한컵과 고춧가루 한스푼을 넣고 3분정도 볶습니다",
+				"img": " "
+			},
+			{
+				"txt": "불을 끄고 밥한공기를 넣어 섞어줍니당",
+				"img": " "
+			},
+			{
+				"txt": "다시 불을 키고 볶다가 그릇에 볶음밥을 눌러 담아 팬에 뒤집어 주세용약불",
+				"img": " "
+			},
+			{
+				"txt": "식용유를 두르고 팬 가장자리에 계란물을 빙 둘러주면 완성입니당약불",
+				"img": " "
+			}
+		]
+	},
+	{
+		"id": 36,
+		"name": "[간단 자취요리] 중국집 그 맛! 중국집 볶음밥 만들기",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/04/11/55dc7d44c06f590f9af43506fc7c9d021.jpg",
+		"summary": "안녕하세요 여러분 :D오늘은 중국집 볶음밥 만들기입니다!중국집 볶음밥은 강한 화력으로 밥알을 한알한알꼬들하게 볶아내는게 특징인데요~집에서는 그런 화력을 낼 수 없죠...하지만 집에서 할 수 있는 방법으로 최대한 비슷하게만드는 방법을 알려드릴게요!현업에 종사하시는분들! 이게 무슨 중국집 볶음밥이냐~집에선 절대 그렇게 못만든다~ 이렇게 해야한다~ 이런 댓글은 참아주세요ㅋㅋㅋ..저는 집에서 그나마 비슷한 맛을 내기위한 최선의 방법을 알려드리는 것 뿐입니닷 :D저는 개인적으로 볶음밥중에 이 볶음밥이 제일 좋아요 ㅠㅠ가장 '볶음' 밥스러운 맛이라고 할까...그리고 전 집에 조미료가 없어서 항상 설탕으로 대체해요!( 자취 초기부터 한번도 조미료를 산적이 없는데, 이유는 조미료를 사두고 쓰게되면 그냥... 요리가 절대 안늘 것 같더라구요...)",
+		"info": {
+			"info1": "1인분",
+			"info2": "30분 이내",
+			"info3": "아무나"
+		},
+		"ingre": [
+			{
+				"ingre_name": "밥",
+				"ingre_count": "1",
+				"ingre_unit": "공기"
+			},
+			{
+				"ingre_name": "계란",
+				"ingre_count": "2",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "대파",
+				"ingre_count": "",
+				"ingre_unit": "적당량"
+			},
+			{
+				"ingre_name": "당근(생략가능)",
+				"ingre_count": "",
+				"ingre_unit": ""
+			},
+			{
+				"ingre_name": "미원",
+				"ingre_count": "1",
+				"ingre_unit": "t"
+			},
+			{
+				"ingre_name": "소금",
+				"ingre_count": "1/2",
+				"ingre_unit": "t"
+			},
+			{
+				"ingre_name": "소금",
+				"ingre_count": "1/2",
+				"ingre_unit": "t"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "재료를 준비합니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/04/11/7ae51dee6055cea9e1666a78edd4c2f91.png"
+			},
+			{
+				"txt": "우선 대파를 적당한 굵기로 총총총 썰어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/04/11/6e998130f3d1d2e4595a39bfc9a90d8a1.png"
+			},
+			{
+				"txt": "당근은 잘게 다져 줍니다.# 당근은 색감용입니다. 생략하셔도 돼요!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/04/11/ca24d7524e8d4fd50d474a7081dccde41.png"
+			},
+			{
+				"txt": "계란 2개에 소금, 미원을 넣고 풀어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/04/11/9814268621307222f4cbdc79ef24b9b91.png"
+			},
+			{
+				"txt": "팬에 기름을 두르고 파를 끓이듯 볶아 향을 내줍니다.약불 ",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/04/11/aa8c552401b73e1720a52179ebaf60d11.png"
+			},
+			{
+				"txt": "향이 충분히 퍼지면 당근도 넣어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/04/11/7632a173a711df2c373421f6ecceb5d91.png"
+			},
+			{
+				"txt": "풀어둔 계란의 반만 넣어 스크램블을 만들어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/04/11/36f236ba6de6e684bb93868175a31aeb1.png"
+			},
+			{
+				"txt": "이제 불을 완전히 끄고 남은 계란과 밥을 넣어줍니다.# 스크램블이 완성되고 남은 계란물과 밥을 비벼줄때는  꼭★ 불을 꺼주세요. 끄고, 밥이 덩어리진게 없고 사이사이에 계란물이 들어가도록 잘 비벼주신 뒤 불을 켜주세요!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/04/11/664a7a4ca126f66d3fbe7fa3df6ec8741.png"
+			},
+			{
+				"txt": "계란물과 밥을 뭉치지 않게 잘 섞어줍니다.밥에 덩어리가 없을 때까지 꾹꾹!눌러가며 잘 펴줘요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/04/11/c912c56815f75480297e06316bec23d81.png"
+			},
+			{
+				"txt": "다 섞었으면 최고 강불로 높여 충분히 달달 볶아주세요.강불# 밥을 다 섞은뒤 다시 불을 키는 순간부터 마지막에 끌때까지는 무조건 최 강불입니다. ( 이 단계에서 밥들이 노릇하게 구워져서 불맛에 가까운 향을 내줍니다) 대충 볶고 불끄지 마시고 2분이상 계속 달달 볶아줘요!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/04/11/850f31e61a2f961510c219a65174acd21.png"
+			},
+			{
+				"txt": "마지막 전체 소금간을 살짝 하고 마무리로 볶아줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/04/11/e131d0fea85f4a9749f9cbca049c87801.png"
+			}
+		]
+	},
+	{
+		"id": 37,
+		"name": "[간단 자취요리] 꿀보다 꿀맛! 치즈밥 만들기",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/20/1066ca00260ef48ea4da7058015c4e801.jpg",
+		"summary": "오늘은 쌍문동 분식점 인기메뉴로도 유명한 치즈밥을 만들었어요!비주얼 만큼이나 맛도 좋아서 손님올때 해드셔도 인기만점 :)양념도 간단한데 은근 중독성이 장난아닙니다 bb화면에 새빨갛게 나와서 좀 짜보일 수도 있는데 전혀 그렇지 않아요",
+		"info": {
+			"info1": "1인분",
+			"info2": "15분 이내",
+			"info3": "아무나"
+		},
+		"ingre": [
+			{
+				"ingre_name": "밥",
+				"ingre_count": "1",
+				"ingre_unit": "공기"
+			},
+			{
+				"ingre_name": "참치",
+				"ingre_count": "1",
+				"ingre_unit": "작은캔"
+			},
+			{
+				"ingre_name": "옥수수콘",
+				"ingre_count": "",
+				"ingre_unit": "취향껏"
+			},
+			{
+				"ingre_name": "양파",
+				"ingre_count": "1/2",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "모짜렐라치즈",
+				"ingre_count": "",
+				"ingre_unit": "취향껏"
+			},
+			{
+				"ingre_name": "고추장",
+				"ingre_count": "4",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "케찹",
+				"ingre_count": "4",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "설탕",
+				"ingre_count": "2",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "참기름",
+				"ingre_count": "",
+				"ingre_unit": "약간"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "재료를 준비합니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/20/47cb61acdb4a9e2d7397433c5d62cc631.jpg"
+			},
+			{
+				"txt": "양파는 잘게 썰어 다져주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/20/5b01ab3b7bf31a14f79758aa90723d0a1.jpg"
+			},
+			{
+				"txt": "준비한 재료들을 모두 한 그릇에 넣고 비벼주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/20/3e7716d4358fd606fb5683f14b0c2fe91.jpg"
+			},
+			{
+				"txt": "골고루 비벼주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/20/8286af5bc49d7be4292c0ecb8f8654fd1.jpg"
+			},
+			{
+				"txt": "뚝배기에 참기름을 발라주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/20/04b013245153b87ad596b926297491691.jpg"
+			},
+			{
+				"txt": "참기름을 바른 후 비빈 밥을 넣어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/20/eb098b7f1361db8673497db9416ff0bb1.jpg"
+			},
+			{
+				"txt": "그 위에 모짜렐라치즈를 듬뿍 얹어주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/20/1a280ec9b74f88f1b08a289cfede62f51.jpg"
+			},
+			{
+				"txt": "중약불에서 뚜껑을 닫고 치즈를 녹여줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/20/5080b27d667b5058690823106f00666b1.jpg"
+			},
+			{
+				"txt": "치즈가 다 녹으면 완성입니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/20/d1e11689451440e1e9e10dead5b7858a1.jpg"
+			}
+		]
+	},
+	{
+		"id": 38,
+		"name": "[간단 자취요리] 신전시리즈 3탄! 신전 참치마요컵밥 만들기 / 참치마요덮밥 ",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/18/7d3a0d977e65d25128f0e572a3aabc1e1.jpg",
+		"summary": "안녕하세요 여러분들 : ) 오늘은 한 구독자님께서 신청해 주신 신전떡볶이 시리즈 3탄! 신전 참치마요 컵밥을 만들어봤어요 ㅎㅎ 시켜먹을때 보면 양이 조금은 작아서 사람이 많을땐 좀 아쉽죠? 대용량으로 만들어서 다같이 드셔도 좋아요 :) 그리고 반정도 먹다가 남은건 신전 국물에 비벼드시면 존맛..알죠!? 이거 이쁘게 찍으려고 옆동네 신전떡볶이 가서 그릇도 얻어왔어요.. 굉장히 민망했지만 여러분들을 위해서라면!!! 히힣",
+		"info": {
+			"info1": "1인분",
+			"info2": "15분 이내",
+			"info3": "아무나"
+		},
+		"ingre": [
+			{
+				"ingre_name": "밥",
+				"ingre_count": "1",
+				"ingre_unit": "공기"
+			},
+			{
+				"ingre_name": "참치작은캔",
+				"ingre_count": "1",
+				"ingre_unit": "캔"
+			},
+			{
+				"ingre_name": "계란",
+				"ingre_count": "1",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "마요네즈",
+				"ingre_count": "3",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "간장",
+				"ingre_count": "3",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "물",
+				"ingre_count": "3",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "맛술",
+				"ingre_count": "2",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "설탕",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "김가루",
+				"ingre_count": "",
+				"ingre_unit": "조금"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "재료를 준비합니다.[재료] 밥 1공기, 참치작은캔 1캔, 계란 1개, 마요네즈 3T[간장소스] 간장 3T, 물 3T, 맛술 2T, 설탕 1T[생략가능재료] 김가루 조금",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/18/8c364551eb764145445dac409f31d66b1.png"
+			},
+			{
+				"txt": "먼저 닭알을 소금넣고 풀어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/18/89902d4b60f64af1ed815589059dc7e61.png"
+			},
+			{
+				"txt": "신전 참치마요의 꽃 지단을 만들거에요! 지단을 최고 약불에 구워주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/18/2a90c8b53032ae2a29881a03947e88241.png"
+			},
+			{
+				"txt": "지단을 먹기 좋게 채썰어 줍니다. 찢어지기 쉬우니 꾹꾹 내려찍듯 썰어주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/18/b55ed27042f355d0f8d65f52251b78021.png"
+			},
+			{
+				"txt": "참치마요 소스를 만들어주세요. 약불에 살짝만 졸여주세요! 너무 졸이면 짜요.[간장소스] 간장 3T, 물 3T, 맛술 2T, 설탕 1T",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/18/ac78a8e8d4cb2cd68fe716290250a8bb1.png"
+			},
+			{
+				"txt": "참치는 기름을 빼고 사용합니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/18/7f49d11780ad9db3c3bb1a9956b8be511.png"
+			},
+			{
+				"txt": "이제 밥 위에 재료들을 차곡차곡 쌓아줍니다. 마요네즈도 넣어주세요!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/18/d7ef7e929a872d1f7dbccb6c264b4f471.png"
+			},
+			{
+				"txt": "신전 시리즈3 참치마요컵밥 완성! 소스는 넣어가면서 간 조절하세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/18/22696215c515ccd185099c483bfc2d8b1.png"
+			}
+		]
+	},
+	{
+		"id": 39,
+		"name": "[간단 자취요리]상추쌈?무쌈? NO!! 햄덕후의 7분 햄쌈덮밥 만들기",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/28/d010770e7cf71fe3b03f65143f788dcb1.jpg",
+		"summary": "안녕하세요 여러분!!오늘 영상이 좀 늦었네요 ㅠㅠ 요즘 이모저모로 정신이 너무 없는 하루하루를 보내고 있어요...(결국핑계) 데동합니다..오늘은 햄쌈덮밥을 준비해봤어요!백종원 도시락에 햄쌈도시락을 먹고 만들어봤는데요역시나 볶음김치와 햄의 조화는 환상입니다그리고 진짜 제대로된 자취요리가 아닐까 싶어요ㅋㅋㅋ햄과 김치만 있으면 끝이니까요!",
+		"info": {
+			"info1": "1인분",
+			"info2": "10분 이내",
+			"info3": "아무나"
+		},
+		"ingre": [
+			{
+				"ingre_name": "신김치",
+				"ingre_count": "1",
+				"ingre_unit": "공기"
+			},
+			{
+				"ingre_name": "설탕",
+				"ingre_count": "1/2",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "햄",
+				"ingre_count": "",
+				"ingre_unit": "적당량"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "재료를 준비합니다.밥, 신 김치, 일반 햄",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/28/e6f4e24a518ef49972a1e2c8337d28e01.jpg"
+			},
+			{
+				"txt": "우선 햄을 최대한 얇게 썰어주세요.두껍게 썰면 휘지 않아서 밥을 싸먹을 수 없어요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/28/391d7ab36b6e9b817f519e4b7875f2401.jpg"
+			},
+			{
+				"txt": "기름을 두르고 햄을 익혀줍시다.약불최고 약불에서 끓이는 듯 익혀주세요. (노릇노릇X)",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/28/1552ac5bba6148d6f9fe1481ef8610a31.jpg"
+			},
+			{
+				"txt": "다 익었으면 키친타올에서 잠시 기름을 빼줍시다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/28/a0141bc369e21968716c9b10230aaf651.jpg"
+			},
+			{
+				"txt": "팬에 그대로 잘게 썬 신 김치를 넣어주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/28/a2890c648343affb6e86790b5df4b8301.jpg"
+			},
+			{
+				"txt": "설탕을 넣고 지글지글 볶아줍니다.중약불고춧가루가 들어가서 불이 조금만 높아도 양념이 타요. 조심하세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/28/e8b0c1dcdbd10309cfeb2bae9dfaca511.jpg"
+			},
+			{
+				"txt": "볶아주다 보면 수분이 날아가서 팬에 양념이 눌어붙어요. 그쯤 물을 반컵 넣고 양념을 닦아주세요.이 작업을 하면 볶은 김치 맛이 더 좋아집니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/28/7b5308dfdf48be7548cedca7419d57541.jpg"
+			},
+			{
+				"txt": "이제 여기서 수분만 날려주시면 됩니다.중불약간 촉촉한 정도면 딱 좋아요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/28/b16925c1f9823a2c9fc61cd0022c0ce51.jpg"
+			},
+			{
+				"txt": "준비한 밥 위에 볶은 김치부터 깔아주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/28/3136e2232f3b7cca8c48ade51411d34f1.jpg"
+			},
+			{
+				"txt": "그리고 싸먹을 햄을 쫙 둘러줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/28/123c7262c02d9bef37326c393cf54f761.jpg"
+			}
+		]
+	},
+	{
+		"id": 40,
+		"name": "[간단 자취요리] 혼자 아프지 마세요! 초간단 계란죽 만들기 / 죽 끓이기",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/11/19d8686ced0bd90c5be4e476844c18d81.jpg",
+		"summary": "안녕하세요 여러분들~!!요즘 날씨 때문에 감기 환자가 굉장히 많은데요~구독자님들 중에도 감기 걸리신 분들 계실 것 같네요 ㅠㅠ특히 혼자사는데 아프면 엄청 서럽죠?ㅠㅠ그래서 초간단으로 죽을 만드는 방법을 가져왔습니다보통 죽은 쌀을 불려서 하는데 그렇게 하시면 아무도 따라하지 않을것을 너무나 잘 알기에... 역시나 밥을 이용한 죽입니다그리고 계란죽은 재료가 너무 간단한 만큼 맛을 내려면 멸치다시육수를 사용해야 해요! 저는 오늘 간단 버전으로 치킨스톡을 이용했는데 치킨스톡 대신에 멸치육수를 사용하셔도 좋습니다제 영상들 중에 치킨스톡이 들어간 영상도 꽤 있어요! 자취생 분들이라면 치킨스톡 하나 사두시면 편리하게 이용하실 수 있으실거에요",
+		"info": {
+			"info1": "1인분",
+			"info2": "30분 이내",
+			"info3": "아무나"
+		},
+		"ingre": [
+			{
+				"ingre_name": "계란",
+				"ingre_count": "2",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "밥",
+				"ingre_count": "1",
+				"ingre_unit": "공기"
+			},
+			{
+				"ingre_name": "치킨스톡",
+				"ingre_count": "1/2",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "물",
+				"ingre_count": "800",
+				"ingre_unit": "ml"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "재료를 준비합니다.계란, 밥, 치킨스톡, 물",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/11/f551a625f7c7719bce87c8c6a43fe60e1.jpg"
+			},
+			{
+				"txt": "먼저 계란을 풀어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/11/bbfb6a3407d1a516d58c752a019643871.jpg"
+			},
+			{
+				"txt": "밥과 물을 냄비에 넣어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/11/d12a1aa95379d5860844e9b7e4a92d921.jpg"
+			},
+			{
+				"txt": "치킨스톡 반조각도 넣어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/11/56d6703102acf425ed34676745285a221.jpg"
+			},
+			{
+				"txt": "끓이면서 국자로 밥알들을 꾹꾹 으깨주는 게 포인트!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/11/94ae6952990968d36878cfe952a65b5a1.jpg"
+			},
+			{
+				"txt": "한손으로 계란물을 붓고 한손으로는 빠르게 저어줍니다.약불",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/11/803904537bfb23a67e3007e349a370551.jpg"
+			},
+			{
+				"txt": "적당한 농도가 나면 완성! 통깨와 참기름으로 마무리!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/11/60105ae72b4cb54f815f5c722223a4471.jpg"
+			}
+		]
+	}
+]

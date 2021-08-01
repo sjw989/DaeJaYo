@@ -1,0 +1,1511 @@
+[
+	{
+		"id": 1,
+		"name": "[간단 자취요리] 몽쉘로 쫀득쫀득 컵브라우니 만들기!",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/02/15/8fc58374cdba7cdf0beebac7f38ea2971.jpg",
+		"summary": "안녕하세요 여러분!오늘은 발렌타인데이죠? 주변사람들과, 연인들과 초콜렛 많이 주고받으셨나요ㅎㅎ 저는 이렇게 발렌타인데이도 자급자족으로...:D여러분들도 브라우니 간단하게 만들어서 드셔보세요 ㅎㅎ슬프다구요? 기분 탓이에요 (엉엉)그리고 오늘은 완성 영상이랑 사진이 없어서 앞뒤가 휑~한점 양해부탁드려요..ㅋㅋㅋ",
+		"info": {
+			"info1": "1인분",
+			"info2": "5분 이내",
+			"info3": "아무나"
+		},
+		"ingre": [
+			{
+				"ingre_name": "몽쉘카카오맛",
+				"ingre_count": "4",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "우유",
+				"ingre_count": "5~6T",
+				"ingre_unit": "~T"
+			},
+			{
+				"ingre_name": "초콜릿",
+				"ingre_count": "",
+				"ingre_unit": "약간"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "재료를 준비합니다",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/02/15/507bc4377cfe3ef4294b090cd6e8849a1.jpg"
+			},
+			{
+				"txt": "우선 몽쉘을 그릇에 넣고 으깨줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/02/15/107aa1ae898d69608e27715981ddf5ed1.jpg"
+			},
+			{
+				"txt": "우유도 넣고 비벼줘요.우유는 +,- 가능해요 우유가 많으면 좀 더 부드러운 느낌이고 우유가 적으면 더 쫀득한 느낌입니다!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/02/15/7b3ba6d54393b60255d1ac4d42fb2a3d1.jpg"
+			},
+			{
+				"txt": "컵에 반을 채워주세요 :D",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/02/15/1e16099e174ac0533a758f70fadb1ba21.jpg"
+			},
+			{
+				"txt": "중간에 초콜릿을 넣어주세요 (생략가능)",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/02/15/6eb563018b3537a78018c9cb26faed441.jpg"
+			},
+			{
+				"txt": "윗부분도 반죽으로 덮어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/02/15/acde72aba4a0e3452644494276d97b1d1.jpg"
+			},
+			{
+				"txt": "전자렌지에 돌려주세요.전자레인지전자렌지 사양에 따라 달라서 우선 저는 1분 + 1분 30초 돌려줬는데요 여러분들은 1분 돌리시고 상태보시면서 30초씩 추가해보세요 그게 제일 안전합니다! 당연히 양이 늘어나면 돌리는 시간도 늘어나겠죠? (사양이 다 다르니까 콕 집어서 말해드리기가 애매하네요 ㅠㅠ)",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/02/15/3341990a3966397ad355cbf0d554acdf1.jpg"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"name": "[간단 자취요리] 콘치즈가 고로케 속에! 콘치즈 고로케 만들기",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/07/10/63eab9e7501e5c36db6c26ea8a93aa7f1.jpg",
+		"summary": "안녕하세요 여러분!!!오늘은 콘치즈 고로케를 만들어 봤어요!맛은 당연히 상상이 가시죠?...그렇습니다. 너무 맛있어요 :D원래 재료가 겹치는건 연속으로 안올리려고 하는데, 화요일에 올렸던 콘꼬노미야끼 만드셨던 분이 있다면 분명 콘이 남으셨을 것 같아서 연결해서 올려요!!",
+		"info": {
+			"info1": "2인분",
+			"info2": "30분 이내",
+			"info3": "초급"
+		},
+		"ingre": [
+			{
+				"ingre_name": "감자",
+				"ingre_count": "2",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "소금",
+				"ingre_count": "1",
+				"ingre_unit": "t"
+			},
+			{
+				"ingre_name": "밀가루",
+				"ingre_count": "",
+				"ingre_unit": ""
+			},
+			{
+				"ingre_name": "계란",
+				"ingre_count": "1",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "빵가루",
+				"ingre_count": "",
+				"ingre_unit": ""
+			},
+			{
+				"ingre_name": "모짜렐라치즈",
+				"ingre_count": "1/2",
+				"ingre_unit": "그릇"
+			},
+			{
+				"ingre_name": "스위트콘",
+				"ingre_count": "1/2",
+				"ingre_unit": "그릇"
+			},
+			{
+				"ingre_name": "마요네즈",
+				"ingre_count": "",
+				"ingre_unit": ""
+			}
+		],
+		"recipe": [
+			{
+				"txt": "감자의 껍질을 벗긴 후 감자가 빨리 익도록 썰어주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/07/10/a570618901e70d9f2852da27d0f16e171.png"
+			},
+			{
+				"txt": "감자를 삶아줍니다!찔러봤을 때 푹 들어가면 OK",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/07/10/9dd9ae27b751bae304c465fb13644ddc1.png"
+			},
+			{
+				"txt": "소금을 넣고 으깨줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/07/10/fc16e8b9da9d2ffd48af1ba3fe5e8ebc1.png"
+			},
+			{
+				"txt": "치즈, 콘, 마요네즈를 넣고 섞어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/07/10/ea271edc0091af0adfc95b56330eb2e51.png"
+			},
+			{
+				"txt": "으깬 감자에 내용물을 넣고 싸주세요!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/07/10/49ef8128ad00a595ecc68c3b6795c07b1.png"
+			},
+			{
+				"txt": "고로케 반죽을 밀가루 -> 계란물 -> 빵가루 순으로 묻혀줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/07/10/f968e6ba1cdba36093515abe938b17621.png"
+			},
+			{
+				"txt": "중불에서 노릇노릇 튀겨주면 끝!중불",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/07/10/923b879fc3b2275dd9b88b5ba7c82f031.png"
+			}
+		]
+	},
+	{
+		"id": 3,
+		"name": "간단요리 모짜렐라 고르곤졸라 토스트 아침식사 자취요리 간식으로 굿!",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2019/10/11/dc27fe5e9a64935f4f713d8f1e5a41e21.jpg",
+		"summary": "존맛탱 레시피",
+		"info": {
+			"info1": "1인분",
+			"info2": "10분 이내",
+			"info3": "아무나"
+		},
+		"ingre": [
+			{
+				"ingre_name": "식빵",
+				"ingre_count": "2",
+				"ingre_unit": "장"
+			},
+			{
+				"ingre_name": "버터",
+				"ingre_count": "3",
+				"ingre_unit": "스푼"
+			},
+			{
+				"ingre_name": "마늘",
+				"ingre_count": "2",
+				"ingre_unit": "스푼"
+			},
+			{
+				"ingre_name": "꿀",
+				"ingre_count": "3",
+				"ingre_unit": "스푼"
+			},
+			{
+				"ingre_name": "모짜렐라치즈",
+				"ingre_count": "",
+				"ingre_unit": "원하는만큼"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "버터3,다진마늘2를 넣고 전자렌지에 40초 데운후 꿀3스푼을 추가해줍니다전자레인지",
+				"img": " "
+			},
+			{
+				"txt": "식빵 가운데를 꾹 눌러 움푹 들어가게 만든후 소스를 발라 줍니다",
+				"img": " "
+			},
+			{
+				"txt": "식빵 한장을 더깔고 소스를 발라 주세요",
+				"img": " "
+			},
+			{
+				"txt": "모짜렐라치즈를 원하는만큼 뿌린후 3분 정도 전자렌지에 데워주면 완성 입니다",
+				"img": " "
+			}
+		]
+	},
+	{
+		"id": 4,
+		"name": "[간단 자취요리] 냉동만두의 계급상승! NO오븐 떠먹는 피자 만들기 ",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/02/857ae57c3a91690516b2267364e2d4d21.jpg",
+		"summary": "안녕하세요 여러분들 :) 신나는 금요일이 돌아왔네요ㅎㅎ그리고 이제 12월인 만큼 올 한해를 돌아보는 시간을 가져보는것도 좋을 것 같아요!연말이라 약속도 많으실텐데 좋은 사람들과 행복하게 보내세요 ♡오늘은 떠먹는 피자를 만들어 봅시다!!두꺼운 피자 도우를 싫어하시는 분들은 더욱 좋아할거에요!냉동만두를 이용해서 가장 쉽고 간편하고 맛있게 만들어볼게요그리고 당연히 노오븐입니다 ( 오븐이 없는 얌무니까요..ㅎ...)",
+		"info": {
+			"info1": "1인분",
+			"info2": "30분 이내",
+			"info3": "아무나"
+		},
+		"ingre": [
+			{
+				"ingre_name": "양파",
+				"ingre_count": "",
+				"ingre_unit": ""
+			},
+			{
+				"ingre_name": "토마토소스",
+				"ingre_count": "",
+				"ingre_unit": ""
+			},
+			{
+				"ingre_name": "냉동만두",
+				"ingre_count": "",
+				"ingre_unit": ""
+			},
+			{
+				"ingre_name": "모짜렐라치즈",
+				"ingre_count": "",
+				"ingre_unit": ""
+			}
+		],
+		"recipe": [
+			{
+				"txt": "재료를 준비합니다.양파, 토마토소스, 냉동만두, 모짜렐라치즈",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/02/a70717c6d89931e2b71c34119490d23e1.jpg"
+			},
+			{
+				"txt": "우선 양파를 다져줍시다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/02/c9fa6a2110f9438ac97e63643e6293411.jpg"
+			},
+			{
+				"txt": "만두를 랩이나 비닐팩으로 덮고 전자레인지에 4~5분 돌려주세요.전자레인지",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/02/0fd8d0e03d3b07186f99457dc45190c91.jpg"
+			},
+			{
+				"txt": "이제 만두를 가위로 송송송 잘라주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/02/f4b5d65f1583edd7d3ad5dfe4249cf381.jpg"
+			},
+			{
+				"txt": "이제 완성접시에 순서대로 차곡차곡 쌓아줍니다. 그리고 전자레인지에 5~7분 돌려주세요.많이 드시고 싶으신 분은 한 층을 더 쌓아주세요!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/02/0fbdb63405232f3cd49ed0d4256c38af1.jpg"
+			}
+		]
+	},
+	{
+		"id": 5,
+		"name": "[간단 자취요리] NO오븐! NO밀가루! 오직 계란만으로 계란케이크 만들기",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/17/c5cb021062eabc897e5190df3f60eb5a1.jpg",
+		"summary": "안녕하세요 여러분들~!!신나는 금요일이 찾아왔습니다!!!저는.. 하루종일 음식촬영, 큐앤에이답변 촬영을 하고있을 것 같네요 하핳 여러분들은 저 대신 신나는 불금 보내세요!!!오늘은 밀가루,핫케이크가루,오븐 없이 오직 계란만으로 계란케이크를 만들어봤어요!생긴건 약간 핫케익이랑 비슷하고 맛도 비슷해요 ㅎㅎ오늘의 키 포인트는 바로 머랭인데요~달달~한 시럽과 어우러져서 너무너무 맛있어요!",
+		"info": {
+			"info1": "1인분",
+			"info2": "30분 이내",
+			"info3": "아무나"
+		},
+		"ingre": [
+			{
+				"ingre_name": "계란",
+				"ingre_count": "4",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "버터",
+				"ingre_count": "2",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "설탕",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "설탕",
+				"ingre_count": "5",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "물",
+				"ingre_count": "5",
+				"ingre_unit": "T"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "재료를 준비합니다.계란, 버터, 설탕, 물",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/17/e88612d9472dde054675b9be2e7efab01.jpg"
+			},
+			{
+				"txt": "우선 위에 뿌릴 시럽을 먼저 만듭시다! 설탕과 물을 동량으로 넣어줍니다.중약불절대 저으시면 안 됩니다. (설탕 굳음) 팬을 기울여 섞어주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/17/79f70ee3d43d0e101f8150f9cda8580b1.jpg"
+			},
+			{
+				"txt": "시럽의 농도가 나오면 완성!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/17/81802dc663d954e95e9e42dc84fcbe7a1.jpg"
+			},
+			{
+				"txt": "이제 계란의 흰자와 노른자를 분리해 줄 거예요. 숟가락으로 하는 게 가장 쉽고 안전한 방법.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/17/85c8de785ed9352c5e1f66db11314eb11.jpg"
+			},
+			{
+				"txt": "분량의 설탕을 넣어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/17/d6375a20af2936d5fa67746db5a387b81.jpg"
+			},
+			{
+				"txt": "이제 미친 듯 머랭을 쳐줍니다. 정신 줄 놓아갈 때 쯤 머랭이 완성되죠 :)",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/17/b36f73b0ca3ed69f33cb2e7111d57f831.jpg"
+			},
+			{
+				"txt": "노른자를 넣고 살살 섞어주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/17/1860e2def953b312d366e788e58a20c01.jpg"
+			},
+			{
+				"txt": "반죽이 생성되었습니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/17/f96b59122793cf7ea65e0a935c443d921.jpg"
+			},
+			{
+				"txt": "일정한 크기로 펴줍니다.약불",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/17/344d7c58a9380f10668d50d97f288ada1.jpg"
+			},
+			{
+				"txt": "뚜껑을 닫고 익혀줍니다.최약불",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/17/0be95716674bb05d5669d97c8556b6631.jpg"
+			},
+			{
+				"txt": "뒤집을 땐 찢어지기 쉬우니 접시를 사용하세요. 이렇게 원하시는 갯수만큼 구워주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/17/d7329d883e4ac868d7d3507086dbef571.jpg"
+			},
+			{
+				"txt": "윗면에 버터를 발라줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/17/31b56d7407774830c235ec8cd0fbb9d11.jpg"
+			},
+			{
+				"txt": "이제 한 조각의 버터와 시럽으로 마무리!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/17/30e2ba153cb1326fb01fc332f022a3381.jpg"
+			}
+		]
+	},
+	{
+		"id": 6,
+		"name": "[간단 자취요리] 진짜 존맛b 전자렌지 마늘빵 만들기",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/02/28/195eb37f09446a2f075593a36344b0ae1.jpg",
+		"summary": "오늘은 간단한 간식인 전자렌지 마늘빵을 만들어봤어요!보통 마늘빵은 빵집에서 사드실텐데요~개인적으로 마늘빵 만큼은 빵집보다 집에서 만드는게더 맛있다고 자부합니다..( 먹어본 많은 지인들도 공감함 )그래서 오늘은 빵집보다 더 맛있고, 재료도 간단 방법도 초 간단한전자렌지 마늘빵 만들기를 알려드릴게요 :D",
+		"info": {
+			"info1": "2인분",
+			"info2": "30분 이내",
+			"info3": "아무나"
+		},
+		"ingre": [
+			{
+				"ingre_name": "식빵",
+				"ingre_count": "4",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "버터",
+				"ingre_count": "4",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "설탕",
+				"ingre_count": "2",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "다진마늘",
+				"ingre_count": "2",
+				"ingre_unit": "T"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "재료를 준비합니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/02/28/b179784fc0a983f42e42c7a4b30bb4ab1.png"
+			},
+			{
+				"txt": "우선 원하는 모양으로 빵을 잘라줍니다.식빵 4개 ",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/02/28/40c8a5595f14bc2cf61ea931310ef6521.png"
+			},
+			{
+				"txt": "테두리도 다듬어 줍니다.(생략 가능)",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/02/28/a9140b609fa2cfcd9489c8574494e3a11.png"
+			},
+			{
+				"txt": "버터를 전자레인지에 살짝 돌려 녹여줍니다.전자레인지 : 버터 꼭 있어야 하나요? * 미리답변 : 네. 버터는 꼭 있어야 해요 올리브유로 대신하기도 하는데 풍미가 확 다릅니다....버터가 베스트",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/02/28/51b591c2e1d67478419c907765858aa21.png"
+			},
+			{
+				"txt": "설탕, 다진 마늘을 넣어 섞어줍니다.버터4T, 설탕2T, 다진마늘2T소스를 더 만드시려면 비율만 기억하세요. 설탕,마늘1 + 버터2 ",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/02/28/e6b26e8073582384074e8a0151a6dafd1.png"
+			},
+			{
+				"txt": "파슬리도 넣어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/02/28/eb0cdc8a8ff1f9d352a345f271fa63081.png"
+			},
+			{
+				"txt": "이제 빵에 빈틈 없이 발라줍니다.양면에 발라주면 더 맛있어요. ",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/02/28/9b04b61c01c6ac66ae63c224b67f23131.png"
+			},
+			{
+				"txt": "전자레인지에 돌려줍니다.전자렌지 없으면 어떻게 하죠? * 미리답변 : 없으시면 팬에 최약불로 앞뒤 노릇노릇하게 구우셔도 좋습니다 (둘다 있으시면 전자렌지를 추천해요 아무래도 팬은 최약불이라고 해도 겉의 마늘등이 타기가 쉬움)",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/02/28/b05067d15178b9176dde7be01fb421071.png"
+			}
+		]
+	},
+	{
+		"id": 7,
+		"name": "[간단 자취요리] NO오븐! 15분만에 만드는 크리스마스 케이크 / 초코케이크 만들기",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/19/f07c198cb658fe9516af8dbd87e414e41.jpg",
+		"summary": "안녕하세요 여러분!!크리스마스가 얼마 남지 않았는데요 :)그래서 오늘은 크리스마스 케이크를 준비했습니다노오븐으로 케이크를 만드는 방법은 밥솥, 전자렌지로 나뉘는데밥솥은 반죽 계량부터 재료, 방법 등이 조금 더 복잡해서전자렌지용 믹스를 사용해서 아주아주 초간단으로 만들어봤어요!(밥솥으로 만드는 방법 궁금하신 분들은 유튜브나 네이버에 검색해보시면 꽤 많이 나올거에요! )전자렌지 방법은 우리 채널은 어린 친구들도 많이 보는데 어린 친구들도 위험하지 않고, 어렵지 않게 만들어보실 수 있을거에요!",
+		"info": {
+			"info1": "4인분",
+			"info2": "15분 이내",
+			"info3": "아무나"
+		},
+		"ingre": [
+			{
+				"ingre_name": "초코케익믹스(전자레인지용)",
+				"ingre_count": "1",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "제과점생크림",
+				"ingre_count": "3",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "다크초콜릿",
+				"ingre_count": "",
+				"ingre_unit": "적당량"
+			},
+			{
+				"ingre_name": "계란",
+				"ingre_count": "1",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "물(믹스반죽)",
+				"ingre_count": "",
+				"ingre_unit": "적당량"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "소고기 사태살 500g을 30분 정도 물에 담가 핏물을 빼주세요",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/19/b344d0fee3f7e6480e6e43bc9ce24d3d1.jpg"
+			},
+			{
+				"txt": "불려둔 표고버섯 5개를 물 1리터에 넣어 주세요",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/19/11178e73b1205ab7eb29c33208aca8541.jpg"
+			},
+			{
+				"txt": "대파와 파뿌리를 준비합니다",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/19/5c146904d64f0f7a20592447ceb282171.jpg"
+			},
+			{
+				"txt": "통후추 1t를 준비했어요",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/19/ef101e4465133634ae1c1b70b8e4b5951.jpg"
+			},
+			{
+				"txt": "버섯 파 통후추를 넣고 끓여주세요",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/19/97eaad7bd7f271527d019fc511bcd53e1.jpg"
+			},
+			{
+				"txt": "물이 끓으면 고기를 넣고 30분 정도 끓여 주세요",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/19/7f3d7f610a3e93aa6ea41ff53c2b0bf71.jpg"
+			},
+			{
+				"txt": "고기를 꺼내서 썰어 주세요",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/19/b7196111a2a69283a2196c8575b707861.jpg"
+			},
+			{
+				"txt": "먹기 좋게 썰어서 고기 국물에 넣어 주세요",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/19/1095005c950bfddeb26f4f0552781cc41.jpg"
+			},
+			{
+				"txt": "대파와 버섯은 건져주세요",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/19/eb3aa74116b8d9bdb6b56707cdf3f3e31.jpg"
+			},
+			{
+				"txt": "마늘 15개 대추 5개를 고기와 국물에 넣어 주세요",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/19/a415e71ec67e907b730fa58b1539b5f41.jpg"
+			},
+			{
+				"txt": "설탕 4T 물엿 2T 미향 2T 를 넣고 고추 2개를 넣어 주세요",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/19/523a0504b6ce4e20c5e52927afddea101.jpg"
+			},
+			{
+				"txt": "끓여주세요",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/19/b193a9923e210e00ea7662d3fb7d7bc51.jpg"
+			}
+		]
+	},
+	{
+		"id": 8,
+		"name": "[간단 자취요리] 노오븐! 핫도그로 피자빵 만들기",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/16/cf15dde64332ec0b3e9cf3646dc144801.jpg",
+		"summary": "오늘은 노 오븐 피자빵을 만들어 봤어요!!보통 노오븐 피자빵은 식빵을 많이 이용하는데요~그러면 항상 피자빵에 박혀있는 소세지가 아쉽더라구요!그래서 핫도그로 피자빵을 만들어 봤는데 맛도 업그레이드!!!!속재료로 저는 양파만 썼는데 옥수수콘이나햄 다져서 넣으셔도 좋아요! 근데 양파만 사용해도 존맛ㅠㅠ편의점에서 쉽게 구할 수 있는 재료들이니 이거 꼭한번 만들어서 드셔보세요!!!!!!",
+		"info": {
+			"info1": "1인분",
+			"info2": "15분 이내",
+			"info3": "아무나"
+		},
+		"ingre": [
+			{
+				"ingre_name": "편의점핫도그",
+				"ingre_count": "1",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "양파",
+				"ingre_count": "1/2",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "모짜렐라치즈",
+				"ingre_count": "",
+				"ingre_unit": ""
+			},
+			{
+				"ingre_name": "마요네즈",
+				"ingre_count": "",
+				"ingre_unit": ""
+			},
+			{
+				"ingre_name": "케찹",
+				"ingre_count": "",
+				"ingre_unit": ""
+			},
+			{
+				"ingre_name": "계란",
+				"ingre_count": "1",
+				"ingre_unit": "개"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "재료를 준비합니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/16/77d3a9a6339fa442878a1c25b4fb6cb91.jpg"
+			},
+			{
+				"txt": "양파는 끝까지 썰지 않으며 세로로 칼집을 내줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/16/0bbee1e327645cba137243e66ec6b92d1.jpg"
+			},
+			{
+				"txt": "그리고 가로로 썰어주시면 양파를 쉽게 다질 수 있습니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/16/a8b28c73a00d98a9a3b58c682bad225b1.jpg"
+			},
+			{
+				"txt": "마무리로 조금 더 다져줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/16/b146580776d9113f4b6d803fbf59ffa71.jpg"
+			},
+			{
+				"txt": "준비한 편의점 핫도그의 막대기를 빼줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/16/963e6e820be15f388f4018f119b5c2431.jpg"
+			},
+			{
+				"txt": "그리고 일정한 두께로 썰어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/16/97edb0e14b144d2d5e205d47746a96271.jpg"
+			},
+			{
+				"txt": "다져둔 양파에 마요네즈를 넣고 버무려줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/16/21df50c1bb7e9cbe32fc5ac1a003e4101.jpg"
+			},
+			{
+				"txt": "썰어둔 핫도그에 계란물을 입힙니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/16/8664fccc5ed6ca917b80f1610f8373d41.jpg"
+			},
+			{
+				"txt": "달군 후라이팬에 계란물 입힌 핫도그를 정렬하고 그 사이에 계란물을 부어 6개의 핫도그가 붙도록 합니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/16/33277ef843bcd4b348feae8859f818d01.jpg"
+			},
+			{
+				"txt": "어느정도 익은 후 마요네즈와 버무린 다진양파를 위에 올려줍니다. 옥수수콘이 있다면 넣어주셔도 됩니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/16/9dbb5944795120a1ae2ab16027607f6d1.jpg"
+			},
+			{
+				"txt": "그 다음 케찹을 그 위에 뿌려줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/16/20a5b992e667930de49ee49d45d8d6201.jpg"
+			},
+			{
+				"txt": "그리고 모짜렐라치즈를 듬뿍 올려주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/16/1946f91af5615ac0d9426638612662611.jpg"
+			},
+			{
+				"txt": "치즈 위에 케찹을 한 번 더 뿌려 마무리를 해줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/16/ca56939b1c809b758693f8b3a82e8bd81.jpg"
+			},
+			{
+				"txt": "치즈가 녹을 때 까지 2~3분 정도 전자레인지에 돌려주면 완성입니다.전자레인지",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/16/ce4a3902835a3fcfa0c89dd05b367e4c1.jpg"
+			}
+		]
+	},
+	{
+		"id": 9,
+		"name": "[간단 자취요리] 식빵+전자렌지로 끝내는 불고기 피자 만들기",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/09/04/7ccd35a35708e4312a329c948fb01b3d1.jpg",
+		"summary": "안녕하세요 얌배추들!!오늘은 불고기 피자를 만들어 봤어요ㅎㅎ저도 어렸을 때 식빵 피자 많이 해 먹었는데요~ 오늘은 그것보다 모양도 더 피자 같으면서 여러분들이 흔하게 드셨던 불고기 피자의 그 맛을 내봤습니다 :D정말 불고기 피자랑 비슷하고 빵도 눌러서 만들어서 그런지 생 식빵에 만들 때보다더 피자스럽더라구요ㅎㅎ 꼭 한번 만들어 보세요.",
+		"info": {
+			"info1": "2인분",
+			"info2": "30분 이내",
+			"info3": "초급"
+		},
+		"ingre": [
+			{
+				"ingre_name": "식빵",
+				"ingre_count": "4",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "피망",
+				"ingre_count": "1/2",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "불고기냉동식품",
+				"ingre_count": "1",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "모짜렐라치즈",
+				"ingre_count": "",
+				"ingre_unit": ""
+			},
+			{
+				"ingre_name": "토마토소스(스파게티소스)",
+				"ingre_count": "",
+				"ingre_unit": ""
+			}
+		],
+		"recipe": [
+			{
+				"txt": "먼저 식빵의 마주보는 두 면 자투리를 잘라주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/09/04/26046cd33818a6db0545aaa18a6e4a021.png"
+			},
+			{
+				"txt": "그리고 비스듬한 대각선으로 잘라주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/09/04/84940660a25c96ca0c9ab0c5ecb4a6051.png"
+			},
+			{
+				"txt": "끝부분을 잘라냅니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/09/04/11cff1ca9602f4338ea0b75ea265ce5a1.png"
+			},
+			{
+				"txt": "빵 자투리 부분을 제외하고 모두 눌러주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/09/04/da4812a25e3e54d1391b34ce238807631.png"
+			},
+			{
+				"txt": "피망을 채썬 뒤 잘게 썰어주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/09/04/96a051b6869d0f7ab6cf36053a0829fd1.png"
+			},
+			{
+				"txt": "떡갈비를 칼 등으로 으깨면서 잘라주세요.큰 덩어리는 손으로 떼어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/09/04/c50c1073146d5a4b2d705bc40fb941701.png"
+			},
+			{
+				"txt": "빵을 동그란 모양으로 접시에 펼쳐주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/09/04/975de6bb066fc3d9e055a725665c8a181.png"
+			},
+			{
+				"txt": "토마토 소스를 발라줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/09/04/51b4a04a3e66fb3e79b361b80afe36141.png"
+			},
+			{
+				"txt": "치즈를 올린 뒤 토핑도 올려주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/09/04/32373b28478d7160c5071c1bd9e936b71.png"
+			},
+			{
+				"txt": "전자렌지에 3~5분!(치즈가 녹을 때까지)전자레인지",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/09/04/a795822c824a8c57f4748cccc2670f7e1.png"
+			},
+			{
+				"txt": "밑면은 다 붙으니 다시 썰어준 뒤 드세요!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/09/04/82ca55b091cc12887effa607c2672bbc1.png"
+			}
+		]
+	},
+	{
+		"id": 10,
+		"name": "[간단 자취요리] 노오븐! 노밀가루! 폭신폭신~ 리얼 고구마케이크 만들기 ",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/10/cdf82ccbae6a7bc2933bb88a7f2c74f81.jpg",
+		"summary": "오늘은 고구마케이크를 만들어봤어요 ㅎㅎ노오븐, 노밀가루로 건강하면서 맛있는 고구마케이크!저는 원래 단호박을 좋아해서 단호박으로 자주 해먹었는데여러분들에게 더 익숙한 고구마로 소개해 드릴게요 :D저희 아버지가 놀러왔다가 이거 드시고 이게 밀가루를 안 넣은게 맞냐고 왜 폭신하냐고ㅋㅋㅋ 맛있다고칭찬에 칭찬을 하고 가셨습니다... 인증!!!!!제 계란케이크 영상에서 머랭이 안된다고, 3,40분이 걸렸다고사기라고 낚였다고 욕을 엄청 먹어서 (지금도 진행형...)오늘은 머랭치는거 노편집으로 풀영상을 넣었어요!저도..사실 처음 재보는데ㅋㅋㅋ 2분 안 돼서 만들어졌네요 기계있으시면 기계사용하시면 되고, 없으면 저처럼 하면 됩니다.",
+		"info": {
+			"info1": "2인분",
+			"info2": "30분 이내",
+			"info3": "초급"
+		},
+		"ingre": [
+			{
+				"ingre_name": "고구마",
+				"ingre_count": "4",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "설탕",
+				"ingre_count": "3",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "계란",
+				"ingre_count": "2",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "빵집생크림",
+				"ingre_count": "2",
+				"ingre_unit": "통"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "재료를 준비한다.설탕3T (머랭에2T, 고구마에1T)  계란2개 ( 흰자는 머랭, 노른자는 고구마에 )",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/10/7a0369d48b75219ec61116e3dc554bf31.png"
+			},
+			{
+				"txt": "고구마 껍질을 벗겨준다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/10/0985ad790dcc5c6889471b07d531d6011.png"
+			},
+			{
+				"txt": "빨리 익도록 조각 조각 썰어준다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/10/383a5156e90f9d98daa88121fe3464261.png"
+			},
+			{
+				"txt": "물을 조금 넣어준다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/10/7bf9bfb8378c9e7395f7789903244ae31.png"
+			},
+			{
+				"txt": "랩으로 덮어준다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/10/dbab8bac4c5f9b0ef96f54a81296dd5a1.png"
+			},
+			{
+				"txt": "구멍을 낸 뒤 전자레인지에 돌려준다.전자레인지* 고구마 익힐 때 : 전자렌지 5~7분 (잘게 썰면 더 빨리 익음) 물에 삶거나 쪄주셔도 됩니다 젓가락으로 푹푹 눌러보시고  다 쑥쑥 들어가면 다 익은 것!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/10/4243366f2804c580869604b1d5c1d4891.png"
+			},
+			{
+				"txt": "잘 익은 고구마를 포크로 으깨준다.고구마가 너무 뻑뻑하면 물을 조금 넣어주세요. ",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/10/4ebaae6ef1daa32d724b438aac4d5cbe1.png"
+			},
+			{
+				"txt": "머랭을 친다.# 머랭 팁 1. 그릇, 거품기에 물기가 있으면 안된다 (이건 필수) 2. 설탕을 넣으면 더 잘 올라온다 (저는 까먹어서 못넣었어요) 3. 큰 그릇에 치면 안전하고, 움직임이 커서 더 잘된다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/10/493f11eecb19c93094835b7a4ec31f271.png"
+			},
+			{
+				"txt": "으깬 고구마에 설탕, 노른자를 넣어준다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/10/89d630c589d77298c69b6b2409f7bb821.png"
+			},
+			{
+				"txt": "잘 섞은 뒤, 머랭을 2번에서 나눠서 넣어 섞어준다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/10/a48a8d6067ea114be5ad8813b3569bbc1.png"
+			},
+			{
+				"txt": "두번째는 머랭이 죽지 않게 살살 섞어준다.# 머랭을 섞을 때 나눠서 섞는 이유는 최대한 머랭이 죽지 않게 하기 위해서인데요~ 첫번째는 어쩔 수 없이 많이 죽을거예요  두번째 머랭을 넣고는 최대한 살살~ 머랭이 죽지 않게 섞어주세요! 머랭이 살아있을수록 더 폭신폭신한 케이크가 됩니다",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/10/46e4414e4eac25b50510961a296178621.png"
+			},
+			{
+				"txt": "랩에 구멍을 뚫고 전자레인지에 돌려준다. * 전체반죽 익힐 때 : 5분 돌리고 확인 후 5분 (그릇 크기/전자렌지 사양에 따라, + --하세요 ) 이것도 가운데를 찔러보고 안 묻어나오면 OK",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/10/ec9664759901e46621b94ae9638076681.png"
+			},
+			{
+				"txt": "마음대로 장식한다.# 케이크 장식은 취향껏 해주세요! 완전 자유입니다ㅋㅋㅋ 저는 생..고구마를 잘라서 꽃아줬어욬ㅋㅋㅋㅋㅋㅋㅋ 케이크를 2단으로 나눠서 중간에 생크림 발라주셔도 좋고, 생크림 위에 카스테라를 가루내서 뿌리는 것도 예쁘겠더라구요 .",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/10/88139a166793d3b442f08b57eb987a6d1.png"
+			}
+		]
+	},
+	{
+		"id": 11,
+		"name": "[간단 자취요리] 귀욤귀욤 포켓 에그 샌드위치 만들기 / 모양잡는 꿀팁! ",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/30/2ad6dc0998ab3e93fbc86fcbb9bf841f1.jpg",
+		"summary": "안녕하세요 여러분들 !!오늘은 포켓 에그샌드위치를 만들어봤어요 ㅎㅎ에그샌드위치는 간단하고 맛있어서 모두들 좋아하실텐데요~오늘은 포켓 에그샌드위치 모양잡는 팁도 알려드릴게요!이렇게 만들면 보관도 편하고 먹을때 흐를염려가없어서 좋아요 :)이제 슬슬날도 선선해지고 있는데 나들이갈때 싸도 좋겠죠?",
+		"info": {
+			"info1": "1인분",
+			"info2": "15분 이내",
+			"info3": "초급"
+		},
+		"ingre": [
+			{
+				"ingre_name": "식빵",
+				"ingre_count": "",
+				"ingre_unit": ""
+			},
+			{
+				"ingre_name": "계란",
+				"ingre_count": "3",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "양파",
+				"ingre_count": "1/4",
+				"ingre_unit": "조각"
+			},
+			{
+				"ingre_name": "마요네즈",
+				"ingre_count": "5",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "머스터드소스",
+				"ingre_count": "1/2",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "소금",
+				"ingre_count": "",
+				"ingre_unit": "조금"
+			},
+			{
+				"ingre_name": "후추",
+				"ingre_count": "",
+				"ingre_unit": "조금"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "재료를 준비합니다.식빵,계란,양파,머스터드소스,마요네즈,후추,소금",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/30/231ba943d670046e6271f35b84088b9a1.png"
+			},
+			{
+				"txt": "먼저 계란을 완숙으로 삶아줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/30/652dec4ca83f8cb3b070a01413b225f91.png"
+			},
+			{
+				"txt": "소금과 식초 투척!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/30/11c62ecdef4eed895f894458ad0ede2c1.png"
+			},
+			{
+				"txt": "다 익은 계란은 찬물에 식혀주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/30/29da2145ffbf293628658dc875c7ba881.png"
+			},
+			{
+				"txt": "이제 양파를 다져줍니다.끝부분을 빼고 칼집을 넣으신뒤 썰면 빨리 썰어집니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/30/aad01575d62d4a803e51d0a4c705ec651.png"
+			},
+			{
+				"txt": "포크를 이용해 계란을 으깨줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/30/51e5d3c0772c44fd01d03f0c436b96871.png"
+			},
+			{
+				"txt": "다진 양파와 양념들을 넣어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/30/88239cf9cfd66a0f148f5a2163d79f921.png"
+			},
+			{
+				"txt": "골고루 섞어주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/30/02b45a17ee60efd817070c5d113dd6841.png"
+			},
+			{
+				"txt": "식빵은 비닐팩으로 싸서 전자렌지에 1~2분 돌려줍니다.전자레인지",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/30/ec2ab33265d3fa0c545233519bc7b13a1.png"
+			},
+			{
+				"txt": "이제 재료를 가운데 모아서 넣어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/30/dc8ccd8d37285d33aeff0b6d8f90bd9e1.png"
+			},
+			{
+				"txt": "식빵보다 작은 사이즈의 그릇으로 찍어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/30/44d18a1fe2decad0ffe35fc8ae3334791.png"
+			},
+			{
+				"txt": "식빵 테두리부분을 떼어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/30/1ea9181adc7adec0f545fc16dde0d4771.png"
+			}
+		]
+	},
+	{
+		"id": 12,
+		"name": "[간단 자취요리] 고급진 샌드위치! 몬테크리스토 샌드위치 만들기",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/02/e1b0b261f153d73f0efa7b8a74296f641.jpg",
+		"summary": "안녕하세요 여러분~!!오늘은 몬테크리스토 샌드위치를 만들어봤어요 !!아주 예전에 블로그할때 거기서도 한번 소개해 드렸는데엄청 반응이 좋았어서 구독자님들한테도 소개해 드리고 싶었어요!재료가 약간은 복잡하고 많은 감이 있어서 고민했는데 진짜 후회없는 맛이라... 알려드리기로 했어요!!한번쯤은 꼭 만들어서 드셔보시길 추천해요 :D",
+		"info": {
+			"info1": "1인분",
+			"info2": "15분 이내",
+			"info3": "초급"
+		},
+		"ingre": [
+			{
+				"ingre_name": "식빵",
+				"ingre_count": "",
+				"ingre_unit": ""
+			},
+			{
+				"ingre_name": "슬라이스치즈",
+				"ingre_count": "",
+				"ingre_unit": ""
+			},
+			{
+				"ingre_name": "슬라이스햄",
+				"ingre_count": "",
+				"ingre_unit": ""
+			},
+			{
+				"ingre_name": "계란",
+				"ingre_count": "2",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "머스터드소스",
+				"ingre_count": "",
+				"ingre_unit": ""
+			},
+			{
+				"ingre_name": "딸기쨈",
+				"ingre_count": "",
+				"ingre_unit": ""
+			},
+			{
+				"ingre_name": "밀가루",
+				"ingre_count": "2",
+				"ingre_unit": "T"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "재료를 준비합니다.식빵, 슬라이스치즈, 슬라이스햄, 계란, 머스터드소스, 딸기쨈, 밀가루",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/02/7e8a1e0b8b0e69ac7e8e9868ca53105d1.png"
+			},
+			{
+				"txt": "우선 빵에 딸기잼을 꼼꼼하게 발라줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/02/abfb73aa3140afe75b8a888dd20bc6431.png"
+			},
+			{
+				"txt": "그 위에 치즈와 햄을 올려주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/02/6420d18b7b908bdeb12d025c96ec25ea1.png"
+			},
+			{
+				"txt": "다른 빵에 머스터드 소스를 발라줘요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/02/2d6ffd7d095399b2e63487792cc58a241.png"
+			},
+			{
+				"txt": "바른 면을 밑으로 가게 덮어줘요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/02/e6092a569605bc011fb6616fe12b0dc61.png"
+			},
+			{
+				"txt": "다시 딸기잼을 바르고 한번 더 반복!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/02/445d95d359f5f8b6a9633e78954acdda1.png"
+			},
+			{
+				"txt": "다른 빵에 머스터드 소스를 발라줘요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/02/236c4ee8504862a029637a685b1e318c1.png"
+			},
+			{
+				"txt": "바른 면을 밑으로 가게 덮어줘요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/02/09893a5a26da85ace0f0a91641ad2dc51.png"
+			},
+			{
+				"txt": "모양이 고정되게 살짝 눌러줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/02/6819dc9b8f54cb7000996541e20b94771.png"
+			},
+			{
+				"txt": "테두리의 갈색 부분을 잘라줘요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/02/6a9dbfb2f479a38b542d5a9dc659a3f11.png"
+			},
+			{
+				"txt": "계란에 밀가루를 넣고 풀어줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/02/38eda1967605a2ab33500668401c533a1.png"
+			},
+			{
+				"txt": "이제 빵의 모든 면에 계란물을 묻혀줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/02/4d109501bcf3ce4cff52cf1d459f3ea61.png"
+			},
+			{
+				"txt": "팬에 기름을 살짝 두르고 6면 모두 구워줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/02/325d1ec815ab99e01aa4d0738a33e8881.png"
+			},
+			{
+				"txt": "모서리 4면은 계란물을 한 번씩 더 묻혀서 구워요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/02/9155cb1d42336b93c8fd9bdfa4b451221.png"
+			},
+			{
+				"txt": "다 구워 꺼내주면 백설기 모양이 됩니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/02/1432058d5134186b5b68a5fa536f2f5d1.png"
+			},
+			{
+				"txt": "슈가파우더나 설탕이 있으면 그 위에 뿌려줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/02/e1cda42f251e18607bd06ccac32e7f821.png"
+			},
+			{
+				"txt": "칼로 잘라주면 완성!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/02/071c66e2e648792d64a07295315560071.png"
+			}
+		]
+	},
+	{
+		"id": 13,
+		"name": "간단요리 계란 프렌치토스트 자취요리 레시피",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2019/09/29/ef761808c73449a5f33a5b21a4903ba81.jpg",
+		"summary": "계란과 식빵만으로 맛있는 토스트를~♡",
+		"info": {
+			"info1": "1인분",
+			"info2": "10분 이내",
+			"info3": "아무나"
+		},
+		"ingre": [
+			{
+				"ingre_name": "식빵",
+				"ingre_count": "2",
+				"ingre_unit": "장"
+			},
+			{
+				"ingre_name": "계란",
+				"ingre_count": "2",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "설탕",
+				"ingre_count": "1",
+				"ingre_unit": "스푼"
+			},
+			{
+				"ingre_name": "버터",
+				"ingre_count": "1",
+				"ingre_unit": "스푼"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "식빵은 반으로 잘라 줍니다",
+				"img": " "
+			},
+			{
+				"txt": "계란은 풀어서 설탕 한스푼을 넣어 줍니다",
+				"img": " "
+			},
+			{
+				"txt": "식빵에 계란물을 입혀 주세요",
+				"img": " "
+			},
+			{
+				"txt": "약불의 팬에 버터 한스푼 두르고 식빵을 앞뒤로 30초간 구워 줍니다약불",
+				"img": " "
+			}
+		]
+	},
+	{
+		"id": 14,
+		"name": "간단한자취요리! 부산명물! '문토스트'따라하기 레시피!",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2020/06/08/4180442d14fef9213a69cd03892e12fd1.jpg",
+		"summary": "안뇽하세요!오늘은 부산의 명물! '문토스트'따라하기!레시피를 보여드릴까해요! 너무 맛있답니다ㅠㅠ",
+		"info": {
+			"info1": "1인분",
+			"info2": "15분 이내",
+			"info3": "초급"
+		},
+		"ingre": [
+			{
+				"ingre_name": "식빵",
+				"ingre_count": "1",
+				"ingre_unit": "장"
+			},
+			{
+				"ingre_name": "계란",
+				"ingre_count": "1",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "당근",
+				"ingre_count": "10",
+				"ingre_unit": "g"
+			},
+			{
+				"ingre_name": "대파",
+				"ingre_count": "10",
+				"ingre_unit": "g"
+			},
+			{
+				"ingre_name": "양파",
+				"ingre_count": "15",
+				"ingre_unit": "g"
+			},
+			{
+				"ingre_name": "옥수수캔",
+				"ingre_count": "15",
+				"ingre_unit": "g"
+			},
+			{
+				"ingre_name": "모짜렐라치즈",
+				"ingre_count": "100",
+				"ingre_unit": "g"
+			},
+			{
+				"ingre_name": "설탕",
+				"ingre_count": "1",
+				"ingre_unit": "작은술"
+			},
+			{
+				"ingre_name": "케찹",
+				"ingre_count": "1",
+				"ingre_unit": "큰술"
+			},
+			{
+				"ingre_name": "버터",
+				"ingre_count": "1",
+				"ingre_unit": "작은술"
+			},
+			{
+				"ingre_name": "갈릭디핑소스",
+				"ingre_count": "1",
+				"ingre_unit": "큰술"
+			},
+			{
+				"ingre_name": "허니머스타드",
+				"ingre_count": "1",
+				"ingre_unit": "큰술"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "팬에 버터를 1작은술 두르고 식빵을 노릇하게 구워줘요!",
+				"img": " "
+			},
+			{
+				"txt": "양파. 당근, 대파를 아주 가늘게 채썰어 주세요!아주 얇게 썰어줘야 계란물에 촥!  달라붙어 맛이 더 좋답니다!",
+				"img": " "
+			},
+			{
+				"txt": "계란1개를 풀어주고 채썰어놓은 양파,당근,대파,옥수수캔을 넣어서 섞어요!",
+				"img": " "
+			},
+			{
+				"txt": "섞어놓은 계란물을 팬에 기름을 두르고 노릇하게 부쳐주세요!",
+				"img": " "
+			},
+			{
+				"txt": "구워놓은 식빵에 설탕을 솔솔뿌려준 뒤 케찹 - 계란부침 - 허니머스타드 - 갈릭디핑소스를 얹어놓아줘요!모짜렐라치즈는 전자레인지에 2분돌려주고 토스트위에 얹어 완성시켜준답니다!",
+				"img": " "
+			}
+		]
+	},
+	{
+		"id": 15,
+		"name": "간단한 점심! 간단한 자취요리 '프렌치토스트와 계란케찹토스트'만들기!",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2020/04/10/c536b897bf49bae32d5d29fcc30a0b411.jpg",
+		"summary": "안뇽하세요!요즘 다들 집에서 뒹굴뒹굴 하고 계시지요?얼른 코로나가 끝났으면 좋겠어요ㅜㅜ자! 오늘은 간단하고 맛있게 만들 수 있는'프렌치토스트와 계란케찹토스트'를 만들어 봤어요!",
+		"info": {
+			"info1": "2인분",
+			"info2": "15분 이내",
+			"info3": "초급"
+		},
+		"ingre": [
+			{
+				"ingre_name": "식빵",
+				"ingre_count": "4",
+				"ingre_unit": "장"
+			},
+			{
+				"ingre_name": "계란",
+				"ingre_count": "3",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "소금",
+				"ingre_count": "1/4",
+				"ingre_unit": "작은술"
+			},
+			{
+				"ingre_name": "설탕",
+				"ingre_count": "2",
+				"ingre_unit": "큰술"
+			},
+			{
+				"ingre_name": "슈가파우더",
+				"ingre_count": "1",
+				"ingre_unit": "작은술"
+			},
+			{
+				"ingre_name": "토마토케찹",
+				"ingre_count": "1",
+				"ingre_unit": "큰술"
+			},
+			{
+				"ingre_name": "식용유",
+				"ingre_count": "2",
+				"ingre_unit": "큰술"
+			},
+			{
+				"ingre_name": "버터",
+				"ingre_count": "1",
+				"ingre_unit": "큰술"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "믹싱볼에 계란3개를 소금과 설탕을 넣고 포크로 풀어주세요!수저로 풀어주는 것보다 포크로 풀면 더 잘풀어 진답니다! 알끈도 제거해주시구요!",
+				"img": " "
+			},
+			{
+				"txt": "팬에 식용유를 두르고 계란물 1/3만 부어 계란을 부쳐주세요!노릇노릇하게 먹음직스럽게 구워줘요!",
+				"img": " "
+			},
+			{
+				"txt": "남은 계란물에 식빵 2장을 담궈  버터를 두른 팬에 약불에서 앞뒤로 노릇하게 구워요!약불로 구워줘야 속까지 촉촉하게 구워진답니다!",
+				"img": " "
+			},
+			{
+				"txt": "식빵 2장은 팬에 버터만 두르고 바삭하게 구워요!약불에서 천천히!",
+				"img": " "
+			},
+			{
+				"txt": "구워놓은 식빵1장에 계란부침과 케찹을발라 1장을 덮어 계란케찹토스트를 완성해요!",
+				"img": " "
+			},
+			{
+				"txt": "프렌치토스트는 삼각형모양으로 썰어 슈가파우더를 솔솔 뿌려 완성시켜요!",
+				"img": " "
+			}
+		]
+	},
+	{
+		"id": 16,
+		"name": "[간단 자취요리] 최고의 궁합! 허니 치즈 토스트 만들기",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2018/01/02/2bd16088190d001863a1e65793985e851.jpg",
+		"summary": "안녕하세요 얌배추들!오늘은 허니 치즈 토스트입니다. 꿀의 향을 별로 안 좋아하시는 분들도 맛있게 드실 수 있는 요리입니다.빵 사이에 공간을 비워서 더 많은 치즈를 담을 수 있도록 만들어 봤어요. 이건 재료만 준비하면 정말 쉽고 맛있으니 꼭!! 만들어보세요.",
+		"info": {
+			"info1": "1인분",
+			"info2": "15분 이내",
+			"info3": "아무나"
+		},
+		"ingre": [
+			{
+				"ingre_name": "식빵",
+				"ingre_count": "3",
+				"ingre_unit": "장"
+			},
+			{
+				"ingre_name": "모짜렐라치즈",
+				"ingre_count": "",
+				"ingre_unit": ""
+			},
+			{
+				"ingre_name": "체다치즈",
+				"ingre_count": "2",
+				"ingre_unit": "장"
+			},
+			{
+				"ingre_name": "꿀",
+				"ingre_count": "",
+				"ingre_unit": "약간"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "먼저 식빵 1장의 속을 잘라주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2018/01/02/8ddd14cb124ccf1af37a00baa54eac861.png"
+			},
+			{
+				"txt": "1층 식빵에 꿀을 모서리까지 발라줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2018/01/02/001b01f29068f1d32e3bc5fec50f457a1.png"
+			},
+			{
+				"txt": "잘라둔 2층 식빵을 올려주세요!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2018/01/02/beae935856d18c67f017f4e3930713671.png"
+			},
+			{
+				"txt": "체다→모짜렐라→체다 순으로 채워줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2018/01/02/97ff3e8eb1c8ff35199db974ff52d4b11.png"
+			},
+			{
+				"txt": "3층 식빵에도 모서리까지 꿀을 발라주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2018/01/02/f2264511911c825b68c57ddf22773eb91.png"
+			},
+			{
+				"txt": "치즈를 덮은 후 살짝 눌러주세요!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2018/01/02/1b3b31aa88d52228c010e5d82c9f92781.png"
+			},
+			{
+				"txt": "버터를 두른 팬에 앞 뒷면 모두 구워주세요.약불",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2018/01/02/25d64948a3a77f0b08308ea3c38043141.png"
+			},
+			{
+				"txt": "약불에 천천히 익혀야 치즈도 다 녹고 빵도 붙어요!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2018/01/02/ec1ba01628ae11678175522c2f5a8d481.png"
+			}
+		]
+	},
+	{
+		"id": 17,
+		"name": "[간단 자취요리] 노오븐, NO베이킹파우더! 폭신폭신 전자렌지 녹차빵 만들기 ",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/06/20/65b314831502f3da75719b8b26255b761.jpg",
+		"summary": "오늘은 전자렌지 녹차빵을 만들어봤어요!이 영상은 원래 예전에 회사랑 외부 콜라보 영상이었는데요~이때 나온 아이디어가 꽤 괜찮은 것 같아서, 다시 자막만 바꿔 여러분들한테 보여드리려고 해요!이 빵을 만들게 된 계기는... 회사에서 약간 야매로 빵이나 컵케이크 같은 레시피를 원했는데 아무래도 빵은 오븐이 있어야 하고,베이킹파우더가 거의 필수잖아요...?근데 쉬운 영상을 원하셨어서 한 이틀은 고민한 것 같아요.그러다가 떠오른게 튀김가루에 베이킹파우더가 들어있네요?그래서 튀김가루로 만들어 봤습니다.",
+		"info": {
+			"info1": "2인분",
+			"info2": "30분 이내",
+			"info3": "초급"
+		},
+		"ingre": [
+			{
+				"ingre_name": "튀김가루",
+				"ingre_count": "5",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "녹차스프레드",
+				"ingre_count": "4",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "우유",
+				"ingre_count": "5",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "계란",
+				"ingre_count": "2",
+				"ingre_unit": "개"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "먼저 녹차스프레드와 우유를 잘 섞어주세요",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/06/20/868e3a8899cd0f23b0882ae7a5fc377c1.png"
+			},
+			{
+				"txt": "튀김가루도 섞어줍니다!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/06/20/1321cd56e72c3b0bf0fa70bb82ea4d071.png"
+			},
+			{
+				"txt": "계란을 거품기로 팍팍 저어주세요",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/06/20/84caf34824b77af30e358aa647f5c2081.png"
+			},
+			{
+				"txt": "아까 반죽도 잘 풀리게 섞어줍니다!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/06/20/b041741796d118fb6870c891b1016abc1.png"
+			},
+			{
+				"txt": "완성할 그릇에 붓고 전자렌지에 4분 정도 돌려주세요!전자레인지",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/06/20/18387416bea554009e90e88294ccc2bd1.png"
+			}
+		]
+	},
+	{
+		"id": 18,
+		"name": "[간단 자취요리] 냉동만두+양파면 ok! 불고기 타코 만들기",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/17/9d49e08070acf4543dd7b74bd9dcfb491.jpg",
+		"summary": "오늘은 냉동만두로 만드는 불고기 타코를 준비했어요!타코는 또띠아가 바삭한 타코와 말랑말랑한 타코가 있는데저는 오늘 바삭한 식감을 즐길 수 있는 불고기 타코를 만들었어요또띠아 대신 만두피를 사용하고 속은 만두소와 양파를 사용했습니다진정한 야매 자취요리죠?ㅋㅋㅋㅋ누구나 좋아하는 불고기 양념으로 맛있게 드실 수 있으니냉동만두 구워만 드시지 말고 휴일에 한번 만들어서 즐겨보세요",
+		"info": {
+			"info1": "1인분",
+			"info2": "30분 이내",
+			"info3": "아무나"
+		},
+		"ingre": [
+			{
+				"ingre_name": "양파",
+				"ingre_count": "1/2",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "냉동만두",
+				"ingre_count": "7",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "간장",
+				"ingre_count": "2",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "설탕",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "올리고당",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "다진마늘",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "참기름",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "물",
+				"ingre_count": "2",
+				"ingre_unit": "T"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "재료를 준비해주세요올리고당, 설탕, 간장, 참기름, 다진마늘, 양파, 냉동만두",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/17/0cbd95586f7aeceac56fbd46ba9b19c71.png"
+			},
+			{
+				"txt": "모든 양념을 섞어줍니다.간장2T, 설탕1T, 올리고당1T, 다진마늘1T, 참기름1T, 물2T",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/17/3df883618ec7d483b1e6d7cdfbec5d251.png"
+			},
+			{
+				"txt": "양파를 다져주세요",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/17/f6999d103461dd3ac493c09e4fb0528c1.png"
+			},
+			{
+				"txt": "해동한 만두 윗부분을 잘라주세요",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/17/0e0653fa7cce1a8a0e1276fdd367183f1.png"
+			},
+			{
+				"txt": "숟가락을 이용해 속을 파내주세요",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/17/b3f352272f27d137d03666d5615266431.png"
+			},
+			{
+				"txt": "만두피를 모양을 잡으면서 튀겨주세요튀김 기름은 대용량 콩기름 쓰시는걸 추천튀김할때는 손바닥만한 작은 팬을 쓰세요(기름 절약)중약불한쪽 먼저 익히고, 반대쪽을 익히면 돼요!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/17/d479e5d2ac575b64ed2c5c9d8973a9441.png"
+			},
+			{
+				"txt": "다 튀겨지면 키친타올로 꼬우",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/17/cd5098508f76154eab0fd7eb2404a50b1.png"
+			},
+			{
+				"txt": "이제 만두소, 양파, 양념장을 모두 넣고 볶아요!중불수분이 많이 남지 않도록 고슬고슬하게 볶아주세요!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/17/54d61a8865d690393eaab6e8fba213ac1.png"
+			},
+			{
+				"txt": "이제 튀겨진 만두피에 소를 넣어줍니다. 돼지 말구요 하하",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/17/62f0ab26ecc4671cb48e339273bd212a1.png"
+			},
+			{
+				"txt": "마요네즈를 얇게 뿌려주세요머스터드, 핫소스 등 취향껏 찍어먹는 소스 준비(생략가능)",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/17/ccb8df4c39909263ffdc496fed65ff701.png"
+			}
+		]
+	},
+	{
+		"id": 19,
+		"name": "[간단 자취요리] 호떡 안에 피자를 담았다! 피자호떡 만들기",
+		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/11/28/6284a4b4130ebb6797387dd38c62a29c1.jpg",
+		"summary": "오늘은 피자호떡 만들기입니다 :)아기 입맛인 분들은 꿀호떡 보다 피자호떡을 좋아하시죠??치즈와 토마토소스는 언제나 진리니까요...그리고 호떡믹스 구매하시면 찹쌀도넛믹스처럼 두개로 나눠서 소포장 되어있는것이 아니라 호떡 10개 분량이 한번에 있어요!게다가 반죽을 한번 하면 보관이 불가능해서 무조건 한번에 다 만들어야 하는데요~꿀호떡만 10개 먹기에는 조금... 질리는 감이 있죠?그래서 그럴때 만들어보시면 좋은 메뉴입니다지금까지 토마토 소스 들어가는 요리들은 조금 미뤄뒀었는데요하지만 토마토 소스로 할 수 있는 맛있고 간단한 요리들이 많아서소개해드리려고 합니다!다음주 토요일 영상도 토마토 소스가 들어가요 (소근소근)불금 즐겁게 잘 보내세용~!!",
+		"info": {
+			"info1": "2인분",
+			"info2": "30분 이내",
+			"info3": "아무나"
+		},
+		"ingre": [
+			{
+				"ingre_name": "호떡믹스",
+				"ingre_count": "",
+				"ingre_unit": "적당량"
+			},
+			{
+				"ingre_name": "양파",
+				"ingre_count": "1/2",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "햄",
+				"ingre_count": "",
+				"ingre_unit": "적당량"
+			},
+			{
+				"ingre_name": "토마토소스(스파게티소스)",
+				"ingre_count": "",
+				"ingre_unit": "적당량"
+			},
+			{
+				"ingre_name": "치즈",
+				"ingre_count": "",
+				"ingre_unit": "적당량"
+			}
+		],
+		"recipe": [
+			{
+				"txt": "재료를 준비합니다.호떡믹스, 양파, 햄, 토마토소스, 치즈",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/11/28/cef93564256485a57229f8c61b39f08e1.jpg"
+			},
+			{
+				"txt": "먼저 양파를 잘게 다져주세요.칼집을 내고 썰면 빨리 다져지는 거 아시죠?",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/11/28/19810a4985ad468aaa06b7ae75ee2d201.jpg"
+			},
+			{
+				"txt": "햄도 같은 크기로 다져줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/11/28/879bf33d0178300374c060c471db50781.jpg"
+			},
+			{
+				"txt": "이제 팬에 기름을 두르고 양파, 햄을 볶아줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/11/28/8b3cbb140e42ecaf56340a42c153bc171.jpg"
+			},
+			{
+				"txt": "토마토소스를 넣어주세요. (재료가 촉촉할 만큼) 완성되면 그릇에 담아둡니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/11/28/3f2120c2ce68177aba86fcf1ea6f44041.jpg"
+			},
+			{
+				"txt": "호떡믹스 상자에 있는 설명서대로 반죽을 만들어 줍니다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/11/28/9b320b4406a412150d09e44b4e2705741.jpg"
+			},
+			{
+				"txt": "손에 식용유를 묻히고 재료들을 싸줍니다.속을 빵빵하게 채워줍시다.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/11/28/861d56853a4eea39b73883e0110418fc1.jpg"
+			},
+			{
+				"txt": "기름을 두른 팬에 구워줍시다.중약불",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/11/28/5470d076f169d2f3c62ec1b3cf6c5cc61.jpg"
+			},
+			{
+				"txt": "처음엔 그대로 굽고 한번 뒤집은 뒤 눌러줍니다. 앞뒤 노릇노릇하게 구워주세요.",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/11/28/218568fca3f809cddcc169d2c60671d61.jpg"
+			},
+			{
+				"txt": "키친타올에 잠시 기름을 빼주면 끝!",
+				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/11/28/ac8c3e99fa6560ef5b0edffcdb1b4f561.jpg"
+			}
+		]
+	}
+]
