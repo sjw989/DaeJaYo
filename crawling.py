@@ -7,19 +7,12 @@ from bs4 import BeautifulSoup as bs
 def toJson(recipe_dict):
     with open('recipe.json', 'w', encoding='utf-8') as file :
         json.dump(recipe_dict, file, ensure_ascii=False, indent = '\t')
-    
-
-def toCSV(recipe_list):
-    with open('ingredients.csv', 'w', encoding='utf-8', newline='') as file :
-        csvfile = csv.writer(file)
-        for row in recipe_list:
-            csvfile.writerow(row)
             
 def url_func(n,m):
     num_range = range(n,m)
     
     # url --> 크롤링할 페이지
-    url = "https://www.10000recipe.com/recipe/list.html?cat4=53&order=reco&page="
+    url = "https://www.10000recipe.com/recipe/list.html?q=%5B%EA%B0%84%EB%8B%A8+%EC%9E%90%EC%B7%A8%EC%9A%94%EB%A6%AC%5D&query=&cat1=&cat2=19&cat3=&cat4=&fct=&order=reco&lastcate=cat2&dsearch=&copyshot=&scrap=&degree=&portion=&time=&niresource="
     url_list = []
     
     # 만약에 num_rage = (1,10)이면 1~9페이지까지 크롤링함
@@ -40,7 +33,7 @@ def url_func(n,m):
 num_id = 0
 food_dicts = []
 ingre_set = set()
-url_lists = url_func(1,10)
+url_lists = url_func(1,2)
 for url_str in url_lists:
     url = "https://www.10000recipe.com"
     url = url + url_str
@@ -98,9 +91,9 @@ for url_str in url_lists:
                 count = tmp.find('span')
                 ingredient_tmp = count.get_text()                
                                 
-                if ingredient_tmp.size() > 0 and ingredient_tmp[-1] == ')' and ingredient_tmp[-2] == "개":                    
-                    ingredient_tmp = ingredient_tmp[:-1] 
-                       
+                #if len(ingredient_tmp) > 0 and ingredient_tmp[-1] == ')' and ingredient_tmp[-2] == "개":                    
+                #    ingredient_tmp = ingredient_tmp[:-1] 
+                
                 ingredient_name = re.sub(ingredient_tmp,'',ingredient_name)
                 ingredient_unit = ingredient_tmp.replace('/','').replace('+','')
                 ingredient_unit = ''.join([i for i in ingredient_unit if not i.isdigit()])
@@ -141,12 +134,6 @@ for url_str in url_lists:
 
 toJson(food_dicts)
 
-ingre_list_csv=[]
-for i in ingre_set:
-    tmp_l = []
-    tmp_l.append(i)
-    ingre_list_csv.append(tmp_l)
-toCSV(ingre_list_csv)
 
     
     

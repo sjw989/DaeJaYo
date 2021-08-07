@@ -1,52 +1,6 @@
 [
 	{
 		"id": 1,
-		"name": "[간단 자취요리] 정말 쉬운 비빔만두 만들기! 간식, 술안주로도 굿!",
-		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/21/1a97378ec8975b84420179b10c8876961.jpg",
-		"summary": "안녕하세요 여러분!오늘의 간단 자취요리는 바로 비빔만두입니다 :)비빔만두는 누구나 좋아하지만 만들기는 쉽고, 또 맛있죠!물론 양념장은 만드는 사람에 따라 복잡해질수도 있지만,양념종류를 최소화하면서 맛있게 드실 수 있도록 만들어봤어요 :)드실때 모두 비벼드셔도 좋고 저처럼 얹어서 드셔도 좋은데요!개인적으로 만두의 바삭함을 끝까지 느끼고싶다면 얹어서 드시길 추천드려요 ㅎㅎ",
-		"info": {
-			"info1": "2인분",
-			"info2": "15분 이내",
-			"info3": "아무나"
-		},
-		"ingre": [],
-		"recipe": [
-			{
-				"txt": "재료를 준비합니다.각종야채, 냉동만두, 고추장, 식초, 설탕, 다진마늘, 참기름",
-				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/21/4af46873a06f0b059306542f3294307f1.jpg"
-			},
-			{
-				"txt": "우선 양념장을 만들어 줍니다.양념장 재료 : 고추장 3T, 식초 2T, 설탕 2T, 다진마늘 1/2T, 참기름 1/2T",
-				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/21/d5738058682af60ad430c5cdc00216e51.jpg"
-			},
-			{
-				"txt": "깻잎은 먹기 좋게 채썰어 주세요. 찢어도 무관해요.",
-				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/21/cbb2c7d4a7cc8ee662ca73c267c519171.jpg"
-			},
-			{
-				"txt": "상추도 먹기 좋게 찢어줍니다.",
-				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/21/8595da7612a471621a3261f2eaf6c7e61.jpg"
-			},
-			{
-				"txt": "양배추는 최대한 얇게 썰어주시는 게 좋아요.",
-				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/21/b559a74944c73801c9e58a96d0feca721.jpg"
-			},
-			{
-				"txt": "모든 야채를 넣고 양념장에 버무려 줍시다.버무리면 숨이 죽으니 생각했던 것보다 많이 준비하세요!",
-				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/21/401e8ecf7bad402fc18500df863829f31.jpg"
-			},
-			{
-				"txt": "이제 만두를 노릇노릇 구워줍시다.중불노릇노릇 바삭바삭하게 구워주시면 좋아요.",
-				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/21/b9b62a870453a23c076be261e70993151.jpg"
-			},
-			{
-				"txt": "멋지게 셋팅을 해주세요.",
-				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/21/ad19c4a58813cf24e57e18a4a65e01151.jpg"
-			}
-		]
-	},
-	{
-		"id": 2,
 		"name": "전자렌지 5분 OK! 치즈 라면볶이 만들기ㅣ초간단 자취요리ㅣ",
 		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2019/01/07/37ba1c643d4a35801ee5389443a1b4411.jpg",
 		"summary": "오늘은 전자렌지로 쉽게 만드는 라볶이/라면볶이입니다. 저는 체다치즈를 올려서 먹어봤는데요~ 취향에 따라 치즈 없이 드시거나 모짜렐라 치즈와 함께 드셔도 좋습니다 :D",
@@ -55,7 +9,48 @@
 			"info2": "10분 이내",
 			"info3": "아무나"
 		},
-		"ingre": [],
+		"ingre": [
+			{
+				"ingre_name": "라면사리",
+				"ingre_count": "1",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "슬라이스치즈",
+				"ingre_count": "2",
+				"ingre_unit": "장"
+			},
+			{
+				"ingre_name": "고추장",
+				"ingre_count": "3",
+				"ingre_unit": "숟가락"
+			},
+			{
+				"ingre_name": "고춧가루",
+				"ingre_count": "1",
+				"ingre_unit": "숟가락"
+			},
+			{
+				"ingre_name": "간장",
+				"ingre_count": "1",
+				"ingre_unit": "숟가락"
+			},
+			{
+				"ingre_name": "올리고당",
+				"ingre_count": "1",
+				"ingre_unit": "숟가락"
+			},
+			{
+				"ingre_name": "설탕",
+				"ingre_count": "2",
+				"ingre_unit": "숟가락"
+			},
+			{
+				"ingre_name": "물",
+				"ingre_count": "200",
+				"ingre_unit": "ml"
+			}
+		],
 		"recipe": [
 			{
 				"txt": "큰 볼에 양념재료를 모두 다 넣어줍니다.",
@@ -88,7 +83,7 @@
 		]
 	},
 	{
-		"id": 3,
+		"id": 2,
 		"name": "[간단 자취요리] 매콤짭짤! 매콤 굴소스 볶음면 만들기",
 		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/12/04/6555a73bb283ebab18d5ace22cc938201.jpg",
 		"summary": "안녕하세요 얌배추들!!오늘은 매콤 굴소스 볶음면입니다 :D이대로 먹어도 맛있지만 해물이나 다른 부재료를 넣으시면 해물 볶음면, 버섯 볶음면 등이 됩니다.* 예상 질문 : 굴소스 생략되나요?* 미리 답변 : 생략하면 안돼요! 굴소스가 부가적으로 살짝 들어가는 요리라면 생략하거나 간장으로 대체하셔도 되는데, 이건 굴소스의 향이 특징인 볶음면이라... 꼭 넣어주세요!",
@@ -97,7 +92,48 @@
 			"info2": "10분 이내",
 			"info3": "아무나"
 		},
-		"ingre": [],
+		"ingre": [
+			{
+				"ingre_name": "라면사리",
+				"ingre_count": "1",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "양파",
+				"ingre_count": "1/2",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "피망",
+				"ingre_count": "1/2",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "고춧가루",
+				"ingre_count": "1/2",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "다진마늘",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "굴소스",
+				"ingre_count": "2",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "간장",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "설탕",
+				"ingre_count": "1/3",
+				"ingre_unit": "T"
+			}
+		],
 		"recipe": [
 			{
 				"txt": "먼저 양파를 채썰어줍니다.",
@@ -126,7 +162,7 @@
 		]
 	},
 	{
-		"id": 4,
+		"id": 3,
 		"name": "[간단 자취요리] 여름에는 역시! 새콤달콤 비빔국수 만들기",
 		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/01/af780ddebd49fc3ac26b6da9dec295aa1.jpg",
 		"summary": "안녕하세요~ 오늘은 여름이면 누구나 즐겨 먹는비빔국수를 만들어 봤어요 :)보통은 삶은 계란을 많이들 하시는데요~비빔국수는 삶은 계란보다 지단이나 스크램블로 하시면비빌때 양념이랑 더 잘 어우러져서 맛있어요!!모양을 내시려면 지단을 하시고 혼자 후다닥 드실꺼면 스크램블로 올리세요!!",
@@ -135,7 +171,53 @@
 			"info2": "15분 이내",
 			"info3": "아무나"
 		},
-		"ingre": [],
+		"ingre": [
+			{
+				"ingre_name": "소면1인분(500원동전크기)",
+				"ingre_count": "1인분(500원동전크기)",
+				"ingre_unit": "인분(원동전크기)"
+			},
+			{
+				"ingre_name": "계란",
+				"ingre_count": "1",
+				"ingre_unit": "알"
+			},
+			{
+				"ingre_name": "고추장",
+				"ingre_count": "3",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "간장",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "식초",
+				"ingre_count": "2",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "설탕",
+				"ingre_count": "1.",
+				"ingre_unit": ".T"
+			},
+			{
+				"ingre_name": "다진마늘",
+				"ingre_count": "1/2",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "오이",
+				"ingre_count": "",
+				"ingre_unit": ""
+			},
+			{
+				"ingre_name": "참기름",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			}
+		],
 		"recipe": [
 			{
 				"txt": "재료를 준비합니다.[주 재료] 소면 1인분(500원동전크기), 계란 1알[양념장] 고추장 3T, 간장 1T, 식초 2T, 설탕 1.5T, 다진마늘 1/2T[생략가능재료] 오이, 참기름 1T",
@@ -184,7 +266,7 @@
 		]
 	},
 	{
-		"id": 5,
+		"id": 4,
 		"name": "[간단 자취요리] 쫄면이 땡길 때! 새콤 달콤 쫄라면 만들기",
 		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/08/30/74418b8fb38925a0db3611ded29d82941.jpg",
 		"summary": "안녕하세요 얌배추들!오늘은 쫄라면을 만들어 볼게요ㅎㅎ쫄면이 먹고싶은데 집에 라면밖에 없을 때 만들어 드시면 좋아요! 새콤달콤하니 다른 분식들이랑도 잘 어울려요!그냥 만두만 구워서 같이 먹어도 맛있구요 ㅎㅎ",
@@ -193,7 +275,53 @@
 			"info2": "10분 이내",
 			"info3": "초급"
 		},
-		"ingre": [],
+		"ingre": [
+			{
+				"ingre_name": "라면사리",
+				"ingre_count": "1",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "오이",
+				"ingre_count": "",
+				"ingre_unit": "생략가능"
+			},
+			{
+				"ingre_name": "양배추",
+				"ingre_count": "",
+				"ingre_unit": "생략가능"
+			},
+			{
+				"ingre_name": "고추장",
+				"ingre_count": "5",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "설탕",
+				"ingre_count": "2",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "식초",
+				"ingre_count": "1.",
+				"ingre_unit": ".T"
+			},
+			{
+				"ingre_name": "간장",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "다진마늘",
+				"ingre_count": "1/2",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "참기름",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			}
+		],
 		"recipe": [
 			{
 				"txt": "먼저 양배추를 얇게 채썰어주세요.",
@@ -218,7 +346,7 @@
 		]
 	},
 	{
-		"id": 6,
+		"id": 5,
 		"name": "[간단 자취요리] NO생크림! NO베이컨! 자취버전 크림 스파게티 만들기! (크림라파게티)",
 		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/13/1072fc52a4875a282f5debc4c03d52711.jpg",
 		"summary": "안녕하세요 여러분!!!!!오늘은 많은분들이 좋아하시는 크림스파게티를자취버전으로 만들어봤어요!스파게티면을 라면으로, 베이컨을 스팸으로, 생크림을 빼고자취버전으로 만들어봤는데요 ~생크림을 안넣어도 맛있게 드실 수 있어요 :)",
@@ -227,7 +355,38 @@
 			"info2": "15분 이내",
 			"info3": "아무나"
 		},
-		"ingre": [],
+		"ingre": [
+			{
+				"ingre_name": "우유",
+				"ingre_count": "300",
+				"ingre_unit": "ml"
+			},
+			{
+				"ingre_name": "슬라이스치즈(체다치즈)",
+				"ingre_count": "2",
+				"ingre_unit": "장"
+			},
+			{
+				"ingre_name": "스팸",
+				"ingre_count": "",
+				"ingre_unit": "적당량"
+			},
+			{
+				"ingre_name": "라면",
+				"ingre_count": "1",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "소금",
+				"ingre_count": "1~2꼬집",
+				"ingre_unit": "~꼬집"
+			},
+			{
+				"ingre_name": "후추",
+				"ingre_count": "",
+				"ingre_unit": "약간"
+			}
+		],
 		"recipe": [
 			{
 				"txt": "재료를 준비합니다.라면, 우유, 스팸, 치즈",
@@ -272,7 +431,7 @@
 		]
 	},
 	{
-		"id": 7,
+		"id": 6,
 		"name": "뽕! 탁! 이보다 쉬울수 없어! 초간단 자취요리! 카레치즈라면 ★ ",
 		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2020/02/10/646121612b4c6141af9476f38f93cd121.jpg",
 		"summary": "라면을 제일 많이 먹는 직업은 백수랑 자취생이라죠????편의점에서도 쉽게 살수있는 재로로 뽕하면 탁하고 뾰로롱 나타나는 자취요리 개봉박두! 세상의 모든 레시피 만개의레시피",
@@ -281,7 +440,38 @@
 			"info2": "10분 이내",
 			"info3": "아무나"
 		},
-		"ingre": [],
+		"ingre": [
+			{
+				"ingre_name": "라면",
+				"ingre_count": "1",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "라면스프",
+				"ingre_count": "1",
+				"ingre_unit": "숟가락"
+			},
+			{
+				"ingre_name": "3분카레",
+				"ingre_count": "1",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "슬라이스치즈",
+				"ingre_count": "1",
+				"ingre_unit": "장"
+			},
+			{
+				"ingre_name": "물",
+				"ingre_count": "2",
+				"ingre_unit": "종이컵"
+			},
+			{
+				"ingre_name": "파슬리가루",
+				"ingre_count": "",
+				"ingre_unit": "약간"
+			}
+		],
 		"recipe": [
 			{
 				"txt": "냄비에 물을 넣고 끓이다 라면을 2분간 끓인다.                     \r                             이태리 까사니 멘테냄비                          ",
@@ -298,7 +488,7 @@
 		]
 	},
 	{
-		"id": 8,
+		"id": 7,
 		"name": "[간단 자취요리] 쿠지라이식 라면 업그레이드 버전! 쿠지라이식 매운 치즈라면 레시피",
 		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/10/10/08a932fa28a3163f51ab21d7646068b51.jpg",
 		"summary": "안녕하세요 얌배추들 !!이 영상에 나온 쿠지라이식 라면은 ' 목요일의 플루트 ' 만화에서 나온 쿠지라이식 라면 레시피을 응용한 것입니다.(출처)",
@@ -307,7 +497,33 @@
 			"info2": "10분 이내",
 			"info3": "아무나"
 		},
-		"ingre": [],
+		"ingre": [
+			{
+				"ingre_name": "라면",
+				"ingre_count": "1",
+				"ingre_unit": "봉지"
+			},
+			{
+				"ingre_name": "달걀",
+				"ingre_count": "1",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "체다치즈",
+				"ingre_count": "2",
+				"ingre_unit": "장"
+			},
+			{
+				"ingre_name": "청양고추",
+				"ingre_count": "1",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "물",
+				"ingre_count": "350",
+				"ingre_unit": "ml"
+			}
+		],
 		"recipe": [
 			{
 				"txt": "먼저 청양고추에 칼집을 내주세요! 이렇게 끝은 붙어 있게!",
@@ -340,7 +556,7 @@
 		]
 	},
 	{
-		"id": 9,
+		"id": 8,
 		"name": "[간단 자취요리] 케찹 + 라면으로 스파게티를..! / 자취버전 나폴리탄 스파게티 만들기",
 		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/11/23/f1d14932f2e55c458ff8b8716fe374e91.jpg",
 		"summary": "안녕하세요 여러분들 :)이번 영상은 나폴리탄 스파게티인데요~나폴리탄 스파게티는 이름과는 다르게 나폴리에서 생긴 요리가 아니라 일본에서 변형되어 만들어진 요리입니다 !토마토 소스 대신 케찹으로 만드는 것이 특징인데요~이것 부터 벌써 자취생 요리에 가깝게 느껴지죠?거기에 저는 스파게티 면 대신 구하기 쉬운 라면 면을 사용했어요!취향껏 스파게티면/라면 골라서 사용하셔도 좋습니다",
@@ -349,7 +565,38 @@
 			"info2": "30분 이내",
 			"info3": "아무나"
 		},
-		"ingre": [],
+		"ingre": [
+			{
+				"ingre_name": "라면(또는스파게티면)1개(1인분)",
+				"ingre_count": "1개(1인분)",
+				"ingre_unit": "개(인분)"
+			},
+			{
+				"ingre_name": "계란(생략가능)",
+				"ingre_count": "1",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "햄",
+				"ingre_count": "",
+				"ingre_unit": "적당량"
+			},
+			{
+				"ingre_name": "케찹",
+				"ingre_count": "7",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "굴소스",
+				"ingre_count": "2",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "다진마늘",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			}
+		],
 		"recipe": [
 			{
 				"txt": "재료를 준비합니다.라면, 계란, 햄, 케찹, 굴소스, 다진마늘",
@@ -402,7 +649,7 @@
 		]
 	},
 	{
-		"id": 10,
+		"id": 9,
 		"name": "[간단 자취요리] 자취버전! 초 간단하게 제주 고기 국수 만들기",
 		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2018/02/12/7f52c534439fc220c7965303e0696d281.jpg",
 		"summary": "안녕하세요 얌배촤들!오늘은 얌배추 두 분이 요청해주신 제주 고기 국수를 만들어 봤어요. 예전에 생생정보통에서 봤는데 제주 고기 국수는 고기 삶은 육수와 사골육수 또는 돈골 육수를 섞어서 쓰더라구요! 저도 그래서 고기 따로 삶고 그 국물이랑 섞을까 했는데... 아마 귀찮아서 안 따라 하실 것 같아서 한방에 모두 넣고 끓였습니다 :D 방법이 조금 달랐지만 제가 예상한 맛이 나와서 만족스러웠어요ㅎㅎ 재료만 보고 그냥 사골국물에 된장 푼 맛이라고 생각하실 수 있는데 고기에서 아주 맛있는 고깃국물이 우러나와서 고기국수의 맛을 내줍니다. 국물이 끝내줘요! b",
@@ -411,7 +658,58 @@
 			"info2": "30분 이내",
 			"info3": "아무나"
 		},
-		"ingre": [],
+		"ingre": [
+			{
+				"ingre_name": "사골육수팩",
+				"ingre_count": "1",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "물",
+				"ingre_count": "400",
+				"ingre_unit": "ml"
+			},
+			{
+				"ingre_name": "라면사리",
+				"ingre_count": "1",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "삼겹살",
+				"ingre_count": "1/3",
+				"ingre_unit": "토막"
+			},
+			{
+				"ingre_name": "맛술",
+				"ingre_count": "2",
+				"ingre_unit": "숟가락"
+			},
+			{
+				"ingre_name": "대파",
+				"ingre_count": "2",
+				"ingre_unit": "조각"
+			},
+			{
+				"ingre_name": "된장",
+				"ingre_count": "1/2",
+				"ingre_unit": "숟가락"
+			},
+			{
+				"ingre_name": "간장",
+				"ingre_count": "4",
+				"ingre_unit": "숟가락"
+			},
+			{
+				"ingre_name": "고춧가루",
+				"ingre_count": "3",
+				"ingre_unit": "숟가락"
+			},
+			{
+				"ingre_name": "다진마늘",
+				"ingre_count": "1/2",
+				"ingre_unit": "숟가락"
+			}
+		],
 		"recipe": [
 			{
 				"txt": "먼저 양념장을 만들어 둡시다. (안 드시는 분들은 생략)간장 4숟가락, 고춧가루 3숟가락, 다진 마늘 1/2숟가락",
@@ -440,7 +738,7 @@
 		]
 	},
 	{
-		"id": 11,
+		"id": 10,
 		"name": "[간단 자취요리] 뼛속까지 시원한 김치말이국수 만들기",
 		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/07/13/07409d2427e536455e641e0608fe3cf81.jpg",
 		"summary": "안녕하세요 여러분!!오늘은 시원한 김치말이 국수를 가져왔어요 :D제 예전 영상중에 비빔면이랑 비빔면 소스를 사용해서 만든 김치말이국수 영상도 있으니 소면 삶기 귀찮으신 분들은 그 레시피를 참고해도 좋을 것 같아요!그 비빔면 레시피에도 김치가 들어가지만 그건 사실 김치를 생략해도 충분히 맛있는 레시피입니다. (비빔면 소스 하드캐리) 오늘 레시피는 신김치 생략 안돼요!하지만 오늘 레시피가 훨씬 더 진짜 김치말이 국수스러운 맛입니다.기분따라 골라서 만들어 드세요ㅎㅎ",
@@ -449,7 +747,38 @@
 			"info2": "15분 이내",
 			"info3": "아무나"
 		},
-		"ingre": [],
+		"ingre": [
+			{
+				"ingre_name": "소면",
+				"ingre_count": "1",
+				"ingre_unit": "인분"
+			},
+			{
+				"ingre_name": "냉면육수",
+				"ingre_count": "1",
+				"ingre_unit": "팩"
+			},
+			{
+				"ingre_name": "신김치",
+				"ingre_count": "1",
+				"ingre_unit": "줌"
+			},
+			{
+				"ingre_name": "참기름",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "설탕",
+				"ingre_count": "1/3",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "냉면육수에신김치국물",
+				"ingre_count": "6~8T",
+				"ingre_unit": "~T"
+			}
+		],
 		"recipe": [
 			{
 				"txt": "먼저 오이를 돌려깎기해서 씨부분과 분리해서 채 썰어주세요. 귀찮으시면 그냥 채썰어서 준비해주시면 됩니다.",
@@ -482,7 +811,7 @@
 		]
 	},
 	{
-		"id": 12,
+		"id": 11,
 		"name": "[간단 자취요리] 구수하고 시원한 잔치국수 만들기",
 		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/09/11/c3a8799114e4fef942a03adcef83ff8c1.jpg",
 		"summary": "안녕하세요 얌배추들!오늘은 잔치국수를 만들어 볼게요 :D쉬운 듯 어려운 요리라 집에서 잘 시도를 안 하시는데요~지단이 어려우신 분들은 스크램블로 대체하고멸치육수가 귀찮으신 분들은 마트에 파는 육수 다시팩 사서 쓰세요!이도저도 귀찮다 하면...다시다를 쓰시면 되는데 그건 너무 인공인공 나긋나긋한 맛입니다.",
@@ -491,7 +820,73 @@
 			"info2": "30분 이내",
 			"info3": "초급"
 		},
-		"ingre": [],
+		"ingre": [
+			{
+				"ingre_name": "소면",
+				"ingre_count": "1",
+				"ingre_unit": "인분"
+			},
+			{
+				"ingre_name": "애호박",
+				"ingre_count": "1",
+				"ingre_unit": "덩이"
+			},
+			{
+				"ingre_name": "계란",
+				"ingre_count": "1",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "소금",
+				"ingre_count": "",
+				"ingre_unit": "약간"
+			},
+			{
+				"ingre_name": "물",
+				"ingre_count": "1",
+				"ingre_unit": "L"
+			},
+			{
+				"ingre_name": "멸치",
+				"ingre_count": "1",
+				"ingre_unit": "줌"
+			},
+			{
+				"ingre_name": "다시마",
+				"ingre_count": "3~4장",
+				"ingre_unit": "~장"
+			},
+			{
+				"ingre_name": "간장",
+				"ingre_count": "2",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "고춧가루",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "간장",
+				"ingre_count": "3",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "다진파",
+				"ingre_count": "2",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "다진마늘",
+				"ingre_count": "",
+				"ingre_unit": "약간"
+			},
+			{
+				"ingre_name": "참기름",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			}
+		],
 		"recipe": [
 			{
 				"txt": "먼저 애호박을 채썰어주세요.",
@@ -552,7 +947,7 @@
 		]
 	},
 	{
-		"id": 13,
+		"id": 12,
 		"name": "[간단 자취요리] 비빔면으로 초간단 김치말이국수 만들기 ",
 		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/07/8b56c16b64455466628d12e690470d661.jpg",
 		"summary": "오늘은 요즘같이 꿀꿀한 날씨에 어울리는 시원한 김치말이 국수를 만들어 봤어요 !!얌무버전 답게 오늘도 역시 야매 초 간단 버전입니다비빔면과 냉면육수만 있으면 꿀맛 김치말이국수를 만들 수 있어요!냉면육수는 마트에서 한팩에 900원에 구입했어요 :)정말 초 간단이지만 맛은...끝내줍니다bbb냉면육수는 냉동실에 넣어두시고 살얼음상태로 사용하면 더 좋아요오이는 써는 장면이 왜 없냐면........생 오이는 없고 오이냉국 만들어 놓은것만 있더라구요 허허...그래서 고명으로 쓰려고 건져서 사용했어욬ㅋㅋㅋㅋㅋ역시 자취요리는 무한 응용!!! 아니겠습니까... :)",
@@ -561,7 +956,38 @@
 			"info2": "10분 이내",
 			"info3": "아무나"
 		},
-		"ingre": [],
+		"ingre": [
+			{
+				"ingre_name": "비빔면",
+				"ingre_count": "1",
+				"ingre_unit": "봉지"
+			},
+			{
+				"ingre_name": "냉면육수",
+				"ingre_count": "1",
+				"ingre_unit": "팩"
+			},
+			{
+				"ingre_name": "김치",
+				"ingre_count": "",
+				"ingre_unit": "적당량"
+			},
+			{
+				"ingre_name": "올리고당",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "참기름(김치양념)",
+				"ingre_count": "1/2",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "오이",
+				"ingre_count": "",
+				"ingre_unit": "적당량"
+			}
+		],
 		"recipe": [
 			{
 				"txt": "재료를 준비합니다.[주 재료]비빔면1봉지, 냉면육수1팩, 김치[부재료]올리고당1T,참기름1/2T(김치양념),오이",
@@ -594,7 +1020,7 @@
 		]
 	},
 	{
-		"id": 14,
+		"id": 13,
 		"name": "[간단 자취요리] 라면보다 쉽다! 뼛속까지 시원한 냉짬뽕 만들기",
 		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/06/26/da6867aa5f9a96c1f1330de620e654a81.jpg",
 		"summary": "안녕하세요 여러분~ 얌무입니다!요즘 날씨가 엄청 덥죠?ㅠㅠ 그래서 기운을 낼 수 있는시원한 냉짬뽕을 준비했어요!이건 진짜 노력에 비해 엄청 맛있으니까 꼭 만들어보세요!",
@@ -603,7 +1029,33 @@
 			"info2": "30분 이내",
 			"info3": "아무나"
 		},
-		"ingre": [],
+		"ingre": [
+			{
+				"ingre_name": "진짬뽕",
+				"ingre_count": "1",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "냉면육수",
+				"ingre_count": "1",
+				"ingre_unit": "팩"
+			},
+			{
+				"ingre_name": "대파",
+				"ingre_count": "1/3",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "진짬뽕액상소스",
+				"ingre_count": "1/2",
+				"ingre_unit": ""
+			},
+			{
+				"ingre_name": "향미유",
+				"ingre_count": "",
+				"ingre_unit": "다넣기"
+			}
+		],
 		"recipe": [
 			{
 				"txt": "파의 심지를 제거하고 채썰어주세요.",
@@ -632,7 +1084,7 @@
 		]
 	},
 	{
-		"id": 15,
+		"id": 14,
 		"name": "초간단 자취요리, 볶음면st' 미고랭라면",
 		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2018/08/23/4bd0b48ac7f22965cf2e3870f6f0cf941.jpg",
 		"summary": "세계인의 사랑을 받는 라면 중 특히 그 가격경쟁면에서 강점을 보이는 라면들이 바로 동남아 라면들이 아닐까 싶어요. 제가 참 좋아하는 라면 중 하나인 미고랭 라면은 인도네시아 라면으로 전 세계에서 가장 많이 팔린 라면 1위의 자리를 차지한 적도 있을만큼 아주 인기가 좋은 아이템인데요. 특히 조리법이 매우 간단하면서 풍미유가 내는 고소한 맛과 우리에게 아주 친숙한 적당한 시즈닝으로 한국분들에게도 인기가 좋은 라면이랍니다. 오늘은 간단한 한끼로 부담 없이 즐기기 좋은 인도네시아 볶음 라면인 미고랭 라면 맛있게 끓이는법 레시피로 여러분과 함께합니다. 가볍게 스크램블한 계란 두개 더하고 참기름 살짝 둘렀을 뿐인데도 그 맛의 차이는 분명하더라구요. 함께 만들어볼까요?",
@@ -641,7 +1093,43 @@
 			"info2": "5분 이내",
 			"info3": "아무나"
 		},
-		"ingre": [],
+		"ingre": [
+			{
+				"ingre_name": "미고랭라면",
+				"ingre_count": "1",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "달걀",
+				"ingre_count": "2",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "식용유",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "물",
+				"ingre_count": "500",
+				"ingre_unit": "mL"
+			},
+			{
+				"ingre_name": "쪽파",
+				"ingre_count": "1/3",
+				"ingre_unit": "뿌리"
+			},
+			{
+				"ingre_name": "깨",
+				"ingre_count": "1",
+				"ingre_unit": "t"
+			},
+			{
+				"ingre_name": "참기름",
+				"ingre_count": "1/2",
+				"ingre_unit": "T"
+			}
+		],
 		"recipe": [
 			{
 				"txt": "**만개의 레시피를 통해 제공되는 메이플대니얼의 컨텐츠는 사진형으로 보실 때 더욱 좋습니다**",
@@ -678,7 +1166,7 @@
 		]
 	},
 	{
-		"id": 16,
+		"id": 15,
 		"name": "간단요리 분식점 라면 끓이는법 자취요리 라면요리 레시피",
 		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2019/09/20/db7cc20f46623532ce24025cea17838d1.jpg",
 		"summary": "분식점라면 맛이 나서 정말 신기했어용^^",
@@ -687,7 +1175,23 @@
 			"info2": "5분 이내",
 			"info3": "아무나"
 		},
-		"ingre": [],
+		"ingre": [
+			{
+				"ingre_name": "라면",
+				"ingre_count": "1",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "대파",
+				"ingre_count": "1/2",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "계란",
+				"ingre_count": "1",
+				"ingre_unit": "개"
+			}
+		],
 		"recipe": [
 			{
 				"txt": "대파를 너무 두껍지 않게 썰어 줍니다",
@@ -720,7 +1224,7 @@
 		]
 	},
 	{
-		"id": 17,
+		"id": 16,
 		"name": "[간단 자취요리] 짜파게티로 간짜장 만들기/ 짜장면",
 		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/05/10/f41b548832acf5d69d8a7442761a56bf1.jpg",
 		"summary": "안녕하세요 여러분 :D오늘은 짜파게티로 간짜장을 만들어볼게요!진정한 야매요리가... 아닌가 싶네요ㅋㅋㅋ짜파게티 분말스프를 사용하는 만큼짜파게티에서 업그레이드된 맛은 낼 수 있으나진짜 간짜장의 맛을 상상하시면 안됩니다...제가 먹어본 결과 짜파게티 대신짜왕 라면을 사용하면 그 짜파게티 특유의 맛이 안나서훨씬 더 진짜 간짜장스러울 것 같습니다!따라서 만들어보실 분들은 짜왕으로 한번 끓어보세요!!",
@@ -729,7 +1233,33 @@
 			"info2": "30분 이내",
 			"info3": "아무나"
 		},
-		"ingre": [],
+		"ingre": [
+			{
+				"ingre_name": "짜파게티",
+				"ingre_count": "1",
+				"ingre_unit": "봉지"
+			},
+			{
+				"ingre_name": "양배추",
+				"ingre_count": "",
+				"ingre_unit": ""
+			},
+			{
+				"ingre_name": "양파",
+				"ingre_count": "1/4",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "물",
+				"ingre_count": "",
+				"ingre_unit": ""
+			},
+			{
+				"ingre_name": "식용유",
+				"ingre_count": "",
+				"ingre_unit": ""
+			}
+		],
 		"recipe": [
 			{
 				"txt": "재료를 준비한다.",
@@ -778,7 +1308,7 @@
 		]
 	},
 	{
-		"id": 18,
+		"id": 17,
 		"name": "간단한 자취요리! '치즈소시지라면'끓이기!라면 라면황금레시피! ",
 		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2020/05/25/c97605c6d4a61ce73a98b9653c1a3b7d1.jpg",
 		"summary": "안뇽하세요!오늘은 주말인 만큼!간단하게 한끼해결했답니다!'치즈소시지라면' 끓여먹기!",
@@ -787,7 +1317,28 @@
 			"info2": "15분 이내",
 			"info3": "초급"
 		},
-		"ingre": [],
+		"ingre": [
+			{
+				"ingre_name": "안성탕면",
+				"ingre_count": "2",
+				"ingre_unit": "봉지"
+			},
+			{
+				"ingre_name": "슬라이스체다치즈",
+				"ingre_count": "2",
+				"ingre_unit": "장"
+			},
+			{
+				"ingre_name": "후랑크소시지",
+				"ingre_count": "1",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "고춧가루",
+				"ingre_count": "1",
+				"ingre_unit": "작은술"
+			}
+		],
 		"recipe": [
 			{
 				"txt": "양은냄비에 안성탕면 2봉을 끓일 물을 넣고 끌여줘요!물이 끓기 시작하면 스프와 면을 넣고 조리해준답니다!",
@@ -804,7 +1355,7 @@
 		]
 	},
 	{
-		"id": 19,
+		"id": 18,
 		"name": "해물 볶음 우동 만드는법. 쉽고 간단해서 자취 요리에 좋아요.",
 		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2019/10/28/f814f542eb6cb936ca45d360391f9a981.jpg",
 		"summary": "혼자 사신 분들이 많아서 영양가도 있으면서 쉽고 맛있는 해물 우동을 만들었어요.",
@@ -813,7 +1364,63 @@
 			"info2": "15분 이내",
 			"info3": "아무나"
 		},
-		"ingre": [],
+		"ingre": [
+			{
+				"ingre_name": "우동",
+				"ingre_count": "2",
+				"ingre_unit": "팩"
+			},
+			{
+				"ingre_name": "칵테일새우",
+				"ingre_count": "70",
+				"ingre_unit": "g"
+			},
+			{
+				"ingre_name": "모듬해물",
+				"ingre_count": "100",
+				"ingre_unit": "g"
+			},
+			{
+				"ingre_name": "양파",
+				"ingre_count": "1/4",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "얼갈이",
+				"ingre_count": "100",
+				"ingre_unit": "g"
+			},
+			{
+				"ingre_name": "청피망",
+				"ingre_count": "30",
+				"ingre_unit": "g"
+			},
+			{
+				"ingre_name": "홍고추",
+				"ingre_count": "1/2",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "대파",
+				"ingre_count": "",
+				"ingre_unit": "흰부분만"
+			},
+			{
+				"ingre_name": "굴소스",
+				"ingre_count": "1/2",
+				"ingre_unit": "씩"
+			},
+			{
+				"ingre_name": "간장",
+				"ingre_count": "1",
+				"ingre_unit": "T씩"
+			},
+			{
+				"ingre_name": "후추",
+				"ingre_count": "",
+				"ingre_unit": ""
+			}
+		],
 		"recipe": [
 			{
 				"txt": "해물은 뜨거운 물을 넣어 녹여 주세요. 익히지 않고 녹여만 주세요.",
@@ -846,6 +1453,7 @@
 			{
 				"txt": "팬에 식용유와 고추기름 1T 씩 넣어 열이 오르면 대파,마늘,양파를 넣어 갈색이 될때 까지 볶아 줍니다.",
 				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2019/10/28/a49256db0732816f2886d05b6b7be69d1.jpg"
+
 			},
 			{
 				"txt": "볶아 졌으면 해물과 얼갈이,굴소스,간장,후추 넣어 얼갈이가 숨이 죽을때 까지 센불로 계속 볶아 주세요.",
@@ -858,7 +1466,7 @@
 		]
 	},
 	{
-		"id": 20,
+		"id": 19,
 		"name": "백종원 볶음라면 간단 자취 라면요리 ",
 		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2019/10/25/7defc8e1de7390af01e8f52c3d7ebd851.jpg",
 		"summary": "국물라면이 지겨울때는 볶음라면",
@@ -867,7 +1475,28 @@
 			"info2": "10분 이내",
 			"info3": "아무나"
 		},
-		"ingre": [],
+		"ingre": [
+			{
+				"ingre_name": "라면",
+				"ingre_count": "1",
+				"ingre_unit": "봉지"
+			},
+			{
+				"ingre_name": "대파",
+				"ingre_count": "1",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "식용유",
+				"ingre_count": "3",
+				"ingre_unit": "스푼"
+			},
+			{
+				"ingre_name": "스프",
+				"ingre_count": "1/2",
+				"ingre_unit": "개"
+			}
+		],
 		"recipe": [
 			{
 				"txt": "대파는 얇게 썰어 주세요",
@@ -884,7 +1513,7 @@
 		]
 	},
 	{
-		"id": 21,
+		"id": 20,
 		"name": "[간단 자취요리] 만두피로 칼국수 면을...? 장칼국수 만들기",
 		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/11/21/108813e31babd1bce7ca1c6cc986119d1.jpg",
 		"summary": "안녕하세요 얌배추들!!오늘은 만두피를 사용해서 장 칼국수를 만들어 봤어요 :D",
@@ -893,7 +1522,48 @@
 			"info2": "30분 이내",
 			"info3": "아무나"
 		},
-		"ingre": [],
+		"ingre": [
+			{
+				"ingre_name": "만두피",
+				"ingre_count": "",
+				"ingre_unit": ""
+			},
+			{
+				"ingre_name": "감자",
+				"ingre_count": "1",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "양파",
+				"ingre_count": "1/2",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "애호박",
+				"ingre_count": "1",
+				"ingre_unit": "토막"
+			},
+			{
+				"ingre_name": "된장",
+				"ingre_count": "3",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "고추장",
+				"ingre_count": "4",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "간장",
+				"ingre_count": "2",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "다진마늘",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			}
+		],
 		"recipe": [
 			{
 				"txt": "먼저 애호박을 채썰어줍니다.",
@@ -954,7 +1624,7 @@
 		]
 	},
 	{
-		"id": 22,
+		"id": 21,
 		"name": "[간단 자취요리] 해장라면 끝장판! 속이 뻥~ 뚫리는 무파마 만들기",
 		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/08/16/ae6ad45084f37e7b3bfb8166514f0a181.jpg",
 		"summary": "안녕하세요 여러분!!오늘은 무파마를 만들어 봤어요 :D얼큰+시원함의 끝판왕이죠!!",
@@ -963,7 +1633,38 @@
 			"info2": "10분 이내",
 			"info3": "초급"
 		},
-		"ingre": [],
+		"ingre": [
+			{
+				"ingre_name": "국물라면",
+				"ingre_count": "1",
+				"ingre_unit": "봉지"
+			},
+			{
+				"ingre_name": "마늘",
+				"ingre_count": "4",
+				"ingre_unit": "알"
+			},
+			{
+				"ingre_name": "파",
+				"ingre_count": "1",
+				"ingre_unit": "줌"
+			},
+			{
+				"ingre_name": "물",
+				"ingre_count": "500",
+				"ingre_unit": "ml"
+			},
+			{
+				"ingre_name": "고춧가루",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "된장",
+				"ingre_count": "1/2",
+				"ingre_unit": "T"
+			}
+		],
 		"recipe": [
 			{
 				"txt": "먼저 무를 나박썰기 해주세요!",
@@ -1008,7 +1709,7 @@
 		]
 	},
 	{
-		"id": 23,
+		"id": 22,
 		"name": "[간단 자취요리] 좋아할 수 밖에 없는 맛! 고추참치 비빔면 만들기",
 		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/06/02/201f3ef79ade4dce1398c284bc4b5a151.jpg",
 		"summary": "안녕하세요 여러분 !다들 주말 잘 보내셨나요 :D오늘은 누구나 좋아할 만한 맛! 고추참치 비빔면을 알려드릴게요~늘 그렇듯 만드는 방법도, 재료도 간단하니까 출출할때 후다닥 만들어서 드셔보세요 :)",
@@ -1017,7 +1718,38 @@
 			"info2": "30분 이내",
 			"info3": "아무나"
 		},
-		"ingre": [],
+		"ingre": [
+			{
+				"ingre_name": "라면사리",
+				"ingre_count": "1",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "양파",
+				"ingre_count": "1/4",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "고추참치",
+				"ingre_count": "1",
+				"ingre_unit": "캔"
+			},
+			{
+				"ingre_name": "고추장",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "다진마늘",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "물",
+				"ingre_count": "1/3",
+				"ingre_unit": "컵"
+			}
+		],
 		"recipe": [
 			{
 				"txt": "재료를 준비한다.",
@@ -1058,7 +1790,7 @@
 		]
 	},
 	{
-		"id": 24,
+		"id": 23,
 		"name": "[간단 자취요리] 재료가 이게 끝..? 자취버전 미소라멘 만들기",
 		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/02/06/d9a08de2aa568b1c4b7559dffedde3491.jpg",
 		"summary": "오늘의 자취요리는 바로 미소라멘입니다!구수한 맛과 일본된장인 미소된장이 들어가는 요리인데요~제 채널에서 미소된장과 돼지뼈를 육수를 만들고, 닭육수를 만드세요 샬라샬라 이러면 다들 난리나겠죠?ㅋㅋㅋㅋ그래서 제 채널에 맞는 야매 미소라멘을 만들었어요곰탕라면과 시판 된장을 사용해서 만들어봤습니다장식하려고 훈제계란 1개에 1000원에 샀어요 후덜덜예상질문 : 쌈장돼요? 미리답변 : 안됩니다예상질문2: 다른 흰국물라면 돼요?(꼬꼬면,나가사끼면등)미리답변 : 저는 안해봤지만 꽤 괜찮을 것 같아요 :)나가사끼 짬뽕라면은 살짝 매콤한 맛이 있어서 둘중에 꼭 쓰자면 꼬꼬면이 나은것같아요! (꼬꼬면 아직도 나오나요..?)",
@@ -1067,7 +1799,43 @@
 			"info2": "30분 이내",
 			"info3": "아무나"
 		},
-		"ingre": [],
+		"ingre": [
+			{
+				"ingre_name": "사리곰탕라면",
+				"ingre_count": "1",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "스프",
+				"ingre_count": "2/3",
+				"ingre_unit": "봉지"
+			},
+			{
+				"ingre_name": "된장",
+				"ingre_count": "1",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "대파",
+				"ingre_count": "",
+				"ingre_unit": "약간"
+			},
+			{
+				"ingre_name": "물",
+				"ingre_count": "600",
+				"ingre_unit": "ml"
+			},
+			{
+				"ingre_name": "훈제란",
+				"ingre_count": "1",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "김",
+				"ingre_count": "",
+				"ingre_unit": "약간"
+			}
+		],
 		"recipe": [
 			{
 				"txt": "재료를 준비합니다.",
@@ -1100,45 +1868,7 @@
 		]
 	},
 	{
-		"id": 25,
-		"name": "냉동튀김만두 샐러드/초간단 자취생 혼밥요리",
-		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/17/e2c1dd347b82c74112263d61d10d788e1.jpg",
-		"summary": "혼자서 밥해먹기는 싫고 배는 고프고 간식으로도 좋고 즉석에서 한끼 식사로도 아주 비쥬얼한 냉동만두 튀김 샐러드입니다.과정샷은 찍질 못했답니다.우리집 복댕이 딸이 얼마나 잘먹던지 제가 다흐믓했답니다^^남은 명절음식 전을 튀김가루에 뭍혀서 튀겨야채랑 소스랑 같이 드셔도 좋답니다",
-		"info": {
-			"info1": "1인분",
-			"info2": "10분 이내",
-			"info3": "아무나"
-		},
-		"ingre": [],
-		"recipe": [
-			{
-				"txt": "너무 간단해서 재료 손질 할것도 없어요.",
-				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/17/8b32cacc5cf4340f8003e77a0983f1651.jpg"
-			},
-			{
-				"txt": "시판 냉동 만두.넛켓을 튀겨준후 또는 구워도 됩니다.기름기를 키친타올 에 뺀후",
-				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/17/ff40efe4ff08216946407fe34a07bc2a1.jpg"
-			},
-			{
-				"txt": "소스를 모두 넣어 섞어 미리 만들어 놓으시고요",
-				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/17/b4fe504448729ab9b997b72fcbfe51281.jpg"
-			},
-			{
-				"txt": "깨끗이 씻어서 물기를 뺀 청상추를 접시에 깔고 투긴만두를 얹어 방울토마토는 반으로 잘라 빙둘러 담고",
-				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/17/9ff740f94f9994ace190883bb086b42a1.jpg"
-			},
-			{
-				"txt": "다른 접시에는 양배추채 를 담고 위에 만두와 넛켓을 얹으시고",
-				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/17/15caba884176488396174f91176d081a1.jpg"
-			},
-			{
-				"txt": "완성 해논 접시와 소스를 따로 곁들여 내시고 소스는 드시기 전에 뿌려 드셔야 눅눅해지 않아요. 바샥하고 고소하고 야채까지 곁들여 드실수가 있답니다",
-				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/17/c757f5fc8c62a23e1c5d59fcfad3d58c1.jpg"
-			}
-		]
-	},
-	{
-		"id": 26,
+		"id": 24,
 		"name": "[간단 자취요리] 비빔면으로 초 간단! 고 퀄리티 골뱅이무침 만들기! 야매요리 ",
 		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/09/6490e302b004fa4e21a0b08382a7246b1.jpg",
 		"summary": "오늘은 비빔면으로 골뱅이 무침을 만들어 봤어요!친구들이 놀러왔을때나 술안주가 필요할때 최고인 골뱅이무침!비빔면을 이용해 간단하게 만들어봤어요하지만 비주얼은 끝판왕입니다bb소스를 그냥 양념장으로만 만들어도 되지만 역시 시판소스가같이 들어가줘야 입에 챡챡붙는 맛이 업업! 되는것 같아요 하핫그리고 저는 골뱅이를 2/3캔 사용했는데 각자의 취향에 맞게 양조절을 하시면 될거같아요 :)",
@@ -1147,7 +1877,48 @@
 			"info2": "15분 이내",
 			"info3": "아무나"
 		},
-		"ingre": [],
+		"ingre": [
+			{
+				"ingre_name": "비빔면",
+				"ingre_count": "1",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "골뱅이캔",
+				"ingre_count": "1",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "양파",
+				"ingre_count": "1/2",
+				"ingre_unit": "개"
+			},
+			{
+				"ingre_name": "대파",
+				"ingre_count": "",
+				"ingre_unit": ""
+			},
+			{
+				"ingre_name": "비빔면소스",
+				"ingre_count": "",
+				"ingre_unit": ""
+			},
+			{
+				"ingre_name": "고춧가루",
+				"ingre_count": "2",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "식초",
+				"ingre_count": "2",
+				"ingre_unit": "T"
+			},
+			{
+				"ingre_name": "설탕",
+				"ingre_count": "2",
+				"ingre_unit": "T"
+			}
+		],
 		"recipe": [
 			{
 				"txt": "재료를 준비합니다.",
@@ -1192,60 +1963,6 @@
 			{
 				"txt": "무쳐놓은 골뱅이무침을 그릇 중간에 놓고, 면, 파, 면, 파 순으로 플레이팅 해주세요, 그리고 깨가 있다면 그 위에 솔솔 뿌려주세요.",
 				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/09/881551032c12467c0ad8f5c2ef8106a01.jpg"
-			}
-		]
-	},
-	{
-		"id": 27,
-		"name": "[초간단 자취요리] 만두를 7분만에? 야매요리 만두만들기 :)",
-		"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/03/10c29f3c8405c068bc03b9393a4734ad1.jpg",
-		"summary": "저번 떡만두국 영상에서 나왔던 만두입니다!만두는 너무 오래걸리고 준비할 재료도 많아서 자취생은엄두도 못내는 요리인데요! 간단버전으로 만두를 만들어봤어요근데 정말 시판 냉동만두랑 맛이 너무 똑같아서 놀람...만들어놓고 냉동실에 보관해놓고 드시면 오래 드실 수 있어요재미도 있고 맛도 있고 만드는 재미도 있어욥 bb",
-		"info": {
-			"info1": "2인분",
-			"info2": "30분 이내",
-			"info3": "아무나"
-		},
-		"ingre": [],
-		"recipe": [
-			{
-				"txt": "만두피와 동그랑땡을 준비해주세요.",
-				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/03/de3a8ba0f885cda3e64d5ace48dae8541.jpg"
-			},
-			{
-				"txt": "동그랑땡은 비닐을 씌워 해동합니다.",
-				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/03/9be3315ea7d206f8870069f9ee0ac1b11.jpg"
-			},
-			{
-				"txt": "2~3분 정도 전자레인지에서 해동을 해줍니다.전자레인지",
-				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/03/1062b07b75fc62d3539894e155463bbc1.jpg"
-			},
-			{
-				"txt": "말랑말랑해진 다음 손으로나 다른 도구들로 으깨줍니다.",
-				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/03/5c984c6a041f9d38926351cfd22517b81.jpg"
-			},
-			{
-				"txt": "으깬 동그랑땡은 만두의 소로 사용 됩니다.",
-				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/03/c2c193178cc06a7d17df7435fce349bc1.jpg"
-			},
-			{
-				"txt": "만두피에 동그랑땡 만두 소를 적당량 올리고 만두피 가장가리에 물을 묻혀줍니다.",
-				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/03/271a0c95bb84ec74839369abd77809e51.jpg"
-			},
-			{
-				"txt": "반으로 접어 만두소가 새지 않도록 꼭꼭 접어줍니다.",
-				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/03/81aa7ad91cd4ef5e27d8e004b8726d191.jpg"
-			},
-			{
-				"txt": "사용할 만두를 제외하곤 냉동실에서 보관해 줍니다.",
-				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/03/3b91f063486283ec9456fb2d2c8334e01.jpg"
-			},
-			{
-				"txt": "후라이팬에 기름을 두르고 만든 만두를 구워줍니다.",
-				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/03/c3086b0547d68859b7703ca1d8a6b5e71.jpg"
-			},
-			{
-				"txt": "앞면과 뒷면을 고르게 구워주면 완성입니다.",
-				"img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/03/fa0b320948bf4b04846a82fa4a08a7fb1.jpg"
 			}
 		]
 	}

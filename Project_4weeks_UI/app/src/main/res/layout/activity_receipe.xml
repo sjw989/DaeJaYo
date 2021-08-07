@@ -3,22 +3,11 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/background"
     android:orientation="vertical"
     android:paddingLeft="50dp"
     android:paddingTop="99dp"
     android:paddingRight="50dp"
     android:paddingBottom="50dp">
-
-    <TextView
-        android:id="@+id/textView20"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:gravity="center_horizontal"
-        android:text="- 레시피 -"
-        android:textColor="@color/white"
-        android:textSize="30dp"
-        android:textStyle="bold" />
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -47,8 +36,7 @@
                         android:id="@+id/image1"
                         android:layout_width="105dp"
                         android:layout_height="105dp"
-                        android:scaleType="fitXY"
-                        app:srcCompat="@drawable/first" />
+                        android:scaleType="fitXY"                         />
 
                     <TextView
                         android:id="@+id/textView1"
@@ -79,8 +67,7 @@
                         android:id="@+id/image2"
                         android:layout_width="105dp"
                         android:layout_height="105dp"
-                        android:scaleType="fitXY"
-                        app:srcCompat="@drawable/second" />
+                        android:scaleType="fitXY" />
 
                     <TextView
                         android:id="@+id/textView2"
@@ -108,8 +95,7 @@
                         android:id="@+id/image3"
                         android:layout_width="105dp"
                         android:layout_height="105dp"
-                        android:scaleType="fitXY"
-                        app:srcCompat="@drawable/third" />
+                        android:scaleType="fitXY"/>
 
                     <TextView
                         android:id="@+id/textView3"
@@ -138,7 +124,7 @@
                         android:layout_width="105dp"
                         android:layout_height="105dp"
                         android:scaleType="fitXY"
-                        app:srcCompat="@drawable/fourth" />
+                         />
 
                     <TextView
                         android:id="@+id/textView4"
@@ -165,7 +151,7 @@
                         android:layout_width="105dp"
                         android:layout_height="105dp"
                         android:scaleType="fitXY"
-                        app:srcCompat="@drawable/fifth" />
+                         />
 
                     <TextView
                         android:id="@+id/textView5"
@@ -194,7 +180,7 @@
                         android:layout_width="105dp"
                         android:layout_height="105dp"
                         android:scaleType="fitXY"
-                        app:srcCompat="@drawable/sixth" />
+                         />
 
                     <TextView
                         android:id="@+id/textView6"
@@ -221,7 +207,7 @@
                         android:layout_width="105dp"
                         android:layout_height="105dp"
                         android:scaleType="fitXY"
-                        app:srcCompat="@drawable/seventh" />
+                         />
 
                     <TextView
                         android:id="@+id/textView7"
@@ -250,7 +236,7 @@
                         android:layout_width="105dp"
                         android:layout_height="105dp"
                         android:scaleType="fitXY"
-                        app:srcCompat="@drawable/eighth" />
+                        />
 
                     <TextView
                         android:id="@+id/textView8"
