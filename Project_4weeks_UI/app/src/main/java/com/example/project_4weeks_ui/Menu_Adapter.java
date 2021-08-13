@@ -7,6 +7,7 @@ import android.view.ViewGroup;
 import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
@@ -24,6 +25,16 @@ public class Menu_Adapter extends RecyclerView.Adapter<Menu_Adapter.MenuViewHold
         this.context = context;
     }
 
+    public interface OnItemClickListener {
+        void onItemClick(View v, int position);
+    }
+
+    private OnItemClickListener mListener = null;
+    public void setOnItemClickListener(OnItemClickListener listener){
+        this.mListener = listener;
+    }
+
+
     @NonNull
     @Override
     public MenuViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
@@ -36,7 +47,7 @@ public class Menu_Adapter extends RecyclerView.Adapter<Menu_Adapter.MenuViewHold
     public void onBindViewHolder(@NonNull MenuViewHolder holder, int position) {
         Glide.with(holder.itemView)
                 .load(arrayList.get(position).get_img_URL())
-                .into(holder.ib_image);
+                .into(holder.iv_image);
         holder.tv_name.setText(arrayList.get(position).get_name());
         holder.tv_info1.setText(arrayList.get(position).get_info1());
         holder.tv_info2.setText(arrayList.get(position).get_info2());
@@ -50,7 +61,7 @@ public class Menu_Adapter extends RecyclerView.Adapter<Menu_Adapter.MenuViewHold
     }
 
     public class MenuViewHolder extends RecyclerView.ViewHolder {
-        ImageButton ib_image;
+        ImageView iv_image;
         TextView tv_name;
         TextView tv_info1;
         TextView tv_info2;
@@ -58,11 +69,20 @@ public class Menu_Adapter extends RecyclerView.Adapter<Menu_Adapter.MenuViewHold
 
         public MenuViewHolder(@NonNull View itemView) {
             super(itemView);
-            this.ib_image = itemView.findViewById(R.id.ib_image);
+            this.iv_image = itemView.findViewById(R.id.iv_image);
             this.tv_name = itemView.findViewById(R.id.tv_name);
             this.tv_info1 = itemView.findViewById(R.id.tv_info1);
             this.tv_info2 = itemView.findViewById(R.id.tv_info2);
             this.tv_info3 = itemView.findViewById(R.id.tv_info3);
+            itemView.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+                    int pos = getAdapterPosition();
+                    if(pos != RecyclerView.NO_POSITION){
+                        mListener.onItemClick(v,pos);
+                    }
+                }
+            });
         }
     }
 }

@@ -38,7 +38,9 @@ dependencies {
     implementation 'com.squareup.retrofit2:retrofit:2.6.2' // 레트로핏 설치 (필수)
     implementation 'com.squareup.retrofit2:converter-gson:2.6.2' // 컨버터 (선택)
     implementation 'androidx.recyclerview:recyclerview:1.0.0'
-    implementation 'com.github.bumptech.glide:glide:4.10.0' // 파이어베이스 db연동할 때 이미지 원활하게 받아오게하는 lib
+    implementation 'com.github.bumptech.glide:glide:4.10.0'
+    implementation 'com.google.firebase:firebase-storage:20.0.0'
+// 파이어베이스 db연동할 때 이미지 원활하게 받아오게하는 lib
     annotationProcessor 'com.github.bumptech.glide:compiler:4.10.0' // 위에거랑 같이 해주는 거
     implementation platform('com.google.firebase:firebase-bom:28.3.0')
     implementation 'com.google.firebase:firebase-database:20.0.1'

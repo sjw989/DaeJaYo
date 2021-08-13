@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white">
+
+    <EditText
+        android:id="@+id/etv_addIngre_dialog_name"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:gravity="center"
+        android:hint="이름을 입력하세요 (ex 사과)"
+        android:inputType="text"
+        android:textColor="@color/black"
+        android:textColorHighlight="#E91E63"
+        android:textColorHint="#72CFFA"
+        app:layout_constraintBottom_toTopOf="@id/etv_addIngre_dialog_count"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/etv_addIngre_dialog_count"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:gravity="center"
+        android:hint="개수를 입력하세요 (ex 3)"
+        android:inputType="text"
+        android:textColor="@color/black"
+        android:textColorHighlight="#E91E63"
+        android:textColorHint="#72CFFA"
+        app:layout_constraintBottom_toTopOf="@id/etv_addIngre_dialog_unit"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/etv_addIngre_dialog_name" />
+
+    <EditText
+        android:id="@+id/etv_addIngre_dialog_unit"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:gravity="center"
+        android:hint="단위를 입력하세요 (ex 개)"
+        android:inputType="text"
+        android:textColor="@color/black"
+        android:textColorHighlight="#E91E63"
+        android:textColorHint="#72CFFA"
+        app:layout_constraintBottom_toTopOf="@id/btn_addIngre_submit"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/etv_addIngre_dialog_count" />
+
+    <Button
+        android:id="@+id/btn_addIngre_submit"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:text="추가"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/etv_addIngre_dialog_unit" />
+</androidx.constraintlayout.widget.ConstraintLayout>

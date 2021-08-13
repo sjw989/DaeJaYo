@@ -36,8 +36,8 @@ public class MainActivity extends AppCompatActivity {
     String lon ; // 경도
     String lat ; // 위도
     String address ; // 주소
-    String selected_category_KR; // 선택된카테고리 한글
-    String selected_category_ENG; // 선택된카테고리 영어
+    public static String selected_category_KR; // 선택된카테고리 한글
+    public static String selected_category_ENG; // 선택된카테고리 영어
     // 한글과 영어 구분한 이유는 db에서 한글로 받아올 수 없어서 영어 이름도 넘겨줘야함
 
     TextView tv_temperature; // 온도출력 텍스트뷰
@@ -45,6 +45,16 @@ public class MainActivity extends AppCompatActivity {
 
     public static Context context_MainActivity; // selected_category 넘겨주기 위한 context 선언
     static RequestQueue requestQueue;
+
+
+
+
+
+
+
+
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -153,8 +163,7 @@ public class MainActivity extends AppCompatActivity {
         }// 날씨 end
 
     }
-    
-    
+
     public void startLocationService(){
         LocationManager manager = (LocationManager) getSystemService(Context.LOCATION_SERVICE);
         try{

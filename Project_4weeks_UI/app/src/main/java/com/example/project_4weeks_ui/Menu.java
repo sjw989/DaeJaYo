@@ -10,9 +10,6 @@ public class Menu {
     private String info1;
     private String info2;
     private String info3;
-    //Information info;
-    //ArrayList<Ingredient> ingre = new ArrayList<Ingredient>();
-    //ArrayList<Recipe_information> recipe = new ArrayList<Recipe_information>();
 
     public Menu() {
     }

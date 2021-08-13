@@ -11,6 +11,7 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.KeyEvent;
 import android.view.View;
+import android.widget.Button;
 import android.widget.ImageButton;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -27,14 +28,15 @@ import org.w3c.dom.Text;
 import java.util.ArrayList;
 
 public class select_menu extends AppCompatActivity {
-    public String selected_category_KR = ((MainActivity)MainActivity.context_MainActivity).selected_category_KR;
-    public String selected_category_ENG = ((MainActivity)MainActivity.context_MainActivity).selected_category_ENG;
+    public static String selected_menu; // 선택된 메뉴이름
+    public static String selected_menu_num; // 선택된 메뉴 번호
     // MainActivity로 부터 선택된 카테고리 이름 받아오기
-
+    public static int curCategory_size; // 현재 current 카테고리의 원소 개수
+    public static Context context_select_menu; // curCategory_size를 넘겨주기 위한 context 선언
     public TextView tv_category; // 카테고리 이름을 출력할 textView
-
+    public Button bt_addmenu; // 메뉴 추가 버튼
     private RecyclerView recyclerView;
-    private RecyclerView.Adapter adapter;
+    private Menu_Adapter adapter;
     private RecyclerView.LayoutManager layoutManager;
     private ArrayList<Menu> arrayList;
     private FirebaseDatabase database;
@@ -46,22 +48,35 @@ public class select_menu extends AppCompatActivity {
         setContentView(R.layout.activity_select_menu);
 
         tv_category = findViewById(R.id.tv_category);
-        tv_category.setText(selected_category_KR);
+        tv_category.setText(MainActivity.selected_category_KR);
 
-        recyclerView = findViewById(R.id.recyclerView);
+        // 메뉴 추가 버튼
+        bt_addmenu = findViewById(R.id.bt_addmenu);
+        bt_addmenu.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getApplicationContext(), add_menu.class);
+                startActivity(intent);
+            }
+        });
+
+
+        recyclerView = findViewById(R.id.rec_menu);
         recyclerView.setHasFixedSize(true); // recyclerView 성능강화
         layoutManager = new LinearLayoutManager(this);
         recyclerView.setLayoutManager(layoutManager);
         arrayList = new ArrayList<>(); // Menu 를 담을 arrayList
 
         database = FirebaseDatabase.getInstance(); // 파이어베이스 db 연동
-        databaseReference = database.getReference(selected_category_ENG); // 선택된 category db로 연결
+        databaseReference = database.getReference(MainActivity.selected_category_ENG); // 선택된 category db로 연결
         databaseReference.addListenerForSingleValueEvent(new ValueEventListener() {
             @Override
             public void onDataChange(DataSnapshot dataSnapshot) {
                 // 파이어베이스 db에서 데이터를 받아오는 함수
                 arrayList.clear(); // arrayList 초기화
+                curCategory_size = 0;
                 for(DataSnapshot snapshot : dataSnapshot.getChildren()){ // for문으로 List 추출
+                    curCategory_size++;
                     Menu menu = new Menu();
                     menu.set_name(snapshot.child("name").getValue().toString());
                     menu.set_img_URL(snapshot.child("img").getValue().toString());
@@ -83,6 +98,19 @@ public class select_menu extends AppCompatActivity {
         });
         adapter = new Menu_Adapter(arrayList,this);
         recyclerView.setAdapter(adapter); // recyclerView에 adapter 연결
+
+        // 메뉴 선택 이벤트 처리
+        adapter.setOnItemClickListener(new Menu_Adapter.OnItemClickListener() {
+            @Override
+            public void onItemClick(View v, int position) {
+                selected_menu = arrayList.get(position).get_name();
+                selected_menu_num = Integer.toString(position);
+                Intent intent = new Intent(getApplicationContext(), RecipeActivity.class);
+                startActivity(intent);
+
+            }
+        });
+
 
     }
 
