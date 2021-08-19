@@ -32,6 +32,7 @@ apply plugin: 'com.android.application'
 apply plugin: 'com.google.gms.google-services'
 
 dependencies {
+    implementation 'com.google.android.material:material:<version>' // 플로팅 버튼
     implementation 'com.yanzhenjie:permission:2.0.3' // 위험 권한 자동 부여
     implementation 'com.android.volley:volley:1.2.0' // API 사용을 위한 Volley
     implementation 'com.google.code.gson:gson:2.8.5' //GSON (선택)

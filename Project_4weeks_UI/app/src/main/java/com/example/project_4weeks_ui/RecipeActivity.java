@@ -5,7 +5,6 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import android.os.Bundle;
-import android.text.method.ScrollingMovementMethod;
 import android.util.Log;
 import android.widget.ImageView;
 import android.widget.TextView;
@@ -16,22 +15,8 @@ import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
-import com.google.gson.JsonArray;
-import com.google.gson.annotations.SerializedName;
-
-import org.w3c.dom.Text;
 
 import java.util.ArrayList;
-import java.util.List;
-
-import retrofit2.Call;
-import retrofit2.Callback;
-import retrofit2.Response;
-import retrofit2.Retrofit;
-import retrofit2.converter.gson.GsonConverterFactory;
-import retrofit2.http.GET;
-import retrofit2.http.Path;
-import retrofit2.http.Query;
 
 public class RecipeActivity extends AppCompatActivity {
     private DatabaseReference  mDBReference;
@@ -46,7 +31,7 @@ public class RecipeActivity extends AppCompatActivity {
         RecipeRecyclerAdapter adapter = new RecipeRecyclerAdapter();
         TextView tv_name = findViewById(R.id.tv_title_recipe);
         TextView tv_ingre = findViewById(R.id.tv_ingredient_recipe);
-        mDBReference = FirebaseDatabase.getInstance().getReference().child(MainActivity.selected_category_ENG).child(select_menu.selected_menu_num);
+        mDBReference = FirebaseDatabase.getInstance().getReference().child(MainActivity.selected_category_ENG).child(SelectMenuActivity.selected_menu_num);
         mDBReference.addValueEventListener(new ValueEventListener() {
             @Override
             public void onDataChange(DataSnapshot dataSnapshot) {

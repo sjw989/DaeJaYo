@@ -6,59 +6,29 @@
     android:layout_height="match_parent"
     android:background="@android:color/white">
 
-    <TextView
-        android:id="@+id/subTitle"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="20dp"
-        android:text='" 대학생을   위한   자취   요리레시피 "'
-        android:textColor="@color/black"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
-    <TextView
-        android:id="@+id/title"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="20dp"
-        android:text="대 자 요"
-        android:textStyle="bold"
-        android:textColor="@color/black"
-        android:textSize="40sp"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/subTitle" />
-
-    <TextView
-        android:id="@+id/tv_location"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textColor="@color/black"
-        app:layout_constraintHorizontal_bias="0.43"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/title" />
-
-    <TextView
-        android:id="@+id/tv_temperature"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textColor="@color/black"
+    <ImageView
+        android:id="@+id/iv_main"
+        android:layout_width="276dp"
+        android:layout_height="112dp"
+        android:layout_marginTop="30dp"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.044"
-        app:layout_constraintStart_toEndOf="@+id/tv_location"
-        app:layout_constraintTop_toBottomOf="@+id/title" />
+        app:layout_constraintHorizontal_bias="0.548"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/etv_enter_searchingWord"
+        app:srcCompat="@drawable/main" />
 
     <ImageButton
         android:id="@+id/ib_noodle"
-        android:layout_width="120dp"
-        android:layout_height="120dp"
-        android:layout_marginTop="20dp"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:background="@color/white"
+        android:scaleType="centerCrop"
         android:src="@drawable/noodle"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toLeftOf="@id/ib_bowl"
-        app:layout_constraintTop_toBottomOf="@id/tv_location"
+        app:layout_constraintBottom_toTopOf="@+id/ib_maindish"
+        app:layout_constraintEnd_toStartOf="@+id/ib_bowl"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/iv_main"
         tools:srcCompat="@drawable/noodle" />
 
     <TextView
@@ -66,21 +36,25 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="면"
-        android:textSize="20sp"
         android:textColor="@color/black"
-        app:layout_constraintLeft_toLeftOf="@id/ib_noodle"
-        app:layout_constraintRight_toRightOf="@id/ib_noodle"
-        app:layout_constraintTop_toBottomOf="@id/ib_noodle" />
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="@+id/ib_noodle"
+        app:layout_constraintHorizontal_bias="0.518"
+        app:layout_constraintStart_toStartOf="@+id/ib_noodle"
+        app:layout_constraintTop_toBottomOf="@+id/ib_noodle" />
 
     <ImageButton
         android:id="@+id/ib_bowl"
-        android:layout_width="120dp"
-        android:layout_height="120dp"
-        android:layout_marginTop="20dp"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:background="@color/white"
+        android:scaleType="centerCrop"
         android:src="@drawable/bowl"
-        app:layout_constraintLeft_toRightOf="@id/ib_noodle"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/tv_location"
+        app:layout_constraintBottom_toBottomOf="@+id/ib_noodle"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/ib_noodle"
+        app:layout_constraintTop_toTopOf="@+id/ib_noodle"
         tools:srcCompat="@drawable/bowl" />
 
     <TextView
@@ -88,62 +62,73 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="찌개"
-        android:textSize="20sp"
         android:textColor="@color/black"
-        app:layout_constraintLeft_toLeftOf="@id/ib_bowl"
-        app:layout_constraintRight_toRightOf="@id/ib_bowl"
-        app:layout_constraintTop_toBottomOf="@id/ib_bowl" />
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="@+id/ib_bowl"
+        app:layout_constraintStart_toStartOf="@+id/ib_bowl"
+        app:layout_constraintTop_toBottomOf="@+id/ib_bowl" />
 
     <ImageButton
         android:id="@+id/ib_maindish"
-        android:layout_width="120dp"
-        android:layout_height="120dp"
-        android:src="@drawable/maindish"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toLeftOf="@id/ib_rice"
-        app:layout_constraintTop_toBottomOf="@+id/tv_noodle"
-        tools:srcCompat="@drawable/maindish" />
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="5dp"
+        android:src="@mipmap/ic_launcher"
+        app:layout_constraintBottom_toTopOf="@+id/ib_bread"
+        app:layout_constraintEnd_toStartOf="@+id/ib_rice"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ib_noodle" />
 
     <TextView
         android:id="@+id/tv_maindish"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="메인반찬"
-        android:textSize="20sp"
         android:textColor="@color/black"
-        app:layout_constraintLeft_toLeftOf="@id/ib_maindish"
-        app:layout_constraintRight_toRightOf="@id/ib_maindish"
-        app:layout_constraintTop_toBottomOf="@id/ib_maindish" />
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="@+id/ib_maindish"
+        app:layout_constraintHorizontal_bias="0.48"
+        app:layout_constraintStart_toStartOf="@+id/ib_maindish"
+        app:layout_constraintTop_toBottomOf="@+id/ib_maindish" />
 
     <ImageButton
         android:id="@+id/ib_rice"
-        android:layout_width="120dp"
-        android:layout_height="120dp"
-        android:src="@drawable/bowlrice"
-        app:layout_constraintLeft_toRightOf="@id/ib_maindish"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/tv_bowl"
-        tools:srcCompat="@drawable/bowlrice" />
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        app:layout_constraintBottom_toBottomOf="@+id/ib_maindish"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/ib_maindish"
+        app:layout_constraintTop_toTopOf="@+id/ib_maindish"
+        app:layout_constraintVertical_bias="0.0"
+        tools:src="@android:mipmap/sym_def_app_icon" />
 
     <TextView
         android:id="@+id/tv_rice"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="덮밥"
-        android:textSize="20sp"
         android:textColor="@color/black"
-        app:layout_constraintLeft_toLeftOf="@id/ib_rice"
-        app:layout_constraintRight_toRightOf="@id/ib_rice"
-        app:layout_constraintTop_toBottomOf="@id/ib_rice" />
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="@+id/ib_rice"
+        app:layout_constraintStart_toStartOf="@+id/ib_rice"
+        app:layout_constraintTop_toBottomOf="@+id/ib_rice" />
 
     <ImageButton
         android:id="@+id/ib_bread"
-        android:layout_width="120dp"
-        android:layout_height="120dp"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="40dp"
+        android:background="@color/white"
+        android:scaleType="centerCrop"
         android:src="@drawable/bread"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toLeftOf="@id/ib_alcohol"
-        app:layout_constraintTop_toBottomOf="@+id/tv_maindish"
+        app:layout_constraintBottom_toTopOf="@+id/iv_project"
+        app:layout_constraintEnd_toStartOf="@+id/ib_alcohol"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ib_maindish"
         tools:srcCompat="@drawable/bread" />
 
     <TextView
@@ -151,32 +136,81 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="빵"
-        android:textSize="20sp"
         android:textColor="@color/black"
-        app:layout_constraintLeft_toLeftOf="@id/ib_bread"
-        app:layout_constraintRight_toRightOf="@id/ib_bread"
-        app:layout_constraintTop_toBottomOf="@id/ib_bread" />
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="@+id/ib_bread"
+        app:layout_constraintHorizontal_bias="0.506"
+        app:layout_constraintStart_toStartOf="@+id/ib_bread"
+        app:layout_constraintTop_toBottomOf="@+id/ib_bread" />
 
     <ImageButton
         android:id="@+id/ib_alcohol"
-        android:layout_width="120dp"
-        android:layout_height="120dp"
-        android:src="@drawable/alcohol"
-        app:layout_constraintLeft_toRightOf="@id/ib_bread"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/tv_rice"
-        tools:srcCompat="@drawable/alcohol" />
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:src="@mipmap/ic_launcher_round"
+        app:layout_constraintBottom_toBottomOf="@+id/ib_bread"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/ib_bread"
+        app:layout_constraintTop_toTopOf="@+id/ib_bread" />
 
     <TextView
         android:id="@+id/tv_alcohol"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="술안주"
-        android:textSize="20sp"
         android:textColor="@color/black"
-        app:layout_constraintLeft_toLeftOf="@id/ib_alcohol"
-        app:layout_constraintRight_toRightOf="@id/ib_alcohol"
-        app:layout_constraintTop_toBottomOf="@id/ib_alcohol" />
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="@+id/tv_bread"
+        app:layout_constraintEnd_toEndOf="@+id/ib_alcohol"
+        app:layout_constraintStart_toStartOf="@+id/ib_alcohol"
+        app:layout_constraintTop_toBottomOf="@+id/ib_alcohol"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <EditText
+        android:id="@+id/etv_enter_searchingWord"
+        android:layout_width="wrap_content"
+        android:layout_height="36dp"
+        android:layout_marginStart="3dp"
+        android:layout_marginLeft="3dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/border"
+        android:ems="10"
+        android:gravity="center_vertical"
+        android:hint="검색어를 입력하세요!"
+        android:inputType="textPersonName"
+        android:paddingLeft="10dp"
+        android:textColor="@color/black"
+        android:textColorHint="@color/black"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.066"
+        app:layout_constraintStart_toEndOf="@+id/btn_search"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/iv_project"
+        android:layout_width="93dp"
+        android:layout_height="35dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginBottom="5dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:srcCompat="@drawable/project" />
+
+    <ImageButton
+        android:id="@+id/btn_search"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/circle"
+        android:padding="5dp"
+        android:scaleType="fitCenter"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/search" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

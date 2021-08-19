@@ -11,71 +11,71 @@
         android:layout_height="match_parent"
         android:background="@color/white"
         android:orientation="vertical"
-        tools:context=".add_menu">
+        tools:context=".AddMenuActivity">
 
         <androidx.constraintlayout.widget.ConstraintLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent">
 
-            <ImageView
-                android:id="@+id/iv_MenuImg"
-                android:layout_width="120dp"
-                android:layout_height="120dp"
-                android:layout_marginTop="10dp"
-                android:scaleType="centerCrop"
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:text="메뉴 추가"
+                android:textColor="@color/black"
+                android:textSize="30sp"
+                android:textStyle="bold"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toTopOf="parent"
-                tools:srcCompat="@tools:sample/avatars" />
+                app:layout_constraintTop_toTopOf="parent" />
 
-            <Button
-                android:id="@+id/btn_add_MenuImg"
-                android:layout_width="0dp"
-                android:layout_height="20dp"
-                android:layout_marginTop="10dp"
-                android:background="#E4E3E3"
-                android:text="이미지 추가하기"
-                android:textColor="@color/black"
-                app:layout_constraintEnd_toEndOf="@+id/iv_MenuImg"
-                app:layout_constraintStart_toStartOf="@+id/iv_MenuImg"
-                app:layout_constraintTop_toBottomOf="@+id/iv_MenuImg" />
+            <View
+                android:id="@+id/view3"
+                android:layout_width="wrap_content"
+                android:layout_height="2dp"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/line"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+            <ImageView
+                android:id="@+id/iv_MenuImg"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_marginTop="30dp"
+                android:padding="5dp"
+                android:scaleType="fitCenter"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.497"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/view3"
+                app:srcCompat="@drawable/border" />
 
             <TextView
                 android:id="@+id/tv_addmenu_name"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="20dp"
-                android:layout_marginLeft="20dp"
-                android:layout_marginTop="20dp"
-                android:text="이름"
+                android:layout_marginStart="60dp"
+                android:layout_marginLeft="60dp"
+                android:layout_marginTop="30dp"
+                android:text="메뉴 이름"
                 android:textColor="@color/black"
-                android:textSize="30sp"
+                android:textSize="20sp"
                 android:textStyle="bold"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/btn_add_MenuImg" />
-
-            <TextView
-                android:id="@+id/textView2"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="20dp"
-                android:layout_marginLeft="20dp"
-                android:layout_marginTop="50dp"
-                android:text="정보"
-                android:textColor="@color/black"
-                android:textSize="30sp"
-                android:textStyle="bold"
-                app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/etv_addmenu_inputName" />
+                app:layout_constraintTop_toBottomOf="@+id/view4" />
 
             <EditText
                 android:id="@+id/etv_addmenu_inputName"
                 android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="10dp"
-                android:layout_marginLeft="10dp"
-                android:layout_marginEnd="10dp"
-                android:layout_marginRight="10dp"
+                android:layout_height="40dp"
+                android:layout_marginStart="30dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginEnd="30dp"
+                android:layout_marginRight="30dp"
                 android:background="@drawable/border"
                 android:ems="10"
                 android:gravity="center"
@@ -83,272 +83,140 @@
                 android:inputType="textPersonName"
                 android:textColor="@color/black"
                 android:textColorHint="#ADDFF6"
-                android:textSize="35sp"
+                android:textSize="20sp"
+                app:layout_constraintBottom_toBottomOf="@+id/tv_addmenu_name"
                 app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintHorizontal_bias="0.517"
                 app:layout_constraintStart_toEndOf="@+id/tv_addmenu_name"
-                app:layout_constraintTop_toTopOf="@+id/tv_addmenu_name" />
+                app:layout_constraintTop_toTopOf="@+id/tv_addmenu_name"
+                app:layout_constraintVertical_bias="0.576" />
 
-            <androidx.constraintlayout.widget.ConstraintLayout
-                android:id="@+id/constraintLayout"
-                android:layout_width="0dp"
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:text="정보"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="@+id/etv_addmenu_inputInfo2"
+                app:layout_constraintEnd_toEndOf="@+id/tv_addmenu_name"
+                app:layout_constraintHorizontal_bias="0.516"
+                app:layout_constraintStart_toStartOf="@+id/tv_addmenu_name"
+                app:layout_constraintTop_toTopOf="@+id/etv_addmenu_inputInfo1" />
+
+            <ImageView
+                android:id="@+id/imageView5"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
                 android:layout_marginStart="10dp"
                 android:layout_marginLeft="10dp"
-                android:background="@drawable/border"
-                app:layout_constraintEnd_toEndOf="@+id/etv_addmenu_inputName"
-                app:layout_constraintHorizontal_bias="0.0"
-                app:layout_constraintStart_toEndOf="@+id/textView2"
-                app:layout_constraintTop_toTopOf="@+id/textView2">
+                android:layout_marginTop="15dp"
+                app:layout_constraintStart_toStartOf="@+id/etv_addmenu_inputName"
+                app:layout_constraintTop_toBottomOf="@+id/etv_addmenu_inputName"
+                app:srcCompat="@drawable/person" />
 
-                <TextView
-                    android:id="@+id/tv_addmenu_info1"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_marginStart="10dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:text="Info1"
-                    android:textColor="@color/black"
-                    android:textSize="15sp"
-                    app:layout_constraintBottom_toTopOf="@+id/tv_addmenu_info2"
-                    app:layout_constraintStart_toStartOf="parent"
-                    app:layout_constraintTop_toTopOf="parent" />
+            <ImageView
+                android:id="@+id/imageView7"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_marginTop="15dp"
+                app:layout_constraintEnd_toEndOf="@+id/imageView5"
+                app:layout_constraintStart_toStartOf="@+id/imageView5"
+                app:layout_constraintTop_toBottomOf="@+id/imageView5"
+                app:srcCompat="@drawable/timer" />
 
-                <TextView
-                    android:id="@+id/tv_addmenu_info2"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_marginStart="10dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:text="Info2"
-                    android:textColor="@color/black"
-                    android:textSize="15sp"
-                    app:layout_constraintBottom_toTopOf="@+id/tv_addmenu_info3"
-                    app:layout_constraintStart_toStartOf="parent"
-                    app:layout_constraintTop_toBottomOf="@+id/tv_addmenu_info1" />
+            <ImageView
+                android:id="@+id/imageView4"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_marginTop="15dp"
+                app:layout_constraintEnd_toEndOf="@+id/imageView7"
+                app:layout_constraintStart_toStartOf="@+id/imageView7"
+                app:layout_constraintTop_toBottomOf="@+id/imageView7"
+                app:srcCompat="@drawable/face" />
 
-                <TextView
-                    android:id="@+id/tv_addmenu_info3"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_marginStart="10dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:layout_marginBottom="5dp"
-                    android:text="Info3"
-                    android:textColor="@color/black"
-                    android:textSize="15sp"
-                    app:layout_constraintBottom_toBottomOf="parent"
-                    app:layout_constraintStart_toStartOf="parent"
-                    app:layout_constraintTop_toBottomOf="@+id/tv_addmenu_info2" />
-
-                <EditText
-                    android:id="@+id/etv_addmenu_inputInfo1"
-                    android:layout_width="0dp"
-                    android:layout_height="wrap_content"
-                    android:layout_marginStart="10dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginEnd="10dp"
-                    android:layout_marginRight="10dp"
-                    android:background="@drawable/border"
-                    android:ems="10"
-                    android:gravity="center"
-                    android:hint="ex) 2인분"
-                    android:inputType="textPersonName"
-                    android:textColor="@color/black"
-                    android:textColorHint="#ADDFF6"
-                    app:layout_constraintBottom_toTopOf="@+id/etv_addmenu_inputInfo2"
-                    app:layout_constraintEnd_toEndOf="parent"
-                    app:layout_constraintHorizontal_bias="0.5"
-                    app:layout_constraintStart_toEndOf="@+id/tv_addmenu_info1"
-                    app:layout_constraintTop_toTopOf="parent" />
-
-                <EditText
-                    android:id="@+id/etv_addmenu_inputInfo2"
-                    android:layout_width="0dp"
-                    android:layout_height="wrap_content"
-                    android:layout_marginStart="10dp"
-                    android:layout_marginLeft="10dp"
-                    android:background="@drawable/border"
-                    android:ems="10"
-                    android:gravity="center"
-                    android:hint="ex) 초보 가능"
-                    android:inputType="textPersonName"
-                    android:textColor="@color/black"
-                    android:textColorHint="#ADDFF6"
-                    app:layout_constraintBottom_toTopOf="@+id/etv_addmenu_inputInfo3"
-                    app:layout_constraintEnd_toEndOf="@+id/etv_addmenu_inputInfo1"
-                    app:layout_constraintHorizontal_bias="0.5"
-                    app:layout_constraintStart_toEndOf="@+id/tv_addmenu_info2"
-                    app:layout_constraintTop_toBottomOf="@+id/etv_addmenu_inputInfo1" />
-
-                <EditText
-                    android:id="@+id/etv_addmenu_inputInfo3"
-                    android:layout_width="0dp"
-                    android:layout_height="wrap_content"
-                    android:layout_marginStart="10dp"
-                    android:layout_marginLeft="10dp"
-                    android:background="@drawable/border"
-                    android:ems="10"
-                    android:gravity="center"
-                    android:hint="ex) 10분 이내"
-                    android:inputType="textPersonName"
-                    android:textColor="@color/black"
-                    android:textColorHint="#ADDFF6"
-                    app:layout_constraintBottom_toBottomOf="parent"
-                    app:layout_constraintEnd_toEndOf="@+id/etv_addmenu_inputInfo2"
-                    app:layout_constraintHorizontal_bias="0.5"
-                    app:layout_constraintStart_toEndOf="@+id/tv_addmenu_info3"
-                    app:layout_constraintTop_toBottomOf="@+id/etv_addmenu_inputInfo2" />
-            </androidx.constraintlayout.widget.ConstraintLayout>
+            <View
+                android:id="@+id/view2"
+                android:layout_width="0dp"
+                android:layout_height="2dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="30dp"
+                android:layout_marginEnd="20dp"
+                android:layout_marginRight="20dp"
+                android:background="@drawable/line"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/etv_addmenu_inputInfo2" />
 
             <TextView
                 android:id="@+id/tv_addmenu_ingre"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="50dp"
+                android:layout_marginTop="30dp"
                 android:text="재료"
                 android:textColor="@color/black"
-                android:textSize="30sp"
+                android:textSize="20sp"
                 android:textStyle="bold"
-                app:layout_constraintStart_toStartOf="@+id/textView2"
-                app:layout_constraintTop_toBottomOf="@+id/constraintLayout" />
+                app:layout_constraintEnd_toEndOf="@+id/view2"
+                app:layout_constraintStart_toStartOf="@+id/view2"
+                app:layout_constraintTop_toBottomOf="@+id/view2" />
 
-            <androidx.constraintlayout.widget.ConstraintLayout
-                android:id="@+id/constraintLayout2"
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/rec_addIngre"
                 android:layout_width="0dp"
                 android:layout_height="150dp"
                 android:layout_marginStart="10dp"
                 android:layout_marginLeft="10dp"
                 android:layout_marginTop="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginRight="10dp"
                 android:background="@drawable/border"
-                app:layout_constraintEnd_toEndOf="@+id/constraintLayout"
+                app:layout_constraintEnd_toStartOf="@+id/btn_addIngre"
+                app:layout_constraintHorizontal_bias="0.0"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/btn_addIngre">
+                app:layout_constraintTop_toBottomOf="@+id/tv_addIngre_name">
 
-                <TextView
-                    android:id="@+id/tv_addIngre_num"
-                    android:layout_width="0dp"
-                    android:layout_height="wrap_content"
-                    android:layout_marginStart="10dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="5dp"
-                    android:gravity="center"
-                    android:text="번호"
-                    android:textColor="@color/black"
-                    android:textSize="15sp"
-                    app:layout_constraintEnd_toStartOf="@+id/tv_addIngre_name"
-                    app:layout_constraintHorizontal_bias="0.5"
-                    app:layout_constraintHorizontal_chainStyle="spread"
-                    app:layout_constraintStart_toStartOf="parent"
-                    app:layout_constraintTop_toTopOf="parent" />
-
-                <TextView
-                    android:id="@+id/tv_addIngre_name"
-                    android:layout_width="0dp"
-                    android:layout_height="wrap_content"
-                    android:layout_marginStart="5dp"
-                    android:layout_marginLeft="5dp"
-                    android:gravity="center"
-                    android:text="이름"
-                    android:textColor="@color/black"
-                    android:textSize="15sp"
-                    app:layout_constraintEnd_toStartOf="@+id/tv_addIngre_count"
-                    app:layout_constraintHorizontal_bias="0.5"
-                    app:layout_constraintStart_toEndOf="@+id/tv_addIngre_num"
-                    app:layout_constraintTop_toTopOf="@+id/tv_addIngre_num" />
-
-                <TextView
-                    android:id="@+id/tv_addIngre_count"
-                    android:layout_width="0dp"
-                    android:layout_height="wrap_content"
-                    android:layout_marginStart="5dp"
-                    android:layout_marginLeft="5dp"
-                    android:gravity="center"
-                    android:text="개수"
-                    android:textColor="@color/black"
-                    android:textSize="15sp"
-                    app:layout_constraintEnd_toStartOf="@+id/tv_addIngre_unit"
-                    app:layout_constraintHorizontal_bias="0.5"
-                    app:layout_constraintStart_toEndOf="@+id/tv_addIngre_name"
-                    app:layout_constraintTop_toTopOf="@+id/tv_addIngre_name" />
-
-                <TextView
-                    android:id="@+id/tv_addIngre_unit"
-                    android:layout_width="0dp"
-                    android:layout_height="wrap_content"
-                    android:layout_marginStart="5dp"
-                    android:layout_marginLeft="5dp"
-                    android:layout_marginEnd="10dp"
-                    android:layout_marginRight="10dp"
-                    android:gravity="center"
-                    android:text="단위"
-                    android:textColor="@color/black"
-                    android:textSize="15sp"
-                    app:layout_constraintEnd_toEndOf="parent"
-                    app:layout_constraintHorizontal_bias="0.5"
-                    app:layout_constraintStart_toEndOf="@+id/tv_addIngre_count"
-                    app:layout_constraintTop_toTopOf="@+id/tv_addIngre_count" />
-
-                <androidx.recyclerview.widget.RecyclerView
-                    android:id="@+id/rec_addIngre"
-                    android:layout_width="0dp"
-                    android:layout_height="0dp"
-                    android:layout_marginStart="5dp"
-                    android:layout_marginLeft="5dp"
-                    android:layout_marginTop="5dp"
-                    android:layout_marginEnd="5dp"
-                    android:layout_marginRight="5dp"
-                    android:layout_marginBottom="5dp"
-                    android:background="@color/white"
-                    app:layout_constraintBottom_toBottomOf="parent"
-                    app:layout_constraintEnd_toEndOf="parent"
-                    app:layout_constraintHorizontal_bias="0.0"
-                    app:layout_constraintStart_toStartOf="parent"
-                    app:layout_constraintTop_toBottomOf="@+id/tv_addIngre_count">
-
-                </androidx.recyclerview.widget.RecyclerView>
-            </androidx.constraintlayout.widget.ConstraintLayout>
+            </androidx.recyclerview.widget.RecyclerView>
 
             <Button
                 android:id="@+id/btn_addIngre"
                 android:layout_width="40dp"
                 android:layout_height="40dp"
-                android:layout_marginStart="10dp"
-                android:layout_marginLeft="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginBottom="10dp"
                 android:background="#62A0D1"
                 android:text="+"
                 android:textColor="@color/white"
                 android:textSize="20sp"
-                app:layout_constraintStart_toEndOf="@+id/tv_addmenu_ingre"
-                app:layout_constraintTop_toTopOf="@+id/tv_addmenu_ingre" />
+                app:layout_constraintBottom_toTopOf="@+id/btn_deleteIngre"
+                app:layout_constraintEnd_toEndOf="parent" />
 
             <Button
                 android:id="@+id/btn_deleteIngre"
                 android:layout_width="40dp"
                 android:layout_height="40dp"
-                android:layout_marginStart="10dp"
-                android:layout_marginLeft="10dp"
                 android:background="#F86262"
                 android:text="ㅡ"
                 android:textColor="@color/white"
                 android:textSize="20sp"
-                app:layout_constraintStart_toEndOf="@+id/btn_addIngre"
-                app:layout_constraintTop_toTopOf="@+id/btn_addIngre" />
+                app:layout_constraintBottom_toBottomOf="@+id/rec_addIngre"
+                app:layout_constraintEnd_toEndOf="@+id/btn_addIngre" />
 
             <TextView
                 android:id="@+id/tv_addmenu_recipe"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="50dp"
+                android:layout_marginTop="30dp"
                 android:text="레시피"
                 android:textColor="@color/black"
-                android:textSize="30sp"
+                android:textSize="20sp"
                 android:textStyle="bold"
-                app:layout_constraintStart_toStartOf="@+id/tv_addmenu_ingre"
-                app:layout_constraintTop_toBottomOf="@+id/constraintLayout2" />
+                app:layout_constraintEnd_toEndOf="@+id/btn_deleteIngre"
+                app:layout_constraintStart_toStartOf="@+id/view8"
+                app:layout_constraintTop_toBottomOf="@+id/view8" />
 
             <Button
                 android:id="@+id/btn_addRecipe"
@@ -360,6 +228,7 @@
                 android:text="+"
                 android:textColor="@color/white"
                 android:textSize="20sp"
+                app:layout_constraintBottom_toBottomOf="@+id/tv_addmenu_recipe"
                 app:layout_constraintStart_toEndOf="@+id/tv_addmenu_recipe"
                 app:layout_constraintTop_toTopOf="@+id/tv_addmenu_recipe" />
 
@@ -373,8 +242,9 @@
                 android:text="ㅡ"
                 android:textColor="@color/white"
                 android:textSize="20sp"
+                app:layout_constraintBottom_toBottomOf="@+id/btn_addRecipe"
                 app:layout_constraintStart_toEndOf="@+id/btn_addRecipe"
-                app:layout_constraintTop_toTopOf="@+id/tv_addmenu_recipe" />
+                app:layout_constraintTop_toTopOf="@+id/btn_addRecipe" />
 
             <androidx.recyclerview.widget.RecyclerView
                 android:id="@+id/rec_addRecipe"
@@ -382,30 +252,225 @@
                 android:layout_height="600dp"
                 android:layout_marginStart="10dp"
                 android:layout_marginLeft="10dp"
-                android:layout_marginTop="10dp"
-                android:layout_marginBottom="10dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginBottom="20dp"
                 android:background="@drawable/border"
                 android:padding="10dp"
-                app:layout_constraintBottom_toTopOf="@+id/btn_register"
-                app:layout_constraintEnd_toEndOf="@+id/constraintLayout2"
-                app:layout_constraintHorizontal_bias="1.0"
+                app:layout_constraintBottom_toBottomOf="@+id/btn_register"
+                app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/tv_addmenu_recipe"
-                app:layout_constraintVertical_bias="0.0">
+                app:layout_constraintTop_toBottomOf="@+id/btn_addRecipe">
 
             </androidx.recyclerview.widget.RecyclerView>
 
-            <Button
+            <ImageButton
+                android:id="@+id/btn_back2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginLeft="20dp"
+                android:background="@color/white"
+                app:layout_constraintBottom_toBottomOf="@+id/textView"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/textView"
+                app:srcCompat="@drawable/back" />
+
+            <View
+                android:id="@+id/view4"
+                android:layout_width="0dp"
+                android:layout_height="2dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginEnd="20dp"
+                android:layout_marginRight="20dp"
+                android:background="@drawable/line"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/btn_add_MenuImg" />
+
+            <com.google.android.material.floatingactionbutton.FloatingActionButton
+                android:id="@+id/btn_add_MenuImg"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="120dp"
+                android:background="@android:color/holo_orange_light"
+                android:clickable="true"
+                android:scaleType="centerCrop"
+                app:backgroundTint="@android:color/holo_orange_light"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.485"
+                app:layout_constraintStart_toStartOf="@+id/iv_MenuImg"
+                app:layout_constraintTop_toTopOf="@+id/iv_MenuImg"
+                app:srcCompat="@drawable/plus" />
+
+            <EditText
+                android:id="@+id/etv_addmenu_inputInfo1"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginLeft="10dp"
+                android:background="@drawable/border"
+                android:ems="10"
+                android:gravity="center"
+                android:hint="ex) 2인분"
+                android:inputType="textPersonName"
+                android:textColor="@color/black"
+                android:textColorHint="#ADDFF6"
+                android:textSize="12sp"
+                app:layout_constraintBottom_toBottomOf="@+id/imageView5"
+                app:layout_constraintEnd_toEndOf="@+id/etv_addmenu_inputName"
+                app:layout_constraintStart_toEndOf="@+id/imageView5"
+                app:layout_constraintTop_toTopOf="@+id/imageView5" />
+
+            <EditText
+                android:id="@+id/etv_addmenu_inputInfo3"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:background="@drawable/border"
+                android:ems="10"
+                android:gravity="center"
+                android:hint="ex) 10분 이내"
+                android:inputType="textPersonName"
+                android:textColor="@color/black"
+                android:textColorHint="#ADDFF6"
+                android:textSize="12sp"
+                app:layout_constraintBottom_toBottomOf="@+id/imageView7"
+                app:layout_constraintEnd_toEndOf="@+id/etv_addmenu_inputInfo1"
+                app:layout_constraintStart_toStartOf="@+id/etv_addmenu_inputInfo1"
+                app:layout_constraintTop_toTopOf="@+id/imageView7" />
+
+            <EditText
+                android:id="@+id/etv_addmenu_inputInfo2"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:background="@drawable/border"
+                android:ems="10"
+                android:gravity="center"
+                android:hint="ex) 초보 가능"
+                android:inputType="textPersonName"
+                android:textColor="@color/black"
+                android:textColorHint="#ADDFF6"
+                android:textSize="12sp"
+                app:layout_constraintBottom_toBottomOf="@+id/imageView4"
+                app:layout_constraintEnd_toEndOf="@+id/etv_addmenu_inputInfo3"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="@+id/etv_addmenu_inputInfo3"
+                app:layout_constraintTop_toTopOf="@+id/imageView4" />
+
+            <TextView
+                android:id="@+id/tv_addIngre_unit"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="단위"
+                android:textColor="@color/black"
+                android:textSize="15sp"
+                app:layout_constraintEnd_toEndOf="@+id/rec_addIngre"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toEndOf="@+id/tv_addIngre_count"
+                app:layout_constraintTop_toTopOf="@+id/tv_addIngre_count" />
+
+            <TextView
+                android:id="@+id/tv_addIngre_count"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="개수"
+                android:textColor="@color/black"
+                android:textSize="15sp"
+                app:layout_constraintEnd_toStartOf="@+id/tv_addIngre_unit"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toEndOf="@+id/tv_addIngre_name"
+                app:layout_constraintTop_toTopOf="@+id/tv_addIngre_name" />
+
+            <TextView
+                android:id="@+id/tv_addIngre_name"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:gravity="center"
+                android:text="이름"
+                android:textColor="@color/black"
+                android:textSize="15sp"
+                app:layout_constraintEnd_toStartOf="@+id/tv_addIngre_count"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toEndOf="@+id/textView3"
+                app:layout_constraintTop_toBottomOf="@+id/tv_addmenu_ingre" />
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="40dp"
+                android:layout_height="19dp"
+                android:text="TextView"
+                app:layout_constraintEnd_toStartOf="@+id/tv_addIngre_name"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toStartOf="@+id/rec_addIngre"
+                app:layout_constraintTop_toTopOf="@+id/tv_addIngre_name" />
+
+            <View
+                android:id="@+id/view8"
+                android:layout_width="0dp"
+                android:layout_height="2dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="30dp"
+                android:layout_marginEnd="20dp"
+                android:layout_marginRight="20dp"
+                android:background="@drawable/line"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/rec_addIngre" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="98dp"
+                android:layout_height="30dp"
+                android:background="@drawable/border"
+                android:gravity="right|center_vertical"
+                android:paddingRight="5dp"
+                android:text="이미지 변경"
+                android:textColor="@color/black"
+                app:layout_constraintBottom_toBottomOf="@+id/btn_add_MenuImg"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.507"
+                app:layout_constraintStart_toStartOf="@+id/btn_add_MenuImg"
+                app:layout_constraintTop_toTopOf="@+id/btn_add_MenuImg" />
+
+            <com.google.android.material.floatingactionbutton.FloatingActionButton
                 android:id="@+id/btn_register"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginBottom="10dp"
-                android:background="#B9F1F8"
-                android:text="등록하기"
-                android:textColor="@color/black"
+                android:layout_marginEnd="55dp"
+                android:layout_marginRight="55dp"
+                android:layout_marginBottom="15dp"
+                android:background="@android:color/holo_orange_light"
+                android:clickable="true"
+                app:backgroundTint="@android:color/holo_orange_light"
                 app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="@+id/textView5"
+                app:srcCompat="@drawable/send" />
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="100dp"
+                android:layout_height="0dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginBottom="10dp"
+                android:background="@drawable/border"
+                android:gravity="right|center_vertical"
+                android:paddingRight="10dp"
+                android:text="업로드"
+                android:textColor="@color/black"
+                app:layout_constraintBottom_toBottomOf="@+id/btn_register"
                 app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintStart_toStartOf="parent" />
+                app:layout_constraintTop_toTopOf="@+id/btn_register" />
+
 
         </androidx.constraintlayout.widget.ConstraintLayout>
 

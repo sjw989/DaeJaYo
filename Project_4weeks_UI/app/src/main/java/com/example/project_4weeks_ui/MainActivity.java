@@ -1,5 +1,6 @@
 package com.example.project_4weeks_ui;
 
+import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Context;
@@ -11,8 +12,11 @@ import android.location.LocationListener;
 import android.location.LocationManager;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.Button;
+import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.android.volley.AuthFailureError;
 
@@ -21,52 +25,78 @@ import com.android.volley.RequestQueue;
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.StringRequest;
 import com.android.volley.toolbox.Volley;
+import com.google.firebase.database.DataSnapshot;
+import com.google.firebase.database.DatabaseError;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
+import com.google.firebase.database.ValueEventListener;
 import com.google.gson.Gson;
 import com.yanzhenjie.permission.Action;
 import com.yanzhenjie.permission.AndPermission;
 import com.yanzhenjie.permission.runtime.Permission;
 
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Locale;
 import java.util.Map;
 
 public class MainActivity extends AppCompatActivity {
-    String lon ; // 경도
-    String lat ; // 위도
-    String address ; // 주소
+    public static ArrayList<Menu> search_menu = new ArrayList<>(); // 키워드로 검색된 메뉴들
+    public static String search_word; // 검색어
     public static String selected_category_KR; // 선택된카테고리 한글
     public static String selected_category_ENG; // 선택된카테고리 영어
     // 한글과 영어 구분한 이유는 db에서 한글로 받아올 수 없어서 영어 이름도 넘겨줘야함
 
-    TextView tv_temperature; // 온도출력 텍스트뷰
-    TextView tv_location; // 주소출력 텍스트뷰
-
-    public static Context context_MainActivity; // selected_category 넘겨주기 위한 context 선언
-    static RequestQueue requestQueue;
-
-
-
-
-
-
-
-
-
-
+    private FirebaseDatabase database;
+    private DatabaseReference databaseReference;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        startLocationService(); // 위도 경도 받아오기
-        get_weatherAPI(); // 날씨 받아오기
 
-        context_MainActivity = this; // selected_category 넘겨주기 위한 context
-        tv_location = findViewById(R.id.tv_location);
-        tv_temperature = findViewById(R.id.tv_temperature);
+        // 검색기능
+        EditText etv_searching_word = (EditText) findViewById(R.id.etv_enter_searchingWord);
+        ImageButton btn_search = (ImageButton) findViewById(R.id.btn_search); // 검색버튼
+        btn_search.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                search_word = etv_searching_word.getText().toString(); // 검색한 단어
+                database = FirebaseDatabase.getInstance();
+                databaseReference = database.getReference();
+                databaseReference.addListenerForSingleValueEvent(new ValueEventListener() {
+                    @Override
+                    public void onDataChange(DataSnapshot snapshot) {
+                        search_menu.clear();
+                        for (DataSnapshot categorySnapshot : snapshot.getChildren()) {
+                            for (DataSnapshot menuSnapshot : categorySnapshot.getChildren()) {
+                                String name = menuSnapshot.child("name").getValue().toString();
+                                if (name.contains(search_word)) {
+                                    Menu menu = new Menu();
+                                    menu.set_name(menuSnapshot.child("name").getValue().toString());
+                                    menu.set_img_URL(menuSnapshot.child("img").getValue().toString());
+                                    menu.set_info1(menuSnapshot.child("info").child("info1").getValue().toString());
+                                    menu.set_info2(menuSnapshot.child("info").child("info2").getValue().toString());
+                                    menu.set_info3(menuSnapshot.child("info").child("info3").getValue().toString());
+                                    search_menu.add(menu);
+                                }
+                            }
+                        }
+                        Intent intent = new Intent(getApplicationContext(), SearchActivity.class);
+                        startActivity(intent);
+                    }
 
+                    @Override
+                    public void onCancelled(@NonNull DatabaseError error) {
+                        Toast.makeText(getApplicationContext(), "검색 실패!!", Toast.LENGTH_SHORT).show();
+                    }
+                });
+            }
+        });
+
+        // 카테고리 선택 버튼
         ImageButton button_noodle = findViewById(R.id.ib_noodle);
         ImageButton button_bowl = findViewById(R.id.ib_bowl);
         ImageButton button_maindish = findViewById(R.id.ib_maindish);
@@ -85,7 +115,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 selected_category_KR = (String) tv_noodle.getText();
                 selected_category_ENG = "noodle";
-                Intent intent = new Intent(getApplicationContext(), select_menu.class);
+                Intent intent = new Intent(getApplicationContext(), SelectMenuActivity.class);
                 startActivity(intent);
             }
         });
@@ -94,7 +124,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 selected_category_KR = (String) tv_bowl.getText();
                 selected_category_ENG = "bowl";
-                Intent intent = new Intent(getApplicationContext(), select_menu.class);
+                Intent intent = new Intent(getApplicationContext(), SelectMenuActivity.class);
                 startActivity(intent);
             }
         });
@@ -103,7 +133,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 selected_category_KR = (String) tv_maindish.getText();
                 selected_category_ENG = "maindish";
-                Intent intent = new Intent(getApplicationContext(), select_menu.class);
+                Intent intent = new Intent(getApplicationContext(), SelectMenuActivity.class);
                 startActivity(intent);
             }
         });
@@ -112,7 +142,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 selected_category_KR = (String) tv_rice.getText();
                 selected_category_ENG = "rice";
-                Intent intent = new Intent(getApplicationContext(), select_menu.class);
+                Intent intent = new Intent(getApplicationContext(), SelectMenuActivity.class);
                 startActivity(intent);
             }
         });
@@ -121,7 +151,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 selected_category_KR = (String) tv_bread.getText();
                 selected_category_ENG = "bread";
-                Intent intent = new Intent(getApplicationContext(), select_menu.class);
+                Intent intent = new Intent(getApplicationContext(), SelectMenuActivity.class);
                 startActivity(intent);
             }
         });
@@ -130,115 +160,10 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 selected_category_KR = (String) tv_alcohol.getText();
                 selected_category_ENG = "alcohol";
-                Intent intent = new Intent(getApplicationContext(), select_menu.class);
+                Intent intent = new Intent(getApplicationContext(), SelectMenuActivity.class);
                 startActivity(intent);
             }
         });
-
-        // 자동 위험권한 받아오기
-        AndPermission.with(this)
-                .runtime()
-                .permission(
-                        Permission.ACCESS_COARSE_LOCATION,
-                        Permission.ACCESS_FINE_LOCATION)
-                .onGranted(new Action<List<String>>() {
-                    @Override
-                    public void onAction(List<String> permissions) {
-                    }
-                })
-                .onDenied(new Action<List<String>>() {
-                    @Override
-                    public void onAction(List<String> permissions) {
-                    }
-                })
-                .start();
-        /* end of 자동 위험권한 받아오기 */
-    }
-    
-    public void get_weatherAPI(){
-        //날씨 받아오기
-        if(requestQueue == null){
-            requestQueue = Volley.newRequestQueue(getApplicationContext());
-            makeRequest();
-        }// 날씨 end
-
-    }
-
-    public void startLocationService(){
-        LocationManager manager = (LocationManager) getSystemService(Context.LOCATION_SERVICE);
-        try{
-            Location location = manager.getLastKnownLocation(LocationManager.GPS_PROVIDER);
-            if(location != null){
-                lat = Double.toString(location.getLatitude());
-                lon = Double.toString(location.getLongitude());
-            }
-            GPSListener gpsListener = new GPSListener();
-            long minTime = 10000;
-            float minDistance = 0;
-            manager.requestLocationUpdates(LocationManager.GPS_PROVIDER, minTime, minDistance, gpsListener);
-            Geocoder gCoder = new Geocoder(getApplicationContext(), Locale.KOREAN);
-            StringBuilder sb = new StringBuilder();
-            try{
-                List<Address> addr = gCoder.getFromLocation(Double.parseDouble(lat),Double.parseDouble(lon),1);;
-                Address a = addr.get(0);
-                for(int i = 0 ; i <= a.getMaxAddressLineIndex(); i++){
-                    sb.append(a.getAddressLine(i));
-                }
-                address = sb.toString();
-                String[] arr = address.split( " ");
-                address = arr[1] + " " + arr[2] + " " + arr[3];
-                // arr[1] 시, arr[2] 구, arr[3] 동
-            }
-            catch(IOException e){
-                e.printStackTrace();
-            }
-
-        }
-        catch(SecurityException e){
-            e.printStackTrace();
-        }
-    }
-
-    public void makeRequest(){
-        String url = "https://api.openweathermap.org/data/2.5/weather?lat="+lat + "&lon=" + lon + "&appid=70d0dd949829ada26da501a0cfbe0fad";
-        StringRequest request = new StringRequest(Request.Method.GET, url,
-                new com.android.volley.Response.Listener<String>() {
-                    @Override
-                    public void onResponse(String response) {
-                        processResponse(response);
-                    }
-                    public void processResponse(String response){
-                        Gson gson = new Gson();
-                        WeatherData weather = gson.fromJson(response, WeatherData.class);
-                        String temp = weather.main.temp;
-                        Double t = Math.floor(Double.parseDouble(temp)) / 10;
-                        tv_temperature.setText(Double.toString(t) + "℃");
-                        tv_location.setText(address);
-                    }
-                },
-                new com.android.volley.Response.ErrorListener() {
-                    @Override
-                    public void onErrorResponse(VolleyError error) {
-                    }
-                }
-        ){
-            protected Map<String, String> getParams() throws AuthFailureError{
-                Map<String, String> params = new HashMap<String, String>();
-                return params;
-            }
-        };
-        request.setShouldCache(false);
-        requestQueue.add(request);
-
-    }
-    class GPSListener implements LocationListener {
-        public void onLocationChanged(Location location){
-            Double latitude = location.getLatitude();
-            Double longitude = location.getLongitude();
-        }
-        public void onProviderDisabled(String provider){}
-        public void onProviderEnabled(String provider){}
-        public void onStatus(String provider, int status, Bundle extras){}
     }
 
 }
