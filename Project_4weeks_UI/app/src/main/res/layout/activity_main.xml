@@ -73,7 +73,9 @@
         android:layout_width="80dp"
         android:layout_height="80dp"
         android:layout_marginTop="5dp"
-        android:src="@mipmap/ic_launcher"
+        android:background="@color/white"
+        android:scaleType="centerCrop"
+        android:src="@drawable/maindish"
         app:layout_constraintBottom_toTopOf="@+id/ib_bread"
         app:layout_constraintEnd_toStartOf="@+id/ib_rice"
         app:layout_constraintHorizontal_bias="0.5"
@@ -96,13 +98,16 @@
         android:id="@+id/ib_rice"
         android:layout_width="80dp"
         android:layout_height="80dp"
+        android:background="@color/white"
+        android:scaleType="centerCrop"
+        android:src="@drawable/bowlrice"
         app:layout_constraintBottom_toBottomOf="@+id/ib_maindish"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toEndOf="@+id/ib_maindish"
         app:layout_constraintTop_toTopOf="@+id/ib_maindish"
         app:layout_constraintVertical_bias="0.0"
-        tools:src="@android:mipmap/sym_def_app_icon" />
+        tools:src="@drawable/bowlrice" />
 
     <TextView
         android:id="@+id/tv_rice"
@@ -147,7 +152,9 @@
         android:id="@+id/ib_alcohol"
         android:layout_width="80dp"
         android:layout_height="80dp"
-        android:src="@mipmap/ic_launcher_round"
+        android:background="@color/white"
+        android:scaleType="centerCrop"
+        android:src="@drawable/alcohol"
         app:layout_constraintBottom_toBottomOf="@+id/ib_bread"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
@@ -189,8 +196,8 @@
 
     <ImageView
         android:id="@+id/iv_project"
-        android:layout_width="93dp"
-        android:layout_height="35dp"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
         android:layout_marginEnd="8dp"
         android:layout_marginRight="8dp"
         android:layout_marginBottom="5dp"

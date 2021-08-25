@@ -8,6 +8,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.KeyEvent;
 import android.view.View;
+import android.widget.ImageButton;
 import android.widget.TextView;
 
 import org.w3c.dom.Text;
@@ -27,7 +28,7 @@ public class SearchActivity extends AppCompatActivity {
         setContentView(R.layout.activity_search);
 
         TextView textView = findViewById(R.id.tv_searchWord);
-        textView.setText(MainActivity.search_word);
+        textView.setText("\"" +  MainActivity.search_word +"\"" );
 
         recyclerView = findViewById(R.id.rec_searchView);
         recyclerView.setHasFixedSize(true); // recyclerView 성능강화
@@ -47,6 +48,16 @@ public class SearchActivity extends AppCompatActivity {
 
             }
         });
+
+        ImageButton btn_back = (ImageButton)findViewById(R.id.btn_back3);
+        btn_back.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                MainActivity.search_word = "";
+                finish();
+            }
+        });
+
     }
     @Override
     public boolean onKeyDown(int keyCode, KeyEvent event) {

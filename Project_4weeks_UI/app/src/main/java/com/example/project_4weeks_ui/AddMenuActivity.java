@@ -80,9 +80,11 @@ public class AddMenuActivity extends AppCompatActivity {
                     Bitmap bitmap = MediaStore.Images.Media.getBitmap(getContentResolver(), uri);
                     Toast.makeText(getApplicationContext(), "사진이 성공적으로 추가되었습니다 !", Toast.LENGTH_SHORT).show();
 
+                    /*
                     if (bitmap.getWidth() > bitmap.getHeight()) {
                         bitmap = rotate(bitmap);
                     }
+                     */
                     iv_MenuImage.setImageBitmap(bitmap);
 
                 } catch (IOException e) {
@@ -566,3 +568,4 @@ public class AddMenuActivity extends AppCompatActivity {
         }
     }
 }
+

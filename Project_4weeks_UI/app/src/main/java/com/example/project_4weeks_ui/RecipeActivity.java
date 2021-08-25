@@ -6,6 +6,9 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import android.os.Bundle;
 import android.util.Log;
+import android.view.View;
+import android.widget.Button;
+import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.TextView;
 
@@ -31,6 +34,9 @@ public class RecipeActivity extends AppCompatActivity {
         RecipeRecyclerAdapter adapter = new RecipeRecyclerAdapter();
         TextView tv_name = findViewById(R.id.tv_title_recipe);
         TextView tv_ingre = findViewById(R.id.tv_ingredient_recipe);
+        TextView tv_recipe_info1 = findViewById(R.id.tv_recipe_info1);
+        TextView tv_recipe_info2 = findViewById(R.id.tv_recipe_info2);
+        TextView tv_recipe_info3 = findViewById(R.id.tv_recipe_info3);
         mDBReference = FirebaseDatabase.getInstance().getReference().child(MainActivity.selected_category_ENG).child(SelectMenuActivity.selected_menu_num);
         mDBReference.addValueEventListener(new ValueEventListener() {
             @Override
@@ -38,19 +44,29 @@ public class RecipeActivity extends AppCompatActivity {
                 // This method is called once with the initial value and again
                 // whenever data at this location is updated.
 //                iv_title.setImageDrawable();
-                Glide.with(iv_title.getContext()).load(dataSnapshot.child("img").getValue().toString()).into(iv_title);
-                tv_name.setText(dataSnapshot.child("name").getValue().toString());;
+                Glide.with(iv_title.getContext()).load(dataSnapshot.child("img").getValue().toString()).into(iv_title); // 메뉴 사진
+                tv_name.setText(dataSnapshot.child("name").getValue().toString()); // 메뉴 이름
+
+                // 메뉴 정보
+                tv_recipe_info1.setText(dataSnapshot.child("info").child("info1").getValue().toString());
+                tv_recipe_info2.setText(dataSnapshot.child("info").child("info2").getValue().toString());
+                tv_recipe_info3.setText(dataSnapshot.child("info").child("info3").getValue().toString());
+
+
+                // 재료 정보
                 for (DataSnapshot ingreData : dataSnapshot.child("ingre").getChildren()) {
                     if(ingreData.child("ingre_name").getValue().toString()!= null){
                         ingre += ingreData.child("ingre_name").getValue().toString()+" "+ingreData.child("ingre_count").getValue().toString()
-                                +ingreData.child("ingre_unit").getValue().toString()+ "  ";
+                                +ingreData.child("ingre_unit").getValue().toString()+ "  " + "\n";
                     }
                 }
+                tv_ingre.setText(ingre);
+
+                // 레시피 정보
                 for (DataSnapshot listData : dataSnapshot.child("recipe").getChildren()) {
                     mData.add(new RecipeItem(listData.child("img").getValue().toString(),
                             listData.child("txt").getValue().toString()));
                 }
-                tv_ingre.setText("재료 : "+ ingre);
                 adapter.setmData(mData);
                 recyclerView.setAdapter(adapter);
 
@@ -66,6 +82,14 @@ public class RecipeActivity extends AppCompatActivity {
 
         recyclerView.setLayoutManager(new LinearLayoutManager(this,RecyclerView.VERTICAL,false));
 
+
+        ImageButton btn_back4 = (ImageButton) findViewById(R.id.btn_back4);
+        btn_back4.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                finish();
+            }
+        });
     }
 
     @Override
