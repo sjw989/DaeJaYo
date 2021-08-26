@@ -492,7 +492,7 @@ public class AddMenuActivity extends AppCompatActivity {
                                                             New_menu new_menu = new New_menu(menu_name, mainImage_url,Integer.toString(SelectMenuActivity.curCategory_size), info, ingredient_array, recipe_array);
                                                             // DB update
                                                             databaseRef = FirebaseDatabase.getInstance().getReference(); // database 참조 객체
-                                                            databaseRef.child(MainActivity.selected_category_ENG).child(Integer.toString(SelectMenuActivity.curCategory_size - 1)).setValue(new_menu); // child 생성
+                                                            databaseRef.child(MainActivity.selected_category_ENG).child(Integer.toString(SelectMenuActivity.curCategory_size )).setValue(new_menu); // child 생성
                                                         }
                                                     }).addOnFailureListener(new OnFailureListener() {
                                                         @Override
