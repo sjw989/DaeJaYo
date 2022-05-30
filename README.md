@@ -66,33 +66,34 @@
 <br></br>
 
 # 메뉴필터링 기능
-<div style="width: 100%; height: 200px; overflow: hidden">
-  사용자는 몇 개의 옵션으로 메뉴리스트를 필터링해서 볼 수 있습니다.
-  <p></p>
-  <table>
+
+   <div style="width: 100%; height: 200px; overflow: hidden">
+   사용자는 몇 개의 옵션으로 메뉴리스트를 필터링해서 볼 수 있습니다.
+   <p></p>
+	<table>
 		<tr>
-			<td>
+			<td>				
 				<img
-					src="https://user-images.githubusercontent.com/82700895/170934073-134e59b8-758f-4368-9c73-b89d61506a5f.png"
+				src="https://user-images.githubusercontent.com/82700895/170934073-134e59b8-758f-4368-9c73-b89d61506a5f.png"
+				width="230"
+				/>
+			</td>
+			<td>
+				<img				     
+					src="https://user-images.githubusercontent.com/82700895/171000608-3e95c352-2aa5-4ba5-a679-d37655782526.png"
 					width="230"
 				/>
 			</td>
 			<td>
-				<img
-					src="https://user-images.githubusercontent.com/82700895/170934152-c3a09fe0-dece-46eb-bf5c-17a8ce71ed83.png"
-					width="230"
-				/>
-			</td>
-      <td>
-				<img
-					src="https://user-images.githubusercontent.com/82700895/170933395-ff538f9d-563b-4dc7-8716-941581cdec8a.png"
+				<img				     
+					src="https://user-images.githubusercontent.com/82700895/171000656-1d36bfeb-87c8-4202-96c8-e14ac40c47b7.png"
 					width="230"
 				/>
 			</td>
 		</tr>
 	</table>
-
-</div>
+ </div>
+  	
 <br></br>
 
 
