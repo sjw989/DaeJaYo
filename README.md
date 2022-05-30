@@ -8,12 +8,22 @@
 - 사용자가 직접 메뉴를 추가할 수 있도록 하여 데이터베이스 확장
 - 초기 데이터베이스는 '만개의레시피' 사이트에서 '간단요리'키워드로 검색한 결과를 크롤링하여 구축
 
+<br></br>
+
 # 사용 언어 및 기술
   <h><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
    <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-7F52FF?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-00599C?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+
+<br></br>
+
+# 역할
+ - 카테고리선택 화면
+ - 메뉴선택 화면
+ - 레시피 화면
+ - 메뉴추가 기능
 
 <br></br>
 # 카테고리 선택화면
