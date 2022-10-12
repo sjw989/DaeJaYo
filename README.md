@@ -10,7 +10,7 @@
 
 <br></br>
 
-# 사용 언어 및 기술
+# 개발환경
   <h><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
    <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-7F52FF?style=flat-square&logo=Java&logoColor=white"/>
